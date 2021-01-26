@@ -1,0 +1,406 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Show_Title,Arial,24,&H00CD9612,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,8,0010,0010,0020,1
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&H8C000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: Next_Ep_Title,Times New Roman,26,&H00000000,&H000000FF,&H00DDE6EB,&H00000000,0,0,0,0,100,100,0,0,3,2,0,2,0010,0010,0110,1
+Style: sign_18332_205_Leader_of_the_Fr,Times New Roman,14,&H00FFFFFF,&H000000FF,&H50000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0153,0153,0080,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.44,0:00:05.34,Italics,Rimuru,0000,0000,0000,,The delegation from the \NAnimal Kingdom of Eurazania,
+Dialogue: 0,0:00:05.34,0:00:08.80,Italics,Rimuru,0000,0000,0000,,sent by the Demon Lord \NCarrion, arrived in Tempest.
+Dialogue: 0,0:00:09.44,0:00:13.11,Italics,Rimuru,0000,0000,0000,,But the moment they did, \Nsome things happened...
+Dialogue: 0,0:00:25.53,0:00:27.98,Italics,Rimuru,0000,0000,0000,,And this is what it devolved into.
+Dialogue: 0,0:00:29.54,0:00:34.30,Italics,Rimuru,0000,0000,0000,,I mean, it {\i0}is{\i1} kind of my fault... I guess?
+Dialogue: 0,0:00:52.57,0:00:54.32,Show_Title,Title,0000,0000,0000,,{\fad(153,1)}That {\c&H471E13&}Time {\c&HCD9612&}I Got {\c&H471E13&}Reincarnated {\c&HCD9612&}as a {\c&H7E4F0A&}Slime
+Dialogue: 0,0:02:11.65,0:02:16.36,Ep_Title,Title,0000,0000,0000,,{\fad(1441,558)\fscy110}Episode 26: {\fscx90}Trade with the Animal Kingdom
+Dialogue: 0,0:02:27.12,0:02:29.41,Main,Suphia,0000,0000,0000,,Is that all the strength a Kijin has?
+Dialogue: 0,0:02:29.41,0:02:31.75,Main,Suphia,0000,0000,0000,,You can entertain me a lot more than that!
+Dialogue: 0,0:02:31.87,0:02:33.88,Main,Shion,0000,0000,0000,,That was my intent all along.
+Dialogue: 0,0:02:40.74,0:02:41.89,Main,Shion,0000,0000,0000,,Prepare yourself!
+Dialogue: 0,0:02:44.51,0:02:45.18,Main,Ranga,0000,0000,0000,,That's...
+Dialogue: 0,0:02:45.86,0:02:47.68,Italics,Rimuru,0000,0000,0000,,A maximum Magic Bullet?!
+Dialogue: 0,0:02:47.68,0:02:50.05,Main,Rimuru,0000,0000,0000,,H-Hey, Shion, hang on a second!
+Dialogue: 0,0:02:50.05,0:02:52.19,Main,Rimuru,0000,0000,0000,,Do you wanna blow this \Nentire area to bits?!
+Dialogue: 0,0:02:53.76,0:02:55.69,Italics,Rimuru,0000,0000,0000,,Oh, jeez! She's not listening!
+Dialogue: 0,0:02:55.86,0:02:58.20,Main,Suphia,0000,0000,0000,,Ooh, nice! Bring it on!
+Dialogue: 0,0:02:58.20,0:03:01.46,Italics,Rimuru,0000,0000,0000,,And that Suphia lady is \Ndead set on taking it!
+Dialogue: 0,0:03:01.46,0:03:04.51,Italics,Rimuru,0000,0000,0000,,Will there even be anything left \Nof her if that thing hits her?!
+Dialogue: 0,0:03:05.42,0:03:07.26,Italics,Rimuru,0000,0000,0000,,What do I do? Stop her?
+Dialogue: 0,0:03:09.23,0:03:10.16,Main,Shion,0000,0000,0000,,Here it comes!
+Dialogue: 0,0:03:10.32,0:03:11.00,Main,Albis,0000,0000,0000,,Stop!
+Dialogue: 0,0:03:16.22,0:03:17.86,Main,Albis,0000,0000,0000,,That is enough.
+Dialogue: 0,0:03:22.34,0:03:24.09,Italics,Rimuru,0000,0000,0000,,Beast transformation, huh?
+Dialogue: 0,0:03:25.03,0:03:26.85,Main,Albis,0000,0000,0000,,Let us end this here.
+Dialogue: 0,0:03:28.48,0:03:31.46,Main,Rimuru,0000,0000,0000,,So what's the verdict? Do we pass?
+Dialogue: 0,0:03:32.11,0:03:33.10,Main,Albis,0000,0000,0000,,Yes.
+Dialogue: 0,0:03:34.10,0:03:35.22,Main,Grucius,0000,0000,0000,,We're done here.
+Dialogue: 0,0:03:35.22,0:03:36.15,Main,Youm,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:36.15,0:03:38.62,Main,Youm,0000,0000,0000,,Er, Master, does this mean...
+Dialogue: 0,0:03:38.62,0:03:41.61,Main,Rimuru,0000,0000,0000,,It looks like they were testing us.
+Dialogue: 0,0:03:43.04,0:03:45.63,Main,Suphia,0000,0000,0000,,No complaints here. \NYour might is impressive.
+Dialogue: 0,0:03:45.63,0:03:49.19,Main,Suphia,0000,0000,0000,,There'll be plenty of value for us \Nin associating with you as equals.
+Dialogue: 0,0:03:49.19,0:03:50.79,Main,Suphia,0000,0000,0000,,I'm convinced of that now.
+Dialogue: 0,0:03:51.34,0:03:53.55,Main,Suphia,0000,0000,0000,,To underestimate the leader of \Nthe Jura Tempest Federation,
+Dialogue: 0,0:03:53.55,0:03:56.49,Main,Suphia,0000,0000,0000,,Rimuru Tempest, and his companions
+Dialogue: 0,0:03:56.49,0:03:59.03,Main,Suphia,0000,0000,0000,,should be considered an \Ninsult to Lord Carrion!
+Dialogue: 0,0:03:59.03,0:03:59.99,Main,Suphia,0000,0000,0000,,Got it?
+Dialogue: 0,0:03:59.99,0:04:00.55,Main,All,0000,0000,0000,,Yes, ma'am!
+Dialogue: 0,0:04:00.78,0:04:02.62,Main,Grucius,0000,0000,0000,,Lady Suphia is right.
+Dialogue: 0,0:04:02.62,0:04:06.10,Main,Grucius,0000,0000,0000,,There aren't many humans who \Ncan keep up with me so well.
+Dialogue: 0,0:04:07.31,0:04:08.39,Main,Youm,0000,0000,0000,,Glad to hear that.
+Dialogue: 0,0:04:12.53,0:04:15.56,Main,Rimuru,0000,0000,0000,,They had me worried, and so \Nsoon after they arrived here...
+Dialogue: 0,0:04:15.56,0:04:17.81,Main,Shuna,0000,0000,0000,,I'm glad it all worked out nicely.
+Dialogue: 0,0:04:17.81,0:04:20.03,Main,Rimuru,0000,0000,0000,,Shion, you get it now, right?
+Dialogue: 0,0:04:21.04,0:04:22.18,Main,Rimuru,0000,0000,0000,,Shion?
+Dialogue: 0,0:04:23.19,0:04:24.27,Main,Shion,0000,0000,0000,,Um...
+Dialogue: 0,0:04:24.82,0:04:26.34,Main,Shion,0000,0000,0000,,What do I do with this?
+Dialogue: 0,0:04:26.34,0:04:28.46,Main,Rimuru,0000,0000,0000,,Crap! It's about to blow!
+Dialogue: 0,0:04:28.46,0:04:29.83,Main,Rimuru,0000,0000,0000,,C-Can't you get rid of it?!
+Dialogue: 0,0:04:30.15,0:04:33.29,Main,Shion,0000,0000,0000,,No, I can't! My energy is at its limit!
+Dialogue: 0,0:04:36.06,0:04:37.38,Main,Souei,0000,0000,0000,,Great Rimuru, we must take shelter.
+Dialogue: 0,0:04:37.70,0:04:39.11,Main,Suphia,0000,0000,0000,,J-Just calm down!
+Dialogue: 0,0:04:39.11,0:04:42.42,Main,Suphia,0000,0000,0000,,Gently... Gently aim that thing upward!
+Dialogue: 0,0:04:42.61,0:04:44.24,Main,Shion,0000,0000,0000,,U-Upward?
+Dialogue: 0,0:04:45.28,0:04:47.59,Main,Suphia,0000,0000,0000,,Force it if you have to! Just do it!
+Dialogue: 0,0:04:48.38,0:04:49.68,Main,Shion,0000,0000,0000,,I-I don't think I can!
+Dialogue: 0,0:04:50.07,0:04:53.28,Main,Rimuru,0000,0000,0000,,Honestly, Shion, you're hopeless.
+Dialogue: 0,0:04:58.12,0:04:59.94,Main,Rimuru,0000,0000,0000,,Shion, fire it at me!
+Dialogue: 0,0:05:00.50,0:05:01.44,Main,Rimuru,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:05:02.61,0:05:03.44,Main,Shion,0000,0000,0000,,But...
+Dialogue: 0,0:05:04.12,0:05:05.51,Main,Rimuru,0000,0000,0000,,Trust me!
+Dialogue: 0,0:05:06.09,0:05:08.70,Main,Shion,0000,0000,0000,,O-Okay! Here it comes!
+Dialogue: 0,0:05:12.92,0:05:13.62,Main,Rimuru,0000,0000,0000,,Gluttony!
+Dialogue: 0,0:05:24.50,0:05:25.63,Main,Rimuru,0000,0000,0000,,There, all done.
+Dialogue: 0,0:05:29.00,0:05:29.89,Main,Albis,0000,0000,0000,,It can't be...
+Dialogue: 0,0:05:30.70,0:05:31.76,Main,Youm,0000,0000,0000,,Are you kidding me?
+Dialogue: 0,0:05:34.05,0:05:37.02,Main,Ranga,0000,0000,0000,,That much is only natural \Nto expect from my master.
+Dialogue: 0,0:05:40.00,0:05:41.52,Main,Shuna,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:05:42.57,0:05:45.72,Main,Albis,0000,0000,0000,,I can see why Lord Carrion approves of you.
+Dialogue: 0,0:05:46.55,0:05:50.28,Main,Albis,0000,0000,0000,,We are grateful that our nation has \Nestablished relations with yours.
+Dialogue: 0,0:05:50.57,0:05:51.86,Main,Rimuru,0000,0000,0000,,Likewise.
+Dialogue: 0,0:05:51.86,0:05:53.57,Main,Rimuru,0000,0000,0000,,Welcome to Tempest!
+Dialogue: 0,0:05:55.23,0:06:00.01,Italics,Rimuru,0000,0000,0000,,Thus we welcomed the \Ndelegation from Eurazania.
+Dialogue: 0,0:06:03.41,0:06:04.42,Italics,Rimuru,0000,0000,0000,,That night,
+Dialogue: 0,0:06:05.02,0:06:09.97,Italics,Rimuru,0000,0000,0000,,a little welcome party was held in the \Nreception hall we had just completed.
+Dialogue: 0,0:06:16.66,0:06:17.64,Main,Grucius,0000,0000,0000,,This is good!
+Dialogue: 0,0:06:17.64,0:06:19.50,Main,Beast A,0000,0000,0000,,The flavoring is fantastic.
+Dialogue: 0,0:06:19.50,0:06:20.94,Main,Beast B,0000,0000,0000,,It's just salty enough, too.
+Dialogue: 0,0:06:21.47,0:06:23.14,Main,Beast B,0000,0000,0000,,I could eat this forever!
+Dialogue: 0,0:06:23.14,0:06:24.28,Main,Beast B,0000,0000,0000,,Delicious!
+Dialogue: 0,0:06:32.47,0:06:33.70,Main,Albis,0000,0000,0000,,What bliss.
+Dialogue: 0,0:06:34.12,0:06:35.49,Main,Shuna,0000,0000,0000,,She's quite the drinker.
+Dialogue: 0,0:06:35.49,0:06:39.04,Main,Rimuru,0000,0000,0000,,Who the heck gave her entire barrels?
+Dialogue: 0,0:06:39.04,0:06:40.79,Main,Rimuru,0000,0000,0000,,And over here...
+Dialogue: 0,0:06:46.60,0:06:50.64,Main,Rimuru,0000,0000,0000,,Hey, are you sure you should let \Nstrangers see you doing that?
+Dialogue: 0,0:06:50.64,0:06:53.46,Main,Albis,0000,0000,0000,,It isn't particularly a secret.
+Dialogue: 0,0:06:53.46,0:06:54.72,Main,Rimuru,0000,0000,0000,,R-Really?
+Dialogue: 0,0:06:54.90,0:06:56.21,Main,Albis,0000,0000,0000,,But...
+Dialogue: 0,0:06:56.21,0:06:59.73,Main,Albis,0000,0000,0000,,it is a side I only show to those I trust.
+Dialogue: 0,0:06:59.89,0:07:02.75,Main,Rimuru,0000,0000,0000,,I see. Well, okay, then.
+Dialogue: 0,0:07:03.15,0:07:04.23,Main,Rimuru,0000,0000,0000,,Still, though...
+Dialogue: 0,0:07:06.09,0:07:09.82,Main,Rimuru,0000,0000,0000,,I can't believe you drank all \Nof the apple brandy alone.
+Dialogue: 0,0:07:10.18,0:07:11.44,Main,Albis,0000,0000,0000,,All of it?
+Dialogue: 0,0:07:11.90,0:07:14.11,Main,Albis,0000,0000,0000,,You don't make very much?
+Dialogue: 0,0:07:14.11,0:07:16.92,Main,Rimuru,0000,0000,0000,,Oh, sorry. Don't worry about it.
+Dialogue: 0,0:07:16.92,0:07:20.17,Main,Rimuru,0000,0000,0000,,Of course, it's something we \Nmake specially for guests,
+Dialogue: 0,0:07:20.17,0:07:22.55,Main,Rimuru,0000,0000,0000,,but we rely on the bounty \Nof the forest for our fruit,
+Dialogue: 0,0:07:22.55,0:07:24.21,Main,Rimuru,0000,0000,0000,,so we can't pick very much.
+Dialogue: 0,0:07:26.36,0:07:28.71,Main,Albis,0000,0000,0000,,In that case, I have a good idea.
+Dialogue: 0,0:07:30.39,0:07:33.91,Main,Albis,0000,0000,0000,,Fruit is abundant in Eurazania.
+Dialogue: 0,0:07:33.91,0:07:36.51,Main,Albis,0000,0000,0000,,I can arrange to have some sent here.
+Dialogue: 0,0:07:36.74,0:07:38.27,Main,Rimuru,0000,0000,0000,,What? Really?
+Dialogue: 0,0:07:38.61,0:07:39.52,Main,Albis,0000,0000,0000,,Of course.
+Dialogue: 0,0:07:39.80,0:07:42.14,Main,Shuna,0000,0000,0000,,Isn't that wonderful, Great Rimuru?
+Dialogue: 0,0:07:42.14,0:07:43.12,Main,Rimuru,0000,0000,0000,,Yeah!
+Dialogue: 0,0:07:48.24,0:07:49.44,Main,Rimuru,0000,0000,0000,,I see.
+Dialogue: 0,0:07:49.78,0:07:52.91,Main,Rimuru,0000,0000,0000,,That's a "so give us your \Ncountry's booze," isn't it?
+Dialogue: 0,0:07:54.70,0:07:55.87,Main,Rimuru,0000,0000,0000,,In what ratio?
+Dialogue: 0,0:07:56.28,0:07:58.44,Main,Suphia,0000,0000,0000,,We'll trust you to work out the details.
+Dialogue: 0,0:07:58.44,0:08:01.04,Main,Suphia,0000,0000,0000,,I'm happy as long as I can drink good liquor.
+Dialogue: 0,0:08:01.04,0:08:05.47,Main,Suphia,0000,0000,0000,,Eurazania's fruit is top-quality, \Nso you can expect the best!
+Dialogue: 0,0:08:07.88,0:08:08.76,Italics,Rimuru,0000,0000,0000,,Hmm...
+Dialogue: 0,0:08:09.42,0:08:12.04,Italics,Rimuru,0000,0000,0000,,Leaving the mundane stuff to us, huh?
+Dialogue: 0,0:08:12.04,0:08:15.71,Italics,Rimuru,0000,0000,0000,,How much would make it an equal trade?
+Dialogue: 0,0:08:19.19,0:08:21.73,Italics,Rimuru,0000,0000,0000,,Okay. I'll let a specialist handle this.
+Dialogue: 0,0:08:21.92,0:08:22.84,Main,Rimuru,0000,0000,0000,,Shuna!
+Dialogue: 0,0:08:22.84,0:08:24.23,Main,Shuna,0000,0000,0000,,Yes, Great Rimuru?
+Dialogue: 0,0:08:24.74,0:08:26.42,Main,Rimuru,0000,0000,0000,,Go get Koby for me.
+Dialogue: 0,0:08:29.57,0:08:31.57,Main,Rimuru,0000,0000,0000,,He's a Kobold merchant.
+Dialogue: 0,0:08:29.73,0:08:36.24,sign_18332_205_Leader_of_the_Fr,Text,0000,0000,0000,,{\fad(529,1)\fs16\pos(363,290)}Kobold Merchant  {\fs30}Koby
+Dialogue: 0,0:08:31.57,0:08:33.66,Main,Rimuru,0000,0000,0000,,He's running a shop in Tempest now,
+Dialogue: 0,0:08:33.66,0:08:36.24,Main,Rimuru,0000,0000,0000,,and he manages all of our merchants.
+Dialogue: 0,0:08:36.46,0:08:39.13,Main,Koby,0000,0000,0000,,G-Great Rimuru, what is this about?
+Dialogue: 0,0:08:39.13,0:08:41.92,Main,Rimuru,0000,0000,0000,,This is Koby-chan. \NHe represents all our merchants.
+Dialogue: 0,0:08:41.92,0:08:44.62,Main,Rimuru,0000,0000,0000,,He's also done business \Nin Demon Lord domains,
+Dialogue: 0,0:08:44.62,0:08:46.83,Main,Rimuru,0000,0000,0000,,so I'm putting him in charge of our trade.
+Dialogue: 0,0:08:46.83,0:08:47.67,Main,Koby,0000,0000,0000,,Huh?!
+Dialogue: 0,0:08:47.67,0:08:50.07,Main,Rimuru,0000,0000,0000,,These folks are from the Animal Kingdom.
+Dialogue: 0,0:08:50.07,0:08:53.42,Main,Rimuru,0000,0000,0000,,If there's anything besides the liquor \Nthat you're interested in, negotiate away.
+Dialogue: 0,0:08:53.42,0:08:57.36,Main,Koby,0000,0000,0000,,Wait, wait, wait! Weaker races aren't \Nallowed in the Animal Kingdom!
+Dialogue: 0,0:08:58.04,0:09:00.64,Main,Suphia,0000,0000,0000,,We'll make sure to get you \Nclearance. Don't be shy.
+Dialogue: 0,0:09:00.64,0:09:03.18,Main,Albis,0000,0000,0000,,And we will inform Lord Carrion in advance.
+Dialogue: 0,0:09:03.42,0:09:05.95,Main,Rimuru,0000,0000,0000,,You're not all that different \Nfrom the Lycanthropes.
+Dialogue: 0,0:09:05.95,0:09:06.98,Main,Rimuru,0000,0000,0000,,You'll get on fine.
+Dialogue: 0,0:09:06.98,0:09:08.48,Main,Koby,0000,0000,0000,,What?!
+Dialogue: 0,0:09:08.77,0:09:10.58,Main,Rimuru,0000,0000,0000,,So it's settled. Thanks!
+Dialogue: 0,0:09:11.54,0:09:14.74,Main,Koby,0000,0000,0000,,Um, er... All right...
+Dialogue: 0,0:09:16.21,0:09:19.61,Main,Rimuru,0000,0000,0000,,Well, I'll leave you young folks to it, then.
+Dialogue: 0,0:09:19.61,0:09:20.99,Main,Shuna,0000,0000,0000,,Please excuse us.
+Dialogue: 0,0:09:22.60,0:09:24.75,Main,Koby,0000,0000,0000,,Huh?! Wha... Wait!
+Dialogue: 0,0:09:26.50,0:09:28.00,Main,Koby,0000,0000,0000,,Great Rimuru!
+Dialogue: 0,0:09:30.55,0:09:33.17,Main,Rimuru,0000,0000,0000,,We can rest easy with Koby-chan handling it.
+Dialogue: 0,0:09:33.17,0:09:34.76,Main,Shuna,0000,0000,0000,,Yes, you're right.
+Dialogue: 0,0:09:35.09,0:09:39.67,Main,Rimuru,0000,0000,0000,,Negotiations always go more \Nsmoothly over drinks, too.
+Dialogue: 0,0:09:41.16,0:09:44.36,Italics,Rimuru,0000,0000,0000,,And so the night wore on.
+Dialogue: 0,0:09:45.21,0:09:49.22,Italics,Rimuru,0000,0000,0000,,Not a bad start to our \Nrelations with foreign lands!
+Dialogue: 0,0:09:53.45,0:09:58.24,Italics,Rimuru,0000,0000,0000,,A few days later, Albis and \NSuphia returned to Eurazania.
+Dialogue: 0,0:10:01.01,0:10:03.20,Italics,Rimuru,0000,0000,0000,,Our nations plan to share \Nour skills, as well.
+Dialogue: 0,0:10:03.53,0:10:07.83,Italics,Rimuru,0000,0000,0000,,These folks stayed behind in Tempest \Nto learn some of our techniques.
+Dialogue: 0,0:10:09.58,0:10:11.73,Italics,Rimuru,0000,0000,0000,,They're all diligent and good-natured.
+Dialogue: 0,0:10:16.63,0:10:20.83,Main,Beast,0000,0000,0000,,How do you get hot water to come out \Nof this thing you call a "faucet"?
+Dialogue: 0,0:10:20.83,0:10:23.06,Main,Beast,0000,0000,0000,,You don't seem to be boiling it anywhere.
+Dialogue: 0,0:10:23.34,0:10:25.31,Main,Dord,0000,0000,0000,,It's rune magic.
+Dialogue: 0,0:10:25.31,0:10:26.81,Main,Beast,0000,0000,0000,,Rune magic?
+Dialogue: 0,0:10:26.81,0:10:28.14,Main,Beast,0000,0000,0000,,Where are the runes?
+Dialogue: 0,0:10:30.39,0:10:35.88,Main,Dord,0000,0000,0000,,There's a magicrystal with a heat magic \Nrune on it built into the handle.
+Dialogue: 0,0:10:36.40,0:10:37.58,Main,Beast,0000,0000,0000,,I see!
+Dialogue: 0,0:10:37.58,0:10:41.62,Main,Beast,0000,0000,0000,,So if anyone with magic turns \Nit, the water is heated!
+Dialogue: 0,0:10:41.62,0:10:43.33,Main,Beast,0000,0000,0000,,Dwarf artisans really know their stuff!
+Dialogue: 0,0:10:44.29,0:10:46.33,Main,Dord,0000,0000,0000,,Aw, this isn't such a big deal.
+Dialogue: 0,0:10:46.75,0:10:49.83,Italics,Dord,0000,0000,0000,,Plus it was actually Rimuru's idea...
+Dialogue: 0,0:10:49.83,0:10:51.33,Main,Text,0000,0000,0000,,{\an4\fs12\shad0\c&HAC9344&\3c&HFBFFFD&\pos(277.333,297.333)}To be precise, it was Great Sage's idea.
+Dialogue: 0,0:10:53.84,0:10:57.37,Main,Youm,0000,0000,0000,,You're not gonna observe the artisans \Nlike the rest of your people?
+Dialogue: 0,0:10:57.37,0:10:58.80,Main,Grucius,0000,0000,0000,,Nah, not me.
+Dialogue: 0,0:10:58.97,0:11:01.64,Main,Grucius,0000,0000,0000,,Sir Phobio, the Black Leopard Fang, \Nwho's in confinement now,
+Dialogue: 0,0:11:01.64,0:11:04.97,Main,Grucius,0000,0000,0000,,ordered me to be useful to Great Rimuru.
+Dialogue: 0,0:11:05.19,0:11:07.81,Main,Youm,0000,0000,0000,,That's why you're hanging \Nout with the town guard?
+Dialogue: 0,0:11:07.81,0:11:09.41,Main,Grucius,0000,0000,0000,,That's right.
+Dialogue: 0,0:11:09.41,0:11:11.23,Main,Gobta,0000,0000,0000,,Hey, Grucius!
+Dialogue: 0,0:11:11.23,0:11:12.96,Main,Gobta,0000,0000,0000,,We're going on patrol.
+Dialogue: 0,0:11:12.96,0:11:13.84,Main,Grucius,0000,0000,0000,,Got it.
+Dialogue: 0,0:11:14.41,0:11:15.11,Main,Grucius,0000,0000,0000,,Later.
+Dialogue: 0,0:11:18.61,0:11:20.76,Main,Youm,0000,0000,0000,,Well, guess I'll hop in \Nthe bath or something...
+Dialogue: 0,0:11:22.75,0:11:25.84,Main,Hakurou,0000,0000,0000,,You will train with the sword.
+Dialogue: 0,0:11:25.84,0:11:26.74,Main,Youm,0000,0000,0000,,Yes, sir.
+Dialogue: 0,0:11:32.62,0:11:37.17,Main,Tiss,0000,0000,0000,,For dividing fractions, looking \Nat it this way is a bit difficult,
+Dialogue: 0,0:11:37.17,0:11:39.58,Main,Tiss,0000,0000,0000,,so we'll try converting them \Nto multiplication problems.
+Dialogue: 0,0:11:40.13,0:11:42.52,Main,Tiss,0000,0000,0000,,{\an8}To convert division problems \Nto multiplication problems,
+Dialogue: 0,0:11:42.52,0:11:45.18,Italics,Rimuru,0000,0000,0000,,They're still studying even without me here.
+Dialogue: 0,0:11:43.24,0:11:46.45,Main,Tiss,0000,0000,0000,,{\an8}you swap the numerator and \Ndenominator on the right side.
+Dialogue: 0,0:11:46.95,0:11:49.47,Main,Tiss,0000,0000,0000,,{\an8}We call this the inverse.
+Dialogue: 0,0:11:49.47,0:11:53.56,Main,Tiss,0000,0000,0000,,{\an8}When you multiply the inverse with the \Noriginal number, the answer is always...
+Dialogue: 0,0:11:54.35,0:11:56.90,Italics,Rimuru,0000,0000,0000,,Then a few more days passed...
+Dialogue: 0,0:11:57.47,0:12:01.90,Italics,Rimuru,0000,0000,0000,,and Youm's gang set out to further \Nspread their reputation as champions.
+Dialogue: 0,0:12:02.37,0:12:06.15,Italics,Rimuru,0000,0000,0000,,They just missed the return of \Nour delegation led by Benimaru.
+Dialogue: 0,0:12:08.01,0:12:10.91,Main,Benimaru,0000,0000,0000,,Eurazania's knights are as \Nremarkable as you would expect.
+Dialogue: 0,0:12:11.33,0:12:16.04,Main,Benimaru,0000,0000,0000,,Every last knight was painstakingly \Ntrained by Demon Lord Carrion himself.
+Dialogue: 0,0:12:16.40,0:12:19.74,Main,Rimuru,0000,0000,0000,,I can see why they call him the Beastmaster.
+Dialogue: 0,0:12:19.74,0:12:20.55,Main,Rimuru,0000,0000,0000,,Anything else?
+Dialogue: 0,0:12:20.93,0:12:25.94,Main,Rigur,0000,0000,0000,,Yes. The buildings there are quite \Ncrude compared to Tempest's.
+Dialogue: 0,0:12:25.94,0:12:28.56,Main,Rigur,0000,0000,0000,,But the royal palace is highly extravagant.
+Dialogue: 0,0:12:28.56,0:12:31.18,Main,Rigur,0000,0000,0000,,It's very clear that the \Nwealth is concentrated there.
+Dialogue: 0,0:12:33.19,0:12:37.61,Main,Rigurd,0000,0000,0000,,Rigur has grown into such a fine man!
+Dialogue: 0,0:12:38.65,0:12:39.75,Main,Rigur,0000,0000,0000,,Uh...
+Dialogue: 0,0:12:40.85,0:12:42.82,Main,Rigur,0000,0000,0000,,But I don't mean that in a bad way.
+Dialogue: 0,0:12:43.10,0:12:45.06,Main,Rigur,0000,0000,0000,,It's what the kingdom's citizens want.
+Dialogue: 0,0:12:45.06,0:12:46.22,Main,Rimuru,0000,0000,0000,,I see.
+Dialogue: 0,0:12:46.22,0:12:48.44,Main,Rigur,0000,0000,0000,,And it's not just the architecture.
+Dialogue: 0,0:12:48.44,0:12:51.24,Main,Rigur,0000,0000,0000,,Their craftsmanship, among other \Nthings, is also inferior to ours.
+Dialogue: 0,0:12:51.24,0:12:53.35,Main,Rimuru,0000,0000,0000,,Yeah, because we have not \Nonly Kaijin and his buddies,
+Dialogue: 0,0:12:53.35,0:12:55.56,Main,Rimuru,0000,0000,0000,,but Kurobe and Shuna, too.
+Dialogue: 0,0:12:56.59,0:13:00.80,Main,Rigur,0000,0000,0000,,But there was just one thing \NI found absolutely incredible.
+Dialogue: 0,0:13:00.80,0:13:01.63,Main,Rimuru,0000,0000,0000,,What was it?
+Dialogue: 0,0:13:01.97,0:13:03.26,Main,Rigur,0000,0000,0000,,Their agriculture.
+Dialogue: 0,0:13:03.64,0:13:04.58,Main,Rimuru,0000,0000,0000,,Oh!
+Dialogue: 0,0:13:05.27,0:13:09.35,Main,Rigur,0000,0000,0000,,Their vast fields are unlike \Nanything we have here in Tempest,
+Dialogue: 0,0:13:09.35,0:13:12.35,Main,Rigur,0000,0000,0000,,and they grow a brilliant \Narray of produce in abundance.
+Dialogue: 0,0:13:12.64,0:13:15.89,Main,Rimuru,0000,0000,0000,,Do you think we can learn their techniques?
+Dialogue: 0,0:13:18.25,0:13:19.90,Main,Rigur,0000,0000,0000,,I think it's possible.
+Dialogue: 0,0:13:20.11,0:13:21.05,Main,Rimuru,0000,0000,0000,,All right!
+Dialogue: 0,0:13:21.05,0:13:25.15,Main,Rimuru,0000,0000,0000,,We'll have our next delegation focus \Non checking out their agriculture!
+Dialogue: 0,0:13:25.28,0:13:29.13,Main,Rigurd,0000,0000,0000,,We have improved our food situation \Nsignificantly as it is,
+Dialogue: 0,0:13:29.13,0:13:32.74,Main,Rigurd,0000,0000,0000,,but in some areas, we are still \Nin a stage of trial and error.
+Dialogue: 0,0:13:32.74,0:13:37.61,Main,Rigurd,0000,0000,0000,,This may be helpful in \Nimproving those areas...
+Dialogue: 0,0:13:39.85,0:13:42.88,Main,Rigurd,0000,0000,0000,,{\an8}Rigur has grown into such a fine man!
+Dialogue: 0,0:13:41.11,0:13:44.29,Main,Rimuru,0000,0000,0000,,Okay, I need to get ready to \Nhead for the Dwarf Kingdom,
+Dialogue: 0,0:13:44.29,0:13:46.01,Main,Rimuru,0000,0000,0000,,so you guys can handle the rest.
+Dialogue: 0,0:13:46.16,0:13:47.32,Main,Rimuru,0000,0000,0000,,I'm counting on you all.
+Dialogue: 0,0:13:47.32,0:13:48.15,Main,All,0000,0000,0000,,Right!
+Dialogue: 0,0:13:53.70,0:13:54.67,Main,Benimaru,0000,0000,0000,,Great Rimuru.
+Dialogue: 0,0:13:58.71,0:14:00.37,Main,Benimaru,0000,0000,0000,,If you will allow it,
+Dialogue: 0,0:14:00.86,0:14:05.45,Main,Benimaru,0000,0000,0000,,would it be all right to make Rigur \Nthe head of the delegation henceforth?
+Dialogue: 0,0:14:05.45,0:14:06.82,Main,Rimuru,0000,0000,0000,,What's this about?
+Dialogue: 0,0:14:07.26,0:14:10.75,Main,Benimaru,0000,0000,0000,,I have determined that Demon \NLord Carrion can be trusted.
+Dialogue: 0,0:14:11.24,0:14:14.08,Main,Benimaru,0000,0000,0000,,There is no concern that he \Nwill treat our envoys poorly.
+Dialogue: 0,0:14:14.44,0:14:18.53,Main,Benimaru,0000,0000,0000,,That being the case, I feel I should \Nremain here to defend our nation.
+Dialogue: 0,0:14:18.93,0:14:23.16,Main,Rimuru,0000,0000,0000,,Hmm... And you think Rigur can \Nbe entrusted to take over.
+Dialogue: 0,0:14:23.16,0:14:24.77,Main,Rimuru,0000,0000,0000,,That's what you're saying?
+Dialogue: 0,0:14:24.77,0:14:25.41,Main,Benimaru,0000,0000,0000,,Yes.
+Dialogue: 0,0:14:25.97,0:14:27.82,Main,Rimuru,0000,0000,0000,,Okay, sounds good.
+Dialogue: 0,0:14:27.82,0:14:29.19,Main,Benimaru,0000,0000,0000,,Thank you.
+Dialogue: 0,0:14:31.89,0:14:34.68,Main,Rimuru,0000,0000,0000,,But if you really trust him that much,
+Dialogue: 0,0:14:34.68,0:14:37.81,Main,Rimuru,0000,0000,0000,,I guess Carrion rules with \Nmore than just strength, huh?
+Dialogue: 0,0:14:37.98,0:14:39.45,Main,Benimaru,0000,0000,0000,,Indeed.
+Dialogue: 0,0:14:39.45,0:14:41.73,Main,Benimaru,0000,0000,0000,,The truth is, I tried \Npicking a fight with him,
+Dialogue: 0,0:14:41.73,0:14:43.06,Main,Benimaru,0000,0000,0000,,and he laughed at me.
+Dialogue: 0,0:14:43.82,0:14:44.57,Main,Rimuru,0000,0000,0000,,Huh?!
+Dialogue: 0,0:14:45.42,0:14:47.57,Main,Rimuru,0000,0000,0000,,Y-Y-You actually...
+Dialogue: 0,0:14:48.84,0:14:51.52,Main,Benimaru,0000,0000,0000,,I couldn't use Hell Flare, of course,
+Dialogue: 0,0:14:51.52,0:14:52.82,Main,Benimaru,0000,0000,0000,,so I lost spectacularly.
+Dialogue: 0,0:14:53.84,0:14:55.54,Main,Benimaru,0000,0000,0000,,I still have much to learn.
+Dialogue: 0,0:14:55.54,0:14:56.66,Main,Rimuru,0000,0000,0000,,You're so...
+Dialogue: 0,0:14:56.66,0:14:59.55,Main,Benimaru,0000,0000,0000,,Oh, but I did defeat Phobio.
+Dialogue: 0,0:14:59.55,0:15:00.58,Main,Rimuru,0000,0000,0000,,I see...
+Dialogue: 0,0:15:00.93,0:15:04.42,Main,Rimuru,0000,0000,0000,,I mean, it's amazing that \Nyou beat Phobio, but...
+Dialogue: 0,0:15:05.62,0:15:10.12,Italics,Rimuru,0000,0000,0000,,Yeah, no! He's definitely a guy I shouldn't \Nhave allowed outside this country!
+Dialogue: 0,0:15:11.86,0:15:13.85,Italics,Rimuru,0000,0000,0000,,So all of that happened, but...
+Dialogue: 0,0:15:15.15,0:15:16.10,Italics,Rimuru,0000,0000,0000,,The next day,
+Dialogue: 0,0:15:16.61,0:15:20.08,Italics,Rimuru,0000,0000,0000,,it was my turn to set off for Dwargon.
+Dialogue: 0,0:15:21.28,0:15:23.23,Main,Rimuru,0000,0000,0000,,Hey, Ranga! Too fast!
+Dialogue: 0,0:15:23.23,0:15:24.69,Main,Ranga,0000,0000,0000,,Understood, Master!
+Dialogue: 0,0:15:27.06,0:15:29.50,Main,Rimuru,0000,0000,0000,,Ranga!
+Dialogue: 0,0:15:30.67,0:15:35.87,Italics,Rimuru,0000,0000,0000,,This time, I was accompanied by six \NGoblin Riders, including Gobta and Gobzo...
+Dialogue: 0,0:15:36.32,0:15:37.56,Italics,Rimuru,0000,0000,0000,,Shuna and Shion...
+Dialogue: 0,0:15:38.11,0:15:43.39,Italics,Rimuru,0000,0000,0000,,and Kaijin, along with the Dwarf \Nbrothers, Garm, Dord, and Myrd.
+Dialogue: 0,0:15:44.00,0:15:47.43,Main,Kaijin,0000,0000,0000,,It'll be real nice to take \Nit easy in Dwargon again.
+Dialogue: 0,0:15:47.43,0:15:49.05,Main,Kaijin,0000,0000,0000,,I sure do appreciate this.
+Dialogue: 0,0:15:49.43,0:15:52.10,Main,Garm,0000,0000,0000,,You said it! Right, you guys?
+Dialogue: 0,0:15:52.10,0:15:53.62,Main,Dord,0000,0000,0000,,Absolutely!
+Dialogue: 0,0:15:55.21,0:15:58.17,Main,Rimuru,0000,0000,0000,,I'm glad to hear you guys say that, too.
+Dialogue: 0,0:15:58.17,0:16:01.90,Main,Rimuru,0000,0000,0000,,Our nation has come so far \Nthanks to your help, after all.
+Dialogue: 0,0:16:02.53,0:16:06.61,Main,Kaijin,0000,0000,0000,,Hearing you say that makes me \Nfeel blessed to be a craftsman.
+Dialogue: 0,0:16:06.61,0:16:07.32,Main,Garm,0000,0000,0000,,Yeah.
+Dialogue: 0,0:16:07.69,0:16:10.57,Main,Rimuru,0000,0000,0000,,I'm truly glad I met all of you.
+Dialogue: 0,0:16:10.88,0:16:12.57,Main,Kaijin,0000,0000,0000,,Aw, gee...
+Dialogue: 0,0:16:15.52,0:16:18.04,Italics,Rimuru,0000,0000,0000,,By the way, the two carriages behind us
+Dialogue: 0,0:16:18.04,0:16:20.38,Italics,Rimuru,0000,0000,0000,,are loaded with gifts for King Gazel.
+Dialogue: 0,0:16:20.38,0:16:22.28,Italics,Rimuru,0000,0000,0000,,And if you're thinking \Nit would've been easier
+Dialogue: 0,0:16:22.28,0:16:25.08,Italics,Rimuru,0000,0000,0000,,to carry them in my stomach \Nthan load them in carriages...
+Dialogue: 0,0:16:25.34,0:16:27.84,Flashback,Shuna,0000,0000,0000,,Formality is important \Nin matters such as these.
+Dialogue: 0,0:16:28.02,0:16:29.52,Italics,Rimuru,0000,0000,0000,,...is what I was told.
+Dialogue: 0,0:16:30.33,0:16:32.24,Italics,Rimuru,0000,0000,0000,,That's an Ogre princess for you.
+Dialogue: 0,0:16:32.24,0:16:34.78,Italics,Rimuru,0000,0000,0000,,She's been learning a lot from Vesta lately,
+Dialogue: 0,0:16:34.78,0:16:37.25,Italics,Rimuru,0000,0000,0000,,so I can count on her when it comes \Nto things like etiquette, too.
+Dialogue: 0,0:16:37.72,0:16:39.38,Italics,Rimuru,0000,0000,0000,,And I thought Shion would be
+Dialogue: 0,0:16:39.38,0:16:43.48,Italics,Rimuru,0000,0000,0000,,an even worse candidate to let outside \Nthe country than Benimaru, but...
+Dialogue: 0,0:16:43.75,0:16:44.35,Flashback,Shion,0000,0000,0000,,What?
+Dialogue: 0,0:16:44.86,0:16:47.23,Flashback,Shion,0000,0000,0000,,Princess Shuna is going \Non a vacation with you?
+Dialogue: 0,0:16:47.44,0:16:49.77,Flashback,Rimuru,0000,0000,0000,,No, it's business, not a vacation...
+Dialogue: 0,0:16:49.77,0:16:51.48,Flashback,Shion,0000,0000,0000,,That's not fair! Not fair at all!
+Dialogue: 0,0:16:51.66,0:16:53.72,Flashback,Shion,0000,0000,0000,,Why does only Princess Shuna \Nget to have fun with you?!
+Dialogue: 0,0:16:53.72,0:16:55.61,Flashback,Rimuru,0000,0000,0000,,It's business! Business!
+Dialogue: 0,0:16:59.33,0:17:01.11,Flashback,Rigur,0000,0000,0000,,Lady Shion, please relax!
+Dialogue: 0,0:17:01.11,0:17:03.07,Flashback,Rigurd,0000,0000,0000,,Just calm down!
+Dialogue: 0,0:17:04.34,0:17:07.21,Italics,Rimuru,0000,0000,0000,,So she cried, she screamed, \Nshe threw a fit...
+Dialogue: 0,0:17:10.88,0:17:13.30,Flashback,Rimuru,0000,0000,0000,,Can I leave things to you, Rigurd?
+Dialogue: 0,0:17:14.14,0:17:16.05,Flashback,Rigurd,0000,0000,0000,,Th-This is... n-nothing...
+Dialogue: 0,0:17:16.57,0:17:19.49,Italics,Rimuru,0000,0000,0000,,I felt bad leaving her with \NRigurd and the others,
+Dialogue: 0,0:17:19.49,0:17:21.57,Italics,Rimuru,0000,0000,0000,,so I agreed to take her along.
+Dialogue: 0,0:17:22.20,0:17:26.25,Italics,Rimuru,0000,0000,0000,,Of course, when she's quiet, \Nshe looks like a capable lady.
+Dialogue: 0,0:17:26.25,0:17:29.63,Italics,Rimuru,0000,0000,0000,,As long as I keep an eye on her, \Nit shouldn't end in disaster.
+Dialogue: 0,0:17:31.12,0:17:33.21,Main,Shion,0000,0000,0000,,Great Rimuru, look.
+Dialogue: 0,0:17:35.88,0:17:38.57,Main,Shion,0000,0000,0000,,The road that was destroyed in \Nthe battle against Charybdis
+Dialogue: 0,0:17:38.77,0:17:40.68,Main,Shion,0000,0000,0000,,is almost completely cleaned up.
+Dialogue: 0,0:17:40.68,0:17:43.31,Main,Rimuru,0000,0000,0000,,Hey, you're right. They work fast.
+Dialogue: 0,0:17:43.31,0:17:45.24,Main,Shion,0000,0000,0000,,Geld and his comrades never cease to impress.
+Dialogue: 0,0:17:52.20,0:17:54.71,Main,Geld,0000,0000,0000,,Good. We're on schedule.
+Dialogue: 0,0:17:54.93,0:17:58.80,Main,Orc,0000,0000,0000,,Sir Geld, we'll need to place \Nan order for more stones.
+Dialogue: 0,0:17:58.80,0:17:59.87,Main,Geld,0000,0000,0000,,Very well.
+Dialogue: 0,0:17:59.87,0:18:01.72,Main,Geld,0000,0000,0000,,I'll send word to the quarry.
+Dialogue: 0,0:18:01.72,0:18:02.51,Main,Orc,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:03.30,0:18:04.51,Main,Orc,0000,0000,0000,,Isn't that...
+Dialogue: 0,0:18:10.26,0:18:13.19,Main,Geld,0000,0000,0000,,This was the day of your departure \Nfor the Dwarf Kingdom?
+Dialogue: 0,0:18:13.19,0:18:14.06,Main,Rimuru,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:14.06,0:18:17.61,Main,Rimuru,0000,0000,0000,,With the road laid so well, \Nit's been a smooth, easy ride.
+Dialogue: 0,0:18:17.61,0:18:21.70,Main,Geld,0000,0000,0000,,Yes, we've been working from the \Ndirection of the Dwarf Kingdom,
+Dialogue: 0,0:18:21.70,0:18:24.83,Main,Geld,0000,0000,0000,,so the rest of the road from \Nthis point forward is finished.
+Dialogue: 0,0:18:24.83,0:18:27.82,Main,Rimuru,0000,0000,0000,,Oh? Sounds like it'll be an \Neven nicer ride from here.
+Dialogue: 0,0:18:27.82,0:18:28.83,Main,Rimuru,0000,0000,0000,,Good work!
+Dialogue: 0,0:18:29.62,0:18:30.92,Main,Geld,0000,0000,0000,,Thank you.
+Dialogue: 0,0:18:31.13,0:18:31.90,Main,Rimuru,0000,0000,0000,,So...
+Dialogue: 0,0:18:37.48,0:18:38.51,Main,Geld,0000,0000,0000,,What is this?
+Dialogue: 0,0:18:38.78,0:18:39.97,Main,Rimuru,0000,0000,0000,,Beer.
+Dialogue: 0,0:18:40.35,0:18:41.80,Main,Orcs,0000,0000,0000,,Beer?!
+Dialogue: 0,0:18:42.18,0:18:43.82,Main,Rimuru,0000,0000,0000,,Don't drink too much, though!
+Dialogue: 0,0:18:43.82,0:18:45.81,Main,Orc,0000,0000,0000,,Thank you, Great Rimuru!
+Dialogue: 0,0:18:44.11,0:18:45.03,Main,Geld,0000,0000,0000,,Yes, sir!
+Dialogue: 0,0:18:46.21,0:18:48.81,Italics,Rimuru,0000,0000,0000,,And so our journey continued smoothly...
+Dialogue: 0,0:18:49.56,0:18:51.32,Italics,Rimuru,0000,0000,0000,,and four days after our departure,
+Dialogue: 0,0:18:51.74,0:18:54.84,Italics,Rimuru,0000,0000,0000,,we arrived in the nation of Dwargon.
+Dialogue: 0,0:18:55.54,0:18:56.99,Main,Kaido,0000,0000,0000,,Gate opening!
+Dialogue: 0,0:18:56.99,0:18:59.92,Main,Guy,0000,0000,0000,,Look at those fine magical \Nbeasts pulling their carriages.
+Dialogue: 0,0:18:59.92,0:19:01.26,Main,Guy,0000,0000,0000,,Are these people that important?
+Dialogue: 0,0:19:01.26,0:19:03.78,Main,Guy,0000,0000,0000,,Those are magical beasts? \NI've never seen any before.
+Dialogue: 0,0:19:03.78,0:19:06.58,Main,Guy,0000,0000,0000,,The way those carriages \Nare made is unusual...
+Dialogue: 0,0:19:06.90,0:19:08.44,Main,Kaido,0000,0000,0000,,Hey, Bro.
+Dialogue: 0,0:19:09.31,0:19:11.36,Main,Kaido,0000,0000,0000,,Glad to see you're looking so well.
+Dialogue: 0,0:19:11.36,0:19:12.65,Main,Kaijin,0000,0000,0000,,Kaido, it's you!
+Dialogue: 0,0:19:12.65,0:19:14.66,Main,Kaijin,0000,0000,0000,,It's been so long! How've you been?
+Dialogue: 0,0:19:14.66,0:19:17.40,Main,Kaijin,0000,0000,0000,,I've been having a great \Ntime working for Rimuru.
+Dialogue: 0,0:19:17.40,0:19:20.64,Main,Kaido,0000,0000,0000,,I bet. I can tell from the look on your face.
+Dialogue: 0,0:19:20.64,0:19:22.14,Main,Kaido,0000,0000,0000,,You guys been doing good, too, Garm?
+Dialogue: 0,0:19:22.37,0:19:23.90,Main,Garm,0000,0000,0000,,Yep, thanks for asking.
+Dialogue: 0,0:19:23.90,0:19:24.76,Main,Dord,0000,0000,0000,,Sure have.
+Dialogue: 0,0:19:25.79,0:19:28.43,Main,Kaido,0000,0000,0000,,So... where's Rimuru, anyway?
+Dialogue: 0,0:19:28.75,0:19:29.46,Main,Kaijin,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:30.47,0:19:33.16,Main,Kaido,0000,0000,0000,,He's a guest of the state, you know.
+Dialogue: 0,0:19:33.16,0:19:35.76,Main,Kaido,0000,0000,0000,,I need to give him a proper welcome.
+Dialogue: 0,0:19:35.76,0:19:38.69,Italics,Rimuru,0000,0000,0000,,What's he talking about? I'm right here...
+Dialogue: 0,0:19:38.89,0:19:43.32,Italics,Rimuru,0000,0000,0000,,Oh, right. He only knows my slime form.
+Dialogue: 0,0:19:44.05,0:19:45.83,Main,Kaijin,0000,0000,0000,,This is Rimuru.
+Dialogue: 0,0:19:46.08,0:19:46.86,Main,Kaido,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:47.41,0:19:49.08,Main,Garm,0000,0000,0000,,This is Rimuru.
+Dialogue: 0,0:19:49.22,0:19:50.12,Main,Kaido,0000,0000,0000,,Eh?
+Dialogue: 0,0:19:50.12,0:19:51.37,Main,Dord,0000,0000,0000,,This is him.
+Dialogue: 0,0:19:51.37,0:19:51.96,Main,Kaido,0000,0000,0000,,Wha?
+Dialogue: 0,0:19:52.96,0:19:54.17,Main,Kaido,0000,0000,0000,,What?!
+Dialogue: 0,0:19:54.71,0:19:56.65,Main,Rimuru,0000,0000,0000,,Yeah, some stuff happened...
+Dialogue: 0,0:19:57.66,0:20:01.22,Main,Kaido,0000,0000,0000,,R-Rimuru... sir... you look well, \Nand that's all that matters.
+Dialogue: 0,0:20:01.56,0:20:04.65,Main,Kaido,0000,0000,0000,,Um... well, then, right this way.
+Dialogue: 0,0:20:04.65,0:20:06.80,Italics,Rimuru,0000,0000,0000,,Yeah, I can't blame him.
+Dialogue: 0,0:20:08.38,0:20:11.77,Italics,Rimuru,0000,0000,0000,,And so we arrived safely in Dwargon
+Dialogue: 0,0:20:12.10,0:20:15.84,Italics,Rimuru,0000,0000,0000,,and had our audience with \NKing Gazel right away.
+Dialogue: 0,0:20:18.49,0:20:21.28,Main,Dorf,0000,0000,0000,,I'm glad to see you're \Nin good health, Rimuru.
+Dialogue: 0,0:20:21.77,0:20:23.78,Main,Rimuru,0000,0000,0000,,Same to you, Dorf-dono.
+Dialogue: 0,0:20:25.71,0:20:27.52,Main,Dorf,0000,0000,0000,,Please, no need for formalities with me.
+Dialogue: 0,0:20:28.01,0:20:30.73,Main,Dorf,0000,0000,0000,,Now, our king awaits you.
+Dialogue: 0,0:20:31.21,0:20:33.45,Italics,Rimuru,0000,0000,0000,,Dorf is the captain of the Pegasus Knights,
+Dialogue: 0,0:20:33.45,0:20:35.42,Italics,Rimuru,0000,0000,0000,,who helped us in the \Nbattle against Charybdis.
+Dialogue: 0,0:20:35.89,0:20:39.06,Italics,Rimuru,0000,0000,0000,,The Pegasus Knights are a top-secret \Nforce in direct service to the king,
+Dialogue: 0,0:20:39.06,0:20:42.42,Italics,Rimuru,0000,0000,0000,,so they normally present themselves as \Nregular civil servants, just like this.
+Dialogue: 0,0:20:46.48,0:20:48.41,Main,Soldier,0000,0000,0000,,The ruler of the Jura Tempest Federation,
+Dialogue: 0,0:20:48.41,0:20:51.87,Main,Soldier,0000,0000,0000,,His Majesty Rimuru, has arrived.
+Dialogue: 0,0:20:58.64,0:21:00.09,Main,Dorf,0000,0000,0000,,Please, go on inside.
+Dialogue: 0,0:21:06.76,0:21:08.88,Italics,Rimuru,0000,0000,0000,,The king of the Armed Nation of Dwargon,
+Dialogue: 0,0:21:08.88,0:21:11.37,Italics,Rimuru,0000,0000,0000,,Gazel Dwargo.
+Dialogue: 0,0:21:12.58,0:21:14.87,Main,Gazel,0000,0000,0000,,It's been some time, Rimuru.
+Dialogue: 0,0:21:24.48,0:21:25.90,Main,Clayman,0000,0000,0000,,I see.
+Dialogue: 0,0:21:29.28,0:21:30.78,Main,Clayman,0000,0000,0000,,Well done.
+Dialogue: 0,0:21:30.78,0:21:33.46,Main,Clayman,0000,0000,0000,,This is quite the intriguing report.
+Dialogue: 0,0:21:33.46,0:21:34.76,Main,Clayman,0000,0000,0000,,Thank you.
+Dialogue: 0,0:21:35.84,0:21:41.11,Main,Clayman,0000,0000,0000,,I would gladly return \Nyour heart to you now...
+Dialogue: 0,0:21:43.10,0:21:46.24,Main,Clayman,0000,0000,0000,,but if you would do just \None more little job for me,
+Dialogue: 0,0:21:46.24,0:21:48.71,Main,Clayman,0000,0000,0000,,it would be a tremendous help.
+Dialogue: 0,0:21:49.81,0:21:53.24,Main,Myulan,0000,0000,0000,,What would you like me to do, Lord Clayman?
+Dialogue: 0,0:21:53.24,0:21:55.78,Main,Clayman,0000,0000,0000,,Oh, it's a simple thing, really.
+Dialogue: 0,0:21:56.21,0:21:58.50,Main,Clayman,0000,0000,0000,,Very, very simple.
+Dialogue: 0,0:21:59.03,0:21:59.94,Main,Clayman,0000,0000,0000,,Understand,
+Dialogue: 0,0:22:00.89,0:22:02.54,Main,Clayman,0000,0000,0000,,Myulan?
+Dialogue: 0,0:23:36.49,0:23:39.39,Italics_Top,Great Sage,0000,0000,0000,,Next time, "Paradise, Once More."
+Dialogue: 0,0:23:37.14,0:23:41.02,Next_Ep_Title,Title,0000,0000,0000,,{\fad(859,1)}Paradise,{\c&HDDE6EB&\bord0} {\u1}Once More{\u0}

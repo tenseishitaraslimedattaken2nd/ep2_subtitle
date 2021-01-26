@@ -1,0 +1,421 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Top,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0000,0000,0020,1
+Style: Overlap,Arial,23,&H00F3EDE3,&H000000FF,&H00362B17,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: OrtTypes,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0085,1
+Style: NextEpiTitle1,Georgia,23,&H00000000,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,0,0,100,100,0,0,3,1,0,9,0000,0325,0075,1
+Style: NextEpiTitle2,Georgia,23,&H00D5E3E7,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,-1,0,100,100,0,0,1,0,0,7,0325,0000,0075,1
+Style: NachstesMal,Georgia,23,&H00E0EBF0,&H000000FF,&H00D5E3E7,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,8,0000,0000,0075,1
+Style: EpiTitle,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,9,0010,0040,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.48,0:00:05.35,Internal,Rimuru,0000,0000,0000,,Die Delegation aus dem\NKönigreich der Bestienmenschen, Jurasania,
+Dialogue: 0,0:00:05.35,0:00:09.11,Internal,Rimuru,0000,0000,0000,,die Dämonenkönig Karion nach Tempest,\Nentsendet hatte, war angekommen.
+Dialogue: 0,0:00:09.40,0:00:13.11,Internal,Rimuru,0000,0000,0000,,Aber grade als sie angekommen war,\Ngab es so einige Querelen.
+Dialogue: 0,0:00:25.58,0:00:28.13,Internal,Rimuru,0000,0000,0000,,Und ihr seht ja, was passiert ist.
+Dialogue: 0,0:00:29.42,0:00:34.68,Internal,Rimuru,0000,0000,0000,,Man könnte natürlich auch sagen,\Ndass ich dabei nicht ganz unschuldig war.
+Dialogue: 0,0:02:11.61,0:02:16.36,EpiTitle,,0000,0000,0000,,{\fad(0,525)\fs-1\be1\bord0.7\alpha&HFF&\t(0,160,\alpha&H00&)}K{\alpha&HFF&\t(27,187,\alpha&H00&)}a{\alpha&HFF&\t(54,214,\alpha&H00&)}p{\alpha&HFF&\t(82,242,\alpha&H00&)}i{\alpha&HFF&\t(109,269,\alpha&H00&)}t{\alpha&HFF&\t(136,296,\alpha&H00&)}e{\alpha&HFF&\t(164,324,\alpha&H00&)}l {\alpha&HFF&\t(191,351,\alpha&H00&)}2{\alpha&HFF&\t(218,378,\alpha&H00&)}6{\alpha&HFF&\t(246,406,\alpha&H00&)}: {\alpha&HFF&\t(273,433,\alpha&H00&)}H{\alpha&HFF&\t(300,460,\alpha&H00&)}a{\alpha&HFF&\t(328,488,\alpha&H00&)}n{\alpha&HFF&\t(355,515,\alpha&H00&)}d{\alpha&HFF&\t(382,542,\alpha&H00&)}e{\alpha&HFF&\t(410,570,\alpha&H00&)}l {\alpha&HFF&\t(437,597,\alpha&H00&)}m{\alpha&HFF&\t(464,624,\alpha&H00&)}i{\alpha&HFF&\t(492,652,\alpha&H00&)}t {\alpha&HFF&\t(519,679,\alpha&H00&)}d{\alpha&HFF&\t(546,706,\alpha&H00&)}e{\alpha&HFF&\t(574,734,\alpha&H00&)}m\N{\alpha&HFF&\t(601,761,\alpha&H00&)}K{\alpha&HFF&\t(628,788,\alpha&H00&)}ö{\alpha&HFF&\t(656,816,\alpha&H00&)}n{\alpha&HFF&\t(683,843,\alpha&H00&)}i{\alpha&HFF&\t(711,871,\alpha&H00&)}g{\alpha&HFF&\t(738,898,\alpha&H00&)}r{\alpha&HFF&\t(765,925,\alpha&H00&)}e{\alpha&HFF&\t(793,953,\alpha&H00&)}i{\alpha&HFF&\t(820,980,\alpha&H00&)}c{\alpha&HFF&\t(847,1007,\alpha&H00&)}h {\alpha&HFF&\t(875,1035,\alpha&H00&)}d{\alpha&HFF&\t(902,1062,\alpha&H00&)}e{\alpha&HFF&\t(929,1089,\alpha&H00&)}r {\alpha&HFF&\t(957,1117,\alpha&H00&)}B{\alpha&HFF&\t(984,1144,\alpha&H00&)}e{\alpha&HFF&\t(1011,1171,\alpha&H00&)}s{\alpha&HFF&\t(1039,1199,\alpha&H00&)}t{\alpha&HFF&\t(1066,1226,\alpha&H00&)}i{\alpha&HFF&\t(1093,1253,\alpha&H00&)}e{\alpha&HFF&\t(1121,1281,\alpha&H00&)}n{\alpha&HFF&\t(1148,1308,\alpha&H00&)}m{\alpha&HFF&\t(1175,1335,\alpha&H00&)}e{\alpha&HFF&\t(1203,1363,\alpha&H00&)}n{\alpha&HFF&\t(1230,1390,\alpha&H00&)}s{\alpha&HFF&\t(1257,1417,\alpha&H00&)}c{\alpha&HFF&\t(1285,1445,\alpha&H00&)}h{\alpha&HFF&\t(1312,1472,\alpha&H00&)}e{\alpha&HFF&\t(1340,1500,\alpha&H00&)}n
+Dialogue: 0,0:02:27.08,0:02:29.37,Default,Sphere,0000,0000,0000,,Das ist also die Kraft der Dämonen?
+Dialogue: 0,0:02:29.37,0:02:31.75,Default,Sphere,0000,0000,0000,,Ich will Spaß! Streng dich\Ndoch mal ein wenig an!
+Dialogue: 0,0:02:31.75,0:02:34.13,Default,Shion,0000,0000,0000,,Das hatte ich von Anfang an vor.
+Dialogue: 0,0:02:40.80,0:02:41.89,Default,Shion,0000,0000,0000,,Sei bereit!
+Dialogue: 0,0:02:44.47,0:02:45.18,Default,Ranga,0000,0000,0000,,Das ist doch …!
+Dialogue: 0,0:02:45.81,0:02:47.68,Default,Rimuru,0000,0000,0000,,Ein riesiges Magiegeschoss?
+Dialogue: 0,0:02:47.68,0:02:50.06,Default,Rimuru,0000,0000,0000,,Hey, Shion!\NMach mal halblang!
+Dialogue: 0,0:02:50.06,0:02:52.19,Default,Rimuru,0000,0000,0000,,Willst du die ganze Gegend wegblasen?
+Dialogue: 0,0:02:53.73,0:02:55.69,Default,Rimuru,0000,0000,0000,,Sie hört gar nicht mehr her.
+Dialogue: 0,0:02:55.69,0:02:58.19,Default,Sphere,0000,0000,0000,,Oh, sehr schön!\NDann komm mal ran!
+Dialogue: 0,0:02:58.19,0:03:00.95,Internal,Rimuru Intern,0000,0000,0000,,Und diese Sphere will das Ding\Nauch noch abbekommen?
+Dialogue: 0,0:03:01.41,0:03:04.95,Internal,Rimuru Intern,0000,0000,0000,,Egal wer oder was, wer so eine Attacke abbekommt,\Nkommt nicht einfach davon!
+Dialogue: 0,0:03:05.41,0:03:07.54,Internal,Rimuru Intern,0000,0000,0000,,Was soll ich nur machen?\NSoll ich sie aufhalten?
+Dialogue: 0,0:03:09.29,0:03:10.16,Default,Shion,0000,0000,0000,,Friss das!
+Dialogue: 0,0:03:10.16,0:03:11.00,Default,Albis,0000,0000,0000,,Beruhigt euch!
+Dialogue: 0,0:03:16.25,0:03:18.09,Default,Albis,0000,0000,0000,,Es reicht.
+Dialogue: 0,0:03:22.38,0:03:24.22,Internal,Rimuru Intern,0000,0000,0000,,Eine Bestienverwandlung?
+Dialogue: 0,0:03:25.10,0:03:26.85,Default,Albis,0000,0000,0000,,Das sollte genügen.
+Dialogue: 0,0:03:28.47,0:03:31.56,Default,Rimuru,0000,0000,0000,,Und? Haben wir bestanden?
+Dialogue: 0,0:03:32.14,0:03:33.10,Default,Albis,0000,0000,0000,,Ja.
+Dialogue: 0,0:03:34.10,0:03:35.27,Default,Grucius,0000,0000,0000,,Das war’s.
+Dialogue: 0,0:03:35.27,0:03:36.15,Default,Youm,0000,0000,0000,,Was?
+Dialogue: 0,0:03:36.15,0:03:36.61,Default,Youm,0000,0000,0000,,Aber …
+Dialogue: 0,0:03:36.61,0:03:38.65,Default,Youm,0000,0000,0000,,Boss, was bedeutet das alles?
+Dialogue: 0,0:03:38.65,0:03:41.61,Default,Rimuru,0000,0000,0000,,Es sieht so aus,\Nals hätten sie uns getestet.
+Dialogue: 0,0:03:42.86,0:03:45.66,Default,Sphere,0000,0000,0000,,Ich kann nichts bemängeln.\NIhr seid stark!
+Dialogue: 0,0:03:45.66,0:03:49.20,Default,Sphere,0000,0000,0000,,Ich denke, ihr seid geeignet,\Ndass wir euch auf Augenhöhe begegnen.
+Dialogue: 0,0:03:49.20,0:03:50.96,Default,Sphere,0000,0000,0000,,Ja, davon bin ich überzeugt.
+Dialogue: 0,0:03:51.25,0:03:53.50,Default,Sphere,0000,0000,0000,,Der, der dem Anführer\Nder Republik Jura-Tempest,
+Dialogue: 0,0:03:53.50,0:03:56.54,Default,Sphere,0000,0000,0000,,Rimuru Tempest, keinen Respekt zeigt,
+Dialogue: 0,0:03:56.54,0:03:59.05,Default,Sphere,0000,0000,0000,,bringt Schande über Meister Karion.
+Dialogue: 0,0:03:59.05,0:03:59.96,Default,Sphere,0000,0000,0000,,Verstanden?
+Dialogue: 0,0:03:59.96,0:04:00.55,Default,Alle,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:04:00.84,0:04:02.63,Default,Sphere,0000,0000,0000,,Es ist, wie Meisterin Sphere sagt.
+Dialogue: 0,0:04:02.63,0:04:06.43,Default,Sphere,0000,0000,0000,,Ich treffe nur selten Menschen,\Ndie sich so mit mir messen können.
+Dialogue: 0,0:04:07.35,0:04:08.39,Default,Youm,0000,0000,0000,,Das freut mich.
+Dialogue: 0,0:04:12.56,0:04:15.52,Default,Rimuru,0000,0000,0000,,Ich hatte schon Angst,\Ndass es direkt nach ihrer Ankunft ausartet.
+Dialogue: 0,0:04:15.52,0:04:17.86,Default,Shuna,0000,0000,0000,,Gut, dass alles gut gegangen ist.
+Dialogue: 0,0:04:17.86,0:04:20.03,Default,Rimuru,0000,0000,0000,,Shion, du hast es auch verstanden, oder?
+Dialogue: 0,0:04:21.11,0:04:22.36,Default,Rimuru,0000,0000,0000,,Shion?
+Dialogue: 0,0:04:23.28,0:04:24.78,Default,Shion,0000,0000,0000,,Haben Sie eine Idee,
+Dialogue: 0,0:04:24.78,0:04:26.41,Default,Shion,0000,0000,0000,,was ich hiermit machen soll?
+Dialogue: 0,0:04:26.41,0:04:29.83,Default,Rimuru,0000,0000,0000,,Woah! Das Ding geht hoch!\NKannst du es nicht verschwinden lassen?
+Dialogue: 0,0:04:30.16,0:04:33.29,Default,Shion,0000,0000,0000,,Das wird nichts!\NIch bin am Ende!
+Dialogue: 0,0:04:35.87,0:04:37.38,Default,Souei,0000,0000,0000,,Laufen Sie, Meister Rimuru.
+Dialogue: 0,0:04:38.17,0:04:42.42,Default,Sphere,0000,0000,0000,,Komm runter! Ganz ruhig.\NEinfach ruhig nach oben zielen.
+Dialogue: 0,0:04:45.01,0:04:47.59,Default,Sphere,0000,0000,0000,,Streng dich doch an!\NDann schaffst du das irgendwie.
+Dialogue: 0,0:04:48.26,0:04:49.85,Default,Shion,0000,0000,0000,,Ich glaub, ich schaff es nicht!
+Dialogue: 0,0:04:50.18,0:04:53.68,Default,Rimuru,0000,0000,0000,,Ach herrje.\NSo ist sie halt unsere Shion.
+Dialogue: 0,0:04:58.19,0:04:59.94,Default,Rimuru,0000,0000,0000,,Shion, schieß!
+Dialogue: 0,0:05:00.61,0:05:01.44,Default,Rimuru,0000,0000,0000,,Alles ist gut.
+Dialogue: 0,0:05:02.65,0:05:03.44,Default,Shion,0000,0000,0000,,Aber …
+Dialogue: 0,0:05:04.11,0:05:05.95,Default,Rimuru,0000,0000,0000,,Vertraue mir.
+Dialogue: 0,0:05:05.95,0:05:08.70,Default,Shion,0000,0000,0000,,V-Verstanden.\NIch schieße.
+Dialogue: 0,0:05:12.91,0:05:14.25,Default,Rimuru,0000,0000,0000,,Vielfraß!
+Dialogue: 0,0:05:24.51,0:05:25.63,Default,Rimuru,0000,0000,0000,,Das hätten wir.
+Dialogue: 0,0:05:29.05,0:05:29.89,Default,Albis,0000,0000,0000,,Was war das?
+Dialogue: 0,0:05:30.80,0:05:31.76,Default,Youm,0000,0000,0000,,Krass.
+Dialogue: 0,0:05:34.06,0:05:37.02,Default,Ranga,0000,0000,0000,,Es ist doch klar,\Ndass mein Herr so was kann.
+Dialogue: 0,0:05:40.06,0:05:41.77,Default,Shuna,0000,0000,0000,,Alles okay?
+Dialogue: 0,0:05:42.61,0:05:45.49,Default,Albis,0000,0000,0000,,Man sieht, dass Sie eine Person sind,\Ndie Meister Karion anerkennt.
+Dialogue: 0,0:05:45.49,0:05:46.28,Default,Rimuru,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:46.57,0:05:50.28,Default,Albis,0000,0000,0000,,Es freut mich sehr, dass wir mit Ihnen und\NIhrem Land Beziehungen aufgenommen haben.
+Dialogue: 0,0:05:50.57,0:05:54.04,Default,Rimuru,0000,0000,0000,,Ganz meinerseits.\NWillkommen in Tempest.
+Dialogue: 0,0:05:55.20,0:06:00.21,Internal,Rimuru,0000,0000,0000,,Und so hatten wir die\NAbgesandten aus Jurasania empfangen.
+Dialogue: 0,0:06:03.42,0:06:04.42,Internal,Rimuru,0000,0000,0000,,In dieser Nacht …
+Dialogue: 0,0:06:05.01,0:06:07.42,Internal,Rimuru,0000,0000,0000,,veranstalteten wir eine\Nbrausende Willkommensfeier
+Dialogue: 0,0:06:07.42,0:06:10.39,Internal,Rimuru,0000,0000,0000,,in der neu fertiggestellten Festhalle.
+Dialogue: 0,0:06:16.68,0:06:17.77,Default,Grucius,0000,0000,0000,,Das schmeckt super.
+Dialogue: 0,0:06:17.77,0:06:19.56,Default,Grucius Anhängsel A,0000,0000,0000,,Wie toll das gewürzt ist.
+Dialogue: 0,0:06:19.56,0:06:20.94,Default,Grucius Anhängsel B,0000,0000,0000,,Genau richtig gesalzen.
+Dialogue: 0,0:06:21.44,0:06:23.32,Default,Grucius Anhängsel B,0000,0000,0000,,Damit kann ich mit komplett vollfressen.
+Dialogue: 0,0:06:23.32,0:06:24.44,Default,Grucius Anhängsel A,0000,0000,0000,,Lecker.
+Dialogue: 0,0:06:32.53,0:06:33.70,Default,Albis,0000,0000,0000,,Ach, wie schön.
+Dialogue: 0,0:06:34.08,0:06:35.49,Default,Shuna,0000,0000,0000,,Sie hauen aber rein.
+Dialogue: 0,0:06:35.49,0:06:39.04,Internal,Rimuru Intern,0000,0000,0000,,Wer hat ihr das Gebräu\Ndirekt im Fass gebracht?
+Dialogue: 0,0:06:39.04,0:06:40.79,Internal,Rimuru Intern,0000,0000,0000,,Aber sie hat ihren Spaß.
+Dialogue: 0,0:06:46.63,0:06:50.72,Default,Rimuru,0000,0000,0000,,Eine Frage: Ist es okay,\Ndass ihr anderen diese Gestalt zeigt?
+Dialogue: 0,0:06:50.72,0:06:53.47,Default,Albis,0000,0000,0000,,Es ist nicht so, als wäre sie ein Geheimnis.
+Dialogue: 0,0:06:53.47,0:06:54.72,Default,Rimuru,0000,0000,0000,,A-Ach so.
+Dialogue: 0,0:06:54.72,0:06:59.73,Default,Albis,0000,0000,0000,,Aber ich zeige sie nur jenen,\Ndenen ich vertrauen kann.
+Dialogue: 0,0:06:59.73,0:07:01.52,Default,Rimuru,0000,0000,0000,,Ah, ich verstehe.
+Dialogue: 0,0:07:01.52,0:07:03.02,Internal,Rimuru Intern,0000,0000,0000,,Soll mir recht sein.
+Dialogue: 0,0:07:03.02,0:07:04.98,Default,Rimuru,0000,0000,0000,,Dennoch …
+Dialogue: 0,0:07:06.11,0:07:09.82,Default,Rimuru,0000,0000,0000,,Du trinkst noch den ganzen\NApfel-Brandy weg, den wir haben.
+Dialogue: 0,0:07:10.20,0:07:11.66,Default,Albis,0000,0000,0000,,Den ganzen?
+Dialogue: 0,0:07:11.66,0:07:14.20,Default,Albis,0000,0000,0000,,Können Sie keine\Ngroßen Mengen herstellen?
+Dialogue: 0,0:07:14.20,0:07:16.91,Default,Rimuru,0000,0000,0000,,Ah, Entschuldigung.\NMach dir keine Sorgen.
+Dialogue: 0,0:07:16.91,0:07:20.21,Default,Rimuru,0000,0000,0000,,Den haben wir extra\Nfür unsere Gäste hergestellt.
+Dialogue: 0,0:07:20.21,0:07:24.21,Default,Rimuru,0000,0000,0000,,Dadurch, dass wir bei unseren Früchten\Nvom Wald abhängig sind, haben wir nur wenige.
+Dialogue: 0,0:07:26.30,0:07:28.71,Default,Albis,0000,0000,0000,,Dann habe ich eine gute Idee.
+Dialogue: 0,0:07:28.71,0:07:30.01,Default,Rimuru,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:30.42,0:07:33.93,Default,Albis,0000,0000,0000,,In Jurasania ernten wir\NFrüchte in Hülle und Fülle.
+Dialogue: 0,0:07:33.93,0:07:36.51,Default,Albis,0000,0000,0000,,Ich werde dafür Sorgen,\Ndass diese ihren Weg hierher finden.
+Dialogue: 0,0:07:36.76,0:07:38.27,Default,Rimuru,0000,0000,0000,,Was, echt?
+Dialogue: 0,0:07:38.60,0:07:39.52,Default,Albis,0000,0000,0000,,Natürlich.
+Dialogue: 0,0:07:39.81,0:07:42.14,Default,Shuna,0000,0000,0000,,Das ist aber schön,\Nnicht wahr, Meister Rimuru?
+Dialogue: 0,0:07:42.14,0:07:43.27,Default,Rimuru,0000,0000,0000,,Ja.
+Dialogue: 0,0:07:43.73,0:07:44.27,Default,Rimuru,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:48.28,0:07:49.78,Internal,Rimuru Intern,0000,0000,0000,,So ist das also.
+Dialogue: 0,0:07:49.78,0:07:52.91,Internal,Rimuru Intern,0000,0000,0000,,Die wollen dafür auch Alkohol\Ngeschickt bekommen.
+Dialogue: 0,0:07:54.70,0:07:56.24,Default,Rimuru,0000,0000,0000,,Wie sieht es mit der Quote aus?
+Dialogue: 0,0:07:56.24,0:07:58.45,Default,Sphere,0000,0000,0000,,Die Details überlassen wir Ihnen.
+Dialogue: 0,0:07:58.45,0:08:01.04,Default,Sphere,0000,0000,0000,,Mir reicht es,\Nwenn wir leckeren Alkohol trinken können.
+Dialogue: 0,0:08:01.04,0:08:03.58,Default,Sphere,0000,0000,0000,,Die Früchte aus Jurasania\Nsind von guter Qualität,
+Dialogue: 0,0:08:03.58,0:08:05.58,Default,Sphere,0000,0000,0000,,da können Sie ganz beruhigt sein.
+Dialogue: 0,0:08:07.92,0:08:08.88,Default,Rimuru,0000,0000,0000,,Hm.
+Dialogue: 0,0:08:09.42,0:08:12.09,Internal,Rimuru Intern,0000,0000,0000,,Die Arbeit wollen sie\Nalso auf uns abwetzen.
+Dialogue: 0,0:08:12.09,0:08:15.97,Internal,Rimuru Intern,0000,0000,0000,,Ich frage mich, wie ein angemessener\NTauschhandel in diesem Fall aussieht.
+Dialogue: 0,0:08:19.26,0:08:21.73,Default,Rimuru,0000,0000,0000,,Okay, das überlassen wir einem Spezialisten.
+Dialogue: 0,0:08:21.73,0:08:22.89,Default,Rimuru,0000,0000,0000,,Shuna!
+Dialogue: 0,0:08:22.89,0:08:24.23,Default,Shuna,0000,0000,0000,,Ja, Meister Rimuru?
+Dialogue: 0,0:08:24.77,0:08:26.48,Default,Rimuru,0000,0000,0000,,Lass bitte Kobi rufen.
+Dialogue: 0,0:08:29.61,0:08:33.65,Internal,Rimuru Intern,0000,0000,0000,,Das ist einer der Händler der Goblins,\Nder Läden in Tempest auf die Beine stellte.
+Dialogue: 0,0:08:29.73,0:08:36.24,OrtTypes,,0000,0000,0000,,{\fad(475,0)\blur2\yshad2\xshad0\pos(362,285)\fs-2\c&HEBEEF5&}Kobold-Händler   {\fs+2}Kobi
+Dialogue: 0,0:08:33.65,0:08:36.24,Internal,Rimuru Intern,0000,0000,0000,,Er koordinierte die Händler.
+Dialogue: 0,0:08:36.24,0:08:39.12,Default,Kobi,0000,0000,0000,,M-Meister Rimuru, warum bin ich hier?
+Dialogue: 0,0:08:39.12,0:08:42.00,Default,Rimuru,0000,0000,0000,,Das ist unser Kobi.\NEr ist der Vertreter unserer Händler.
+Dialogue: 0,0:08:42.00,0:08:44.62,Default,Rimuru,0000,0000,0000,,Er war auch in den Gebieten der\NDämonenkönige auf Handelsreise.
+Dialogue: 0,0:08:44.62,0:08:46.79,Default,Rimuru,0000,0000,0000,,Ich möchte ihm diesen Handel anvertrauen.
+Dialogue: 0,0:08:46.79,0:08:47.67,Default,Kobi,0000,0000,0000,,Was?!
+Dialogue: 0,0:08:47.67,0:08:50.13,Default,Rimuru,0000,0000,0000,,Das sind die Herrschaften\Naus Land der Bestienmenschen.
+Dialogue: 0,0:08:50.13,0:08:53.47,Default,Rimuru,0000,0000,0000,,Sollten sie Interesse an etwas außer\Ndem Alkohol haben, verhandele mit ihnen.
+Dialogue: 0,0:08:53.47,0:08:54.59,Default,Kobi,0000,0000,0000,,Nein, nein!
+Dialogue: 0,0:08:54.59,0:08:57.68,Default,Kobi,0000,0000,0000,,Schwache Arten\Ndürfen dort nicht einreisen …!
+Dialogue: 0,0:08:58.01,0:09:00.64,Default,Sphere,0000,0000,0000,,Ich schreib dir eine Erlaubnis, keine Sorge.
+Dialogue: 0,0:09:00.64,0:09:03.18,Default,Albis,0000,0000,0000,,Wir berichten es auch Meister Karion.
+Dialogue: 0,0:09:03.18,0:09:06.98,Default,Rimuru,0000,0000,0000,,Du siehst doch auch aus wie ein Bestienmensch.\NDas sollte passen, oder?
+Dialogue: 0,0:09:06.98,0:09:08.48,Default,Kobi,0000,0000,0000,,Was?!
+Dialogue: 0,0:09:08.48,0:09:10.65,Default,Rimuru,0000,0000,0000,,Also, ich verlasse mich auf dich.
+Dialogue: 0,0:09:11.61,0:09:12.69,Default,Kobi,0000,0000,0000,,Also, wissen Sie.
+Dialogue: 0,0:09:12.69,0:09:13.99,Default,Kobi,0000,0000,0000,,Also …
+Dialogue: 0,0:09:13.99,0:09:14.74,Default,Kobi,0000,0000,0000,,Verstanden.
+Dialogue: 0,0:09:16.24,0:09:19.62,Default,Rimuru,0000,0000,0000,,Den Rest überlassen wir unserem Jüngling.
+Dialogue: 0,0:09:19.62,0:09:20.99,Default,Shuna,0000,0000,0000,,Wir empfehlen uns.
+Dialogue: 0,0:09:22.62,0:09:23.41,Default,Kobi,0000,0000,0000,,Hä?!
+Dialogue: 0,0:09:23.41,0:09:24.75,Default,Kobi,0000,0000,0000,,W-Wa… Hey!
+Dialogue: 0,0:09:25.21,0:09:26.16,Default,Kobi,0000,0000,0000,,Also …
+Dialogue: 0,0:09:26.54,0:09:28.00,Default,Kobi,0000,0000,0000,,Meister Rimuru!
+Dialogue: 0,0:09:30.59,0:09:33.13,Default,Rimuru,0000,0000,0000,,Wenn Kobi das übernimmt,\Nmüssen wir uns keine Sorgen machen.
+Dialogue: 0,0:09:33.13,0:09:34.76,Default,Shuna,0000,0000,0000,,Denke ich auch.
+Dialogue: 0,0:09:35.05,0:09:40.01,Default,Rimuru,0000,0000,0000,,Einen guten Handel schließt man eh\Nam besten bei einem guten Gläschen ab.
+Dialogue: 0,0:09:41.18,0:09:44.52,Internal,Rimuru Intern,0000,0000,0000,,Und so endete diese feuchtfröhliche Nacht.
+Dialogue: 0,0:09:45.18,0:09:49.35,Internal,Rimuru Intern,0000,0000,0000,,Ein guter Auftakt für die Beziehungen\Nmit den anderen Staaten.
+Dialogue: 0,0:09:53.48,0:09:58.24,Internal,Rimuru Intern,0000,0000,0000,,Ein paar Tage später kehrte Albis und Sphere\Nzurück nach Jurasania.
+Dialogue: 0,0:10:01.03,0:10:03.20,Internal,Rimuru Intern,0000,0000,0000,,Der Plan war Technologien auszutauschen.
+Dialogue: 0,0:10:03.54,0:10:07.83,Internal,Rimuru Intern,0000,0000,0000,,Und so blieben viele in Tempest\Nund erlernten unsere Technik.
+Dialogue: 0,0:10:09.58,0:10:11.79,Internal,Rimuru Intern,0000,0000,0000,,Sie waren alle sehr eifrig.
+Dialogue: 0,0:10:16.63,0:10:20.93,Default,BiestmannA,0000,0000,0000,,Was ist das für ein Mechanismus,\Nder Warmwasser aus dem Hahn kommen lässt?
+Dialogue: 0,0:10:20.93,0:10:23.06,Default,Biestmann B,0000,0000,0000,,Ich sehe nichts, wo das\NWasser aufgewärmt wird.
+Dialogue: 0,0:10:23.35,0:10:25.31,Default,Doldo,0000,0000,0000,,Das nennt sich Siegelmagie.
+Dialogue: 0,0:10:25.31,0:10:26.85,Default,BiestmannA,0000,0000,0000,,Siegelmagie?
+Dialogue: 0,0:10:26.85,0:10:28.14,Default,Biestmann B,0000,0000,0000,,Wo ist das Siegel?
+Dialogue: 0,0:10:30.35,0:10:31.65,Default,Doldo,0000,0000,0000,,Im Griff des Hahns.
+Dialogue: 0,0:10:32.06,0:10:36.40,Default,Doldo,0000,0000,0000,,Hier ist ein Magiekristall eingelassen,\Nin dem Wärmemagie versiegelt ist.
+Dialogue: 0,0:10:36.40,0:10:37.61,Default,BiestmannA,0000,0000,0000,,Ah, ich verstehe.
+Dialogue: 0,0:10:37.61,0:10:41.62,Default,BiestmannA,0000,0000,0000,,Wenn jemand, der Magie besitzt, den Hahn aufdreht,\Nwird also das Wasser erwärmt.
+Dialogue: 0,0:10:41.62,0:10:43.33,Default,Biestmann B,0000,0000,0000,,Auf so was kommen auch nur Zwerge!
+Dialogue: 0,0:10:44.03,0:10:46.33,Default,Doldo,0000,0000,0000,,Ach, das ist doch gar nichts.
+Dialogue: 0,0:10:46.79,0:10:49.83,Internal,Dolde Intern,0000,0000,0000,,Und eigentlich hat sich\Ndas Meister Rimuru ausgedacht.
+Dialogue: 0,0:10:49.83,0:10:51.33,OrtTypes,,0000,0000,0000,,{\shad0\fs10\fnCourier New\b1\bord0\pos(328,298.5)}Um ganz ehrlich zu sein, kam die Idee vom großen Weisen.
+Dialogue: 0,0:10:53.84,0:10:57.38,Default,Youm,0000,0000,0000,,Ist es okay, wenn du nicht wie die anderen lernst?
+Dialogue: 0,0:10:57.38,0:10:58.80,Default,Grucius,0000,0000,0000,,Ja, das ist kein Problem.
+Dialogue: 0,0:10:58.80,0:11:01.64,Default,Grucius,0000,0000,0000,,Mein Meister Phobio,\Nder Panther-Reißzahn, der grade Buße tut,
+Dialogue: 0,0:11:01.64,0:11:04.97,Default,Grucius,0000,0000,0000,,befahl mir, dass ich\NMeister Rimuru helfen soll.
+Dialogue: 0,0:11:04.97,0:11:07.89,Default,Youm,0000,0000,0000,,Ach, deshalb gehst du mit auf Wachpatrouille?
+Dialogue: 0,0:11:07.89,0:11:09.43,Default,Grucius,0000,0000,0000,,Ganz genau.
+Dialogue: 0,0:11:09.43,0:11:11.23,Default,Gotuba,0000,0000,0000,,Hey, Grucius!
+Dialogue: 0,0:11:11.23,0:11:13.06,Default,Gotuba,0000,0000,0000,,Wir gehen jetzt auf Patrouille!
+Dialogue: 0,0:11:13.06,0:11:13.98,Default,Grucius,0000,0000,0000,,Alles klar.
+Dialogue: 0,0:11:14.36,0:11:15.11,Default,Grucius,0000,0000,0000,,Also dann.
+Dialogue: 0,0:11:18.61,0:11:21.28,Default,Youm,0000,0000,0000,,Gut, dann gehe ich bad…
+Dialogue: 0,0:11:22.82,0:11:25.95,Default,Hakuro,0000,0000,0000,,Es ist Zeit für dein Training,\Nwerter Herr.
+Dialogue: 0,0:11:25.95,0:11:26.95,Default,Youm,0000,0000,0000,,Verstanden.
+Dialogue: 0,0:11:32.42,0:11:37.17,Default,Tiss,0000,0000,0000,,Brüche einfach so zu teilen,\Nist ein wenig kompliziert.
+Dialogue: 0,0:11:37.17,0:11:39.76,Default,Tiss,0000,0000,0000,,Nehmt sie als Multiplikation und rechnet so.
+Dialogue: 0,0:11:40.17,0:11:45.18,Default,Tiss,0000,0000,0000,,Um einen Bruch in eine Multiplikation umzurechnen,\Nnimmt man den rechten Teiler und vertauscht
+Dialogue: 0,0:11:42.55,0:11:45.18,Overlap,Rimuru,0000,0000,0000,,{\i1}Auch wenn ich nicht da bin, lernen sie fleißig.{\i0}
+Dialogue: 0,0:11:45.18,0:11:46.97,Default,Tiss,0000,0000,0000,,ihn mit dem Nenner.
+Dialogue: 0,0:11:46.97,0:11:49.47,Default,Tiss,0000,0000,0000,,Das nennt man den Kehrwert.
+Dialogue: 0,0:11:49.47,0:11:53.56,Default,Tiss,0000,0000,0000,,Wenn man den Kehrwert und die\Nursprüngliche Zahl addiert, dann erhält man immer …
+Dialogue: 0,0:11:50.23,0:11:51.27,Overlap,Rimuru,0000,0000,0000,,Oh.
+Dialogue: 0,0:11:54.40,0:11:56.90,Internal,Rimuru,0000,0000,0000,,So gingen ein paar weitere Tage ins Land.
+Dialogue: 0,0:11:57.48,0:12:01.90,Internal,Rimuru,0000,0000,0000,,Youm und seine Freunde zogen wieder aus,\Num sich als Helden einen Namen zu machen.
+Dialogue: 0,0:12:02.32,0:12:06.32,Internal,Rimuru,0000,0000,0000,,Just in diesem Moment kam auch\Ndie Delegation von Benimaru zurück.
+Dialogue: 0,0:12:08.08,0:12:10.91,Default,Benimaru,0000,0000,0000,,Die Ritter Jurasanias sind so,\Nwie wir erwartet haben.
+Dialogue: 0,0:12:11.33,0:12:16.04,Default,Benimaru,0000,0000,0000,,Dämonenkönig Karion hat sie alle bis\Nzum einfachen Soldaten gut ausgebildet.
+Dialogue: 0,0:12:16.38,0:12:19.80,Default,Rimuru,0000,0000,0000,,Er ist halt der Bestienmeister.
+Dialogue: 0,0:12:19.80,0:12:20.55,Default,Rimuru,0000,0000,0000,,Sonst was?
+Dialogue: 0,0:12:20.88,0:12:21.80,Default,Rigul,0000,0000,0000,,Ja.
+Dialogue: 0,0:12:21.80,0:12:25.97,Default,Rigul,0000,0000,0000,,Die Gebäude dort sind im Vergleich\Nmit Tempest eher schlicht.
+Dialogue: 0,0:12:25.97,0:12:28.64,Default,Rigul,0000,0000,0000,,Der Palast ist jedoch äußerst luxuriös.
+Dialogue: 0,0:12:28.64,0:12:31.18,Default,Rigul,0000,0000,0000,,Der Wohlstand scheint\Nalso auf einen Ort konzentriert.
+Dialogue: 0,0:12:33.19,0:12:36.40,Default,Riguldo,0000,0000,0000,,Dass mein Rigul so ein stattlicher M…!
+Dialogue: 0,0:12:36.40,0:12:37.69,Default,Rimuru,0000,0000,0000,,Puh.
+Dialogue: 0,0:12:38.44,0:12:40.78,Default,Rigul,0000,0000,0000,,Wo war ich?
+Dialogue: 0,0:12:40.78,0:12:42.82,Default,Rigul,0000,0000,0000,,Ich meine das nicht im Schlechten.
+Dialogue: 0,0:12:43.11,0:12:45.03,Default,Rigul,0000,0000,0000,,Es scheint, als wolle die Bevölkerung das so.
+Dialogue: 0,0:12:45.03,0:12:46.20,Default,Rimuru,0000,0000,0000,,Ich verstehe.
+Dialogue: 0,0:12:46.20,0:12:48.53,Default,Rigul,0000,0000,0000,,Nicht nur bei den Gebäuden,\Nsondern generell im Bau
+Dialogue: 0,0:12:48.53,0:12:51.24,Default,Rigul,0000,0000,0000,,scheint unser Land sie\Ntechnisch zu übertreffen.
+Dialogue: 0,0:12:51.24,0:12:53.45,Default,Rimuru,0000,0000,0000,,Das liegt nur daran, dass nicht\Nnur Kaijin und seine Jungs,
+Dialogue: 0,0:12:53.45,0:12:55.58,Default,Rimuru,0000,0000,0000,,sondern auch Kurobe und Shuna hier sind.
+Dialogue: 0,0:12:56.63,0:13:00.75,Default,Rigul,0000,0000,0000,,Aber es gab eine Sache,\Ndie wahrlich bewundernswert war.
+Dialogue: 0,0:13:00.75,0:13:01.63,Default,Rimuru,0000,0000,0000,,Und die wäre?
+Dialogue: 0,0:13:01.96,0:13:03.26,Default,Rigul,0000,0000,0000,,Die Landwirtschaft.
+Dialogue: 0,0:13:03.63,0:13:04.88,Default,Rimuru,0000,0000,0000,,Oha!
+Dialogue: 0,0:13:05.30,0:13:09.35,Default,Rigul,0000,0000,0000,,Es erstrecken sich Felder in ihrem Land,\Nmit denen unseres nicht mithalten kann.
+Dialogue: 0,0:13:09.35,0:13:12.64,Default,Rigul,0000,0000,0000,,Auf diesen Feldern wachsen\Nviele farbenprächtige Früchte.
+Dialogue: 0,0:13:12.64,0:13:15.89,Default,Rimuru,0000,0000,0000,,Denkst du, dass wir uns das\NWissen darum aneignen können?
+Dialogue: 0,0:13:18.31,0:13:19.90,Default,Rigul,0000,0000,0000,,Ich denke, dass das möglich ist.
+Dialogue: 0,0:13:19.90,0:13:21.15,Default,Rimuru,0000,0000,0000,,Gut!
+Dialogue: 0,0:13:21.15,0:13:25.15,Default,Rimuru,0000,0000,0000,,Dann werde ich die nächste Delegation anweisen,\Nden Fokus auf die Landwirtschaft zu legen.
+Dialogue: 0,0:13:25.15,0:13:29.16,Default,Riguldo,0000,0000,0000,,Unsere Lebensmittelsituation\Nhat sich ohne Frage verbessert,
+Dialogue: 0,0:13:29.16,0:13:32.79,Default,Riguldo,0000,0000,0000,,aber wir haben noch viel\Nauszutesten und zu lernen.
+Dialogue: 0,0:13:32.79,0:13:37.92,Default,Riguldo,0000,0000,0000,,Wenn wir dies verbessern könnten,\Nwürde uns das sicher helfen.
+Dialogue: 0,0:13:39.84,0:13:41.13,Default,Riguldo,0000,0000,0000,,Mein Rigul ist so ein toller Mann gew…!
+Dialogue: 0,0:13:41.13,0:13:44.30,Default,Rimuru,0000,0000,0000,,Okay, ich habe Vorbereitungen für\Nmeine Reise zu den Zwergen zu treffen.
+Dialogue: 0,0:13:44.30,0:13:46.01,Default,Rimuru,0000,0000,0000,,Also überlasse ich euch den Rest.
+Dialogue: 0,0:13:46.01,0:13:47.34,Default,Rimuru,0000,0000,0000,,Ich verlasse mich auf euch.
+Dialogue: 0,0:13:47.34,0:13:48.22,Default,Alle,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:13:53.68,0:13:54.68,Default,Benimaru,0000,0000,0000,,Meister Rimuru.
+Dialogue: 0,0:13:54.68,0:13:55.31,Default,Rimuru,0000,0000,0000,,Hm?
+Dialogue: 0,0:13:58.77,0:14:00.81,Default,Benimaru,0000,0000,0000,,Wenn Sie mir gestatten,
+Dialogue: 0,0:14:00.81,0:14:05.49,Default,Benimaru,0000,0000,0000,,würde ich darum bitten, Rigul die\Nnächste Delegation anführen zu lassen.
+Dialogue: 0,0:14:05.49,0:14:06.82,Default,Rimuru,0000,0000,0000,,Wieso das?
+Dialogue: 0,0:14:07.24,0:14:11.24,Default,Benimaru,0000,0000,0000,,Ich kam zu dem Schluss, dass man\Ndem Dämonenkönig Karion vertrauen kann.
+Dialogue: 0,0:14:11.24,0:14:14.08,Default,Benimaru,0000,0000,0000,,Ich habe keine Sorge, dass er\Ndie Abgesandten schlecht behandelt.
+Dialogue: 0,0:14:14.37,0:14:18.87,Default,Benimaru,0000,0000,0000,,Deshalb denke ich, dass ich hier besser\Naufgehoben bin, um dass Land zu schützen.
+Dialogue: 0,0:14:18.87,0:14:19.83,Default,Rimuru,0000,0000,0000,,Hm.
+Dialogue: 0,0:14:19.83,0:14:23.17,Default,Rimuru,0000,0000,0000,,Du denkst, ich kann das Rigul überlassen.
+Dialogue: 0,0:14:23.17,0:14:24.75,Default,Rimuru,0000,0000,0000,,Sehe ich das richtig?
+Dialogue: 0,0:14:24.75,0:14:25.55,Default,Benimaru,0000,0000,0000,,Jawohl.
+Dialogue: 0,0:14:26.01,0:14:27.88,Default,Rimuru,0000,0000,0000,,Alles klar.\NDann machen wir das.
+Dialogue: 0,0:14:27.88,0:14:29.34,Default,Benimaru,0000,0000,0000,,Vielen Dank.
+Dialogue: 0,0:14:31.89,0:14:34.68,Default,Rimuru,0000,0000,0000,,Dass du ihm so sehr vertraust …
+Dialogue: 0,0:14:34.68,0:14:37.81,Default,Rimuru,0000,0000,0000,,Karion ist also ein König,\Nder mehr als nur Kraft hat, oder?
+Dialogue: 0,0:14:37.81,0:14:39.44,Default,Benimaru,0000,0000,0000,,Genau.
+Dialogue: 0,0:14:39.44,0:14:43.06,Default,Benimaru,0000,0000,0000,,Ich wollte ihn eigentlich provozieren,\Naber er hat nur gelacht.
+Dialogue: 0,0:14:43.82,0:14:45.07,Default,Rimuru,0000,0000,0000,,Was?!
+Dialogue: 0,0:14:45.40,0:14:47.57,Default,Rimuru,0000,0000,0000,,D-Du hast …
+Dialogue: 0,0:14:48.82,0:14:52.82,Default,Benimaru,0000,0000,0000,,Ich konnte meinen Hell Flare natürlich nicht nutzen,\Nalso hat er mich verprügelt.
+Dialogue: 0,0:14:53.87,0:14:55.62,Default,Benimaru,0000,0000,0000,,Ich muss noch viel lernen.
+Dialogue: 0,0:14:55.62,0:14:56.66,Default,Rimuru,0000,0000,0000,,Du …
+Dialogue: 0,0:14:56.66,0:14:59.50,Default,Benimaru,0000,0000,0000,,Ah, aber gegen Phobio habe ich gewonnen.
+Dialogue: 0,0:14:59.50,0:15:00.58,Default,Rimuru,0000,0000,0000,,Ah, toll.
+Dialogue: 0,0:15:00.96,0:15:04.84,Default,Rimuru,0000,0000,0000,,Es ist echt toll,\Ndass du gegen Phobio gewonnen hast.
+Dialogue: 0,0:15:05.67,0:15:10.59,Internal,Rimuru Intern,0000,0000,0000,,Das war nichts. Er ist also doch niemand,\Nden man auf andere loslassen kann.
+Dialogue: 0,0:15:11.84,0:15:13.85,Internal,Rimuru,0000,0000,0000,,Es gab noch ein paar\Nandere Vorkommnisse, …
+Dialogue: 0,0:15:15.18,0:15:16.10,Internal,Rimuru,0000,0000,0000,,aber am nächsten Tag …
+Dialogue: 0,0:15:16.56,0:15:20.23,Internal,Rimuru,0000,0000,0000,,bin diesmal ich aufgebrochen,\Num nach Dwargon zu reisen.
+Dialogue: 0,0:15:21.06,0:15:23.23,Default,Rimuru,0000,0000,0000,,Hey, Ranga!\NDu bist zu schnell!
+Dialogue: 0,0:15:23.23,0:15:25.11,Default,Ranga,0000,0000,0000,,Jawohl! Verstanden!
+Dialogue: 0,0:15:25.57,0:15:26.86,Default,Gotuba,0000,0000,0000,,Woah!
+Dialogue: 0,0:15:26.86,0:15:29.32,Default,Rimuru,0000,0000,0000,,Ranga!
+Dialogue: 0,0:15:30.70,0:15:35.87,Internal,Rimuru,0000,0000,0000,,Diesmal reisten mit mir Gobuta,\NGobuzo und seine sechs Goblin-Reiter.
+Dialogue: 0,0:15:36.28,0:15:37.91,Internal,Rimuru,0000,0000,0000,,Zudem Shuna und Shion.
+Dialogue: 0,0:15:37.91,0:15:43.67,Internal,Rimuru,0000,0000,0000,,Außerdem noch Kaijin und die\Ndrei Zwergenbrüder Garm, Doldo und Mild.
+Dialogue: 0,0:15:43.96,0:15:49.05,Default,Kaijin,0000,0000,0000,,Ich bin sehr dankbar, dass wir nach\Nlanger Zeit mal wieder in Dwargon sein können.
+Dialogue: 0,0:15:49.42,0:15:52.09,Default,Garm,0000,0000,0000,,Ganz genau!\NMeint ihr nicht auch?
+Dialogue: 0,0:15:52.09,0:15:53.64,Default,Doldo,0000,0000,0000,,Auf jeden Fall.
+Dialogue: 0,0:15:53.64,0:15:55.05,Default,Mild,0000,0000,0000,,Hm! Hm!
+Dialogue: 0,0:15:55.05,0:15:58.18,Default,Rimuru,0000,0000,0000,,Es freut mich sehr, dass ihr es so seht.
+Dialogue: 0,0:15:58.18,0:16:02.02,Default,Rimuru,0000,0000,0000,,Dass unser Staat so floriert,\Nhaben wir euch zu verdanken.
+Dialogue: 0,0:16:02.56,0:16:06.65,Default,Kaijin,0000,0000,0000,,Solche Worte zu hören bekommen,\Nist eine große Ehre für uns!
+Dialogue: 0,0:16:06.65,0:16:07.32,Default,Garm,0000,0000,0000,,Allerdings.
+Dialogue: 0,0:16:07.73,0:16:10.57,Default,Rimuru,0000,0000,0000,,Ich freue mich wirklich sehr,\Ndass ich euch getroffen habe.
+Dialogue: 0,0:16:10.86,0:16:12.57,Default,Kaijin,0000,0000,0000,,Mein Herr.
+Dialogue: 0,0:16:15.32,0:16:20.45,Internal,Rimuru Intern,0000,0000,0000,,Ach so, in den beiden hinteren Kutschen\Nsind Souvenirs für König Gazelle.
+Dialogue: 0,0:16:20.45,0:16:25.08,Internal,Rimuru Intern,0000,0000,0000,,Ich dachte, es wäre besser, den Platz zu sparen\Nund sie in meinem Magen zu verstauen, aber …
+Dialogue: 0,0:16:25.08,0:16:27.84,Flashback,Shuna,0000,0000,0000,,Bei so was ist das Auftreten sehr wichtig.
+Dialogue: 0,0:16:27.84,0:16:29.63,Internal,Rimuru Intern,0000,0000,0000,,… ich wurde zurechtgewiesen.
+Dialogue: 0,0:16:30.09,0:16:32.22,Internal,Rimuru Intern,0000,0000,0000,,Sie war halt die Prinzessin der Oger.
+Dialogue: 0,0:16:32.22,0:16:34.85,Internal,Rimuru Intern,0000,0000,0000,,In letzter Zeit hatte sie\Nviel von Bester gelernt
+Dialogue: 0,0:16:34.85,0:16:37.72,Internal,Rimuru Intern,0000,0000,0000,,und was Anstand anging,\Nkonnte ich auf sie bauen.
+Dialogue: 0,0:16:37.72,0:16:39.39,Internal,Rimuru Intern,0000,0000,0000,,Ach ja. Von Shion
+Dialogue: 0,0:16:39.39,0:16:43.48,Internal,Rimuru Intern,0000,0000,0000,,dachte ich eigentlich auch, dass sie wie Benimaru\Nnicht auf andere losgelassen werden sollte …
+Dialogue: 0,0:16:43.73,0:16:44.48,Flashback,Shion,0000,0000,0000,,Was?
+Dialogue: 0,0:16:44.89,0:16:47.23,Flashback,Shion,0000,0000,0000,,Shuna soll mit Ihnen auf Reisen gehen?
+Dialogue: 0,0:16:47.23,0:16:49.77,Flashback,Rimuru,0000,0000,0000,,Nein, keine Reise.\NEs geht um Arbeit.
+Dialogue: 0,0:16:49.77,0:16:51.48,Flashback,Rimuru,0000,0000,0000,,Das ist fies!\NDas ist so fies!
+Dialogue: 0,0:16:51.48,0:16:53.78,Flashback,Rimuru,0000,0000,0000,,Shuna soll mit Ihnen alleine Spaß haben?!
+Dialogue: 0,0:16:53.78,0:16:55.61,Flashback,Rimuru,0000,0000,0000,,Es geht um die Arbeit.\NDie Arbeit!
+Dialogue: 0,0:16:59.37,0:17:01.29,Flashback,Rigul,0000,0000,0000,,Fräulein Shion dreht durch!
+Dialogue: 0,0:17:01.29,0:17:03.62,Flashback,Riguldo,0000,0000,0000,,Beruhigen Sie sich!
+Dialogue: 0,0:17:04.33,0:17:07.54,Internal,Rimuru Intern,0000,0000,0000,,Da hat sie geheult und randaliert.
+Dialogue: 0,0:17:09.84,0:17:10.88,Flashback,Rimuru,0000,0000,0000,,Plopp!
+Dialogue: 0,0:17:10.88,0:17:13.30,Flashback,Rimuru,0000,0000,0000,,Kann ich dir das überlassen, Riguldo?
+Dialogue: 0,0:17:14.17,0:17:16.05,Flashback,Riguldo,0000,0000,0000,,Wir kommen schon klar.
+Dialogue: 0,0:17:16.63,0:17:21.81,Internal,Rimuru Intern,0000,0000,0000,,Hätte ich sie dagelassen, hätten es Riguldo und\Ndie anderen ausbaden müssen. Also kam sie mit.
+Dialogue: 0,0:17:22.22,0:17:26.27,Internal,Rimuru Intern,0000,0000,0000,,Wie auch immer.\NSolange sie die Klappe hält, sieht sie fähig aus.
+Dialogue: 0,0:17:26.27,0:17:29.69,Internal,Rimuru Intern,0000,0000,0000,,Solange ich sie im Auge behalte,\Nsollte es kein Problem sein.
+Dialogue: 0,0:17:31.15,0:17:33.03,Default,Shion,0000,0000,0000,,Meister Rimuru, sehen Sie mal.
+Dialogue: 0,0:17:33.03,0:17:33.57,Default,Rimuru,0000,0000,0000,,Hm?
+Dialogue: 0,0:17:35.95,0:17:38.57,Default,Shion,0000,0000,0000,,Der Weg, der im Kampf\Nmit Charybdis zerstört wurde,
+Dialogue: 0,0:17:38.57,0:17:40.62,Default,Shion,0000,0000,0000,,ist fast komplett wieder repariert.
+Dialogue: 0,0:17:40.62,0:17:43.29,Default,Rimuru,0000,0000,0000,,Oh, stimmt.\NDie sind echt fix.
+Dialogue: 0,0:17:43.29,0:17:45.41,Default,Shion,0000,0000,0000,,Das kann man von Gerudo erwarten.
+Dialogue: 0,0:17:52.21,0:17:54.71,Default,Gerudo,0000,0000,0000,,Gut. Alles läuft nach Plan.
+Dialogue: 0,0:17:54.71,0:17:58.80,Default,Untergebener Gerudos,0000,0000,0000,,Meister Gerudo,\Nkönnten Sie mehr Pflastersteine bestellen?
+Dialogue: 0,0:17:58.80,0:18:01.72,Default,Gerudo,0000,0000,0000,,Alles klar.\NIch werde beim Steinbruch anfragen.
+Dialogue: 0,0:18:01.72,0:18:02.68,Default,Untergebener Gerudos,0000,0000,0000,,Danke.
+Dialogue: 0,0:18:02.68,0:18:04.39,Default,Untergebener Gerudos,0000,0000,0000,,Oh, was ist das?
+Dialogue: 0,0:18:04.39,0:18:05.23,Default,Gerudo,0000,0000,0000,,Hm?
+Dialogue: 0,0:18:10.27,0:18:13.23,Default,Gerudo,0000,0000,0000,,Ah, heute war der Tag,\Nan dem Sie ins Zwergenreich aufbrechen?
+Dialogue: 0,0:18:13.23,0:18:17.57,Default,Rimuru,0000,0000,0000,,Ja. Und weil der Weg wieder gerichtet ist,\Nwerden wir nicht so durchgeschüttelt. Sehr angenehm.
+Dialogue: 0,0:18:17.57,0:18:21.74,Default,Gerudo,0000,0000,0000,,Stimmt. Wir haben mit den Arbeiten\Nvom Reich der Zwerge aus begonnen.
+Dialogue: 0,0:18:21.74,0:18:24.83,Default,Gerudo,0000,0000,0000,,Von hier an ist der Weg komplett fertig.
+Dialogue: 0,0:18:24.83,0:18:27.87,Default,Rimuru,0000,0000,0000,,Oh, dann haben wir es\Nweiterhin sehr angenehm.
+Dialogue: 0,0:18:27.87,0:18:28.83,Default,Rimuru,0000,0000,0000,,Gute Arbeit.
+Dialogue: 0,0:18:29.67,0:18:30.92,Default,Gerudo,0000,0000,0000,,Vielen Dank.
+Dialogue: 0,0:18:31.17,0:18:32.04,Default,Rimuru,0000,0000,0000,,Dafür gibt’s das.
+Dialogue: 0,0:18:37.51,0:18:38.51,Default,Gerudo,0000,0000,0000,,Was ist das?
+Dialogue: 0,0:18:38.80,0:18:39.97,Default,Rimuru,0000,0000,0000,,Bier!
+Dialogue: 0,0:18:40.39,0:18:41.80,Default,Untergebener Gerudos,0000,0000,0000,,Bier?!
+Dialogue: 0,0:18:41.80,0:18:45.81,Top,Untergebener Gerudos,0000,0000,0000,,Vielen Dank, Meister Rimuru!
+Dialogue: 0,0:18:42.22,0:18:44.10,Default,Rimuru,0000,0000,0000,,Trinkt nicht zu viel.
+Dialogue: 0,0:18:44.10,0:18:45.18,Default,Gerudo,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:18:46.22,0:18:48.81,Internal,Rimuru,0000,0000,0000,,Wir hatten keine\Nweiteren Probleme auf der Reise.
+Dialogue: 0,0:18:49.52,0:18:51.73,Internal,Rimuru,0000,0000,0000,,Und am vierten Tag\Nnach unserem Aufbruch
+Dialogue: 0,0:18:51.73,0:18:54.98,Internal,Rimuru,0000,0000,0000,,kamen wir in Dwargon an.
+Dialogue: 0,0:18:55.53,0:18:56.99,Default,Kaido,0000,0000,0000,,Öffnet das Tor!
+Dialogue: 0,0:18:56.99,0:18:59.86,Default,Passant 1,0000,0000,0000,,Wenn er solch prächtige\NDämonen in seinem Dienst hat,
+Dialogue: 0,0:18:59.86,0:19:01.28,Default,Passant 1,0000,0000,0000,,muss er eine wichtige Person sein.
+Dialogue: 0,0:19:01.28,0:19:03.12,Default,Passant 2,0000,0000,0000,,Das sollen Dämonen sein?
+Dialogue: 0,0:19:03.12,0:19:04.91,Default,Passant 2,0000,0000,0000,,Ich habe die noch nie gesehen, aber …
+Dialogue: 0,0:19:03.62,0:19:06.58,Overlap,Passant 1,0000,0000,0000,,Und diese Kutsche ist ebenfalls sehr wunderlich.
+Dialogue: 0,0:19:06.87,0:19:08.20,Default,Kaido,0000,0000,0000,,Hey, Bruderherz.
+Dialogue: 0,0:19:08.20,0:19:08.79,Default,Kaijin,0000,0000,0000,,Hm?
+Dialogue: 0,0:19:09.29,0:19:11.37,Default,Kaido,0000,0000,0000,,Es freut mich sehr, dich gesund zu sehen.
+Dialogue: 0,0:19:11.37,0:19:14.71,Default,Kaijin,0000,0000,0000,,Kaido!\NLang ist’s her. Geht’s dir gut?
+Dialogue: 0,0:19:14.71,0:19:17.46,Default,Kaijin,0000,0000,0000,,Ich habe echt Spaß in Rimurus Diensten.
+Dialogue: 0,0:19:17.46,0:19:18.67,Default,Kaido,0000,0000,0000,,Dachte ich mir.
+Dialogue: 0,0:19:18.67,0:19:20.59,Default,Kaido,0000,0000,0000,,Das sieht man direkt.
+Dialogue: 0,0:19:20.59,0:19:22.14,Default,Kaido,0000,0000,0000,,Geht’s euch allen auch gut?
+Dialogue: 0,0:19:22.14,0:19:23.97,Default,Garm,0000,0000,0000,,Joa, uns geht’s gut.
+Dialogue: 0,0:19:23.97,0:19:24.72,Default,Doldo,0000,0000,0000,,Genau.
+Dialogue: 0,0:19:24.72,0:19:25.64,Default,Mild,0000,0000,0000,,Hm!
+Dialogue: 0,0:19:25.64,0:19:26.60,Default,Kaido,0000,0000,0000,,Und?
+Dialogue: 0,0:19:27.02,0:19:28.43,Default,Kaido,0000,0000,0000,,Wo ist der werte Rimuru?
+Dialogue: 0,0:19:28.77,0:19:29.56,Default,Kaijin,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:30.19,0:19:33.23,Default,Kaido,0000,0000,0000,,Er ist doch jetzt unser Staatsgast.
+Dialogue: 0,0:19:33.23,0:19:35.52,Default,Kaido,0000,0000,0000,,Ich wollte ihm vorher Hallo sagen.
+Dialogue: 0,0:19:35.52,0:19:38.28,Top,Kaido,0000,0000,0000,,Er müsste doch hier sein.
+Dialogue: 0,0:19:35.82,0:19:38.69,Internal,Rimuru Intern,0000,0000,0000,,Was redet der da?\NIch bin doch hier.
+Dialogue: 0,0:19:38.69,0:19:43.49,Internal,Rimuru Intern,0000,0000,0000,,Ach so, er kennt mich ja nur als Schleim.
+Dialogue: 0,0:19:44.03,0:19:45.83,Default,Kaijin,0000,0000,0000,,Hier haben wir unseren Herrn Rimuru.
+Dialogue: 0,0:19:46.12,0:19:47.08,Default,Kaido,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:47.45,0:19:49.08,Default,Garm,0000,0000,0000,,Na, Herr Rimuru.
+Dialogue: 0,0:19:49.08,0:19:50.12,Default,Kaido,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:50.12,0:19:51.37,Default,Doldo,0000,0000,0000,,Na, der werte Herr.
+Dialogue: 0,0:19:51.37,0:19:51.96,Default,Kaido,0000,0000,0000,,Hä?
+Dialogue: 0,0:19:51.96,0:19:52.96,Default,Mild,0000,0000,0000,,Hm!
+Dialogue: 0,0:19:52.96,0:19:54.17,Default,Kaido,0000,0000,0000,,Was?!
+Dialogue: 0,0:19:54.63,0:19:56.96,Default,Rimuru,0000,0000,0000,,Es ist einiges passiert, weißt du.
+Dialogue: 0,0:19:56.96,0:20:01.88,Default,Kaido,0000,0000,0000,,Sie sehen auch gesund aus, Herr Rimuru.\NWas für eine Freude.
+Dialogue: 0,0:20:01.88,0:20:04.68,Default,Kaido,0000,0000,0000,,Ähm, also bitte, hier entlang.
+Dialogue: 0,0:20:04.68,0:20:06.85,Internal,Rimuru Intern,0000,0000,0000,,Ich kann ihn verstehen.
+Dialogue: 0,0:20:08.39,0:20:11.77,Internal,Rimuru,0000,0000,0000,,So hatten wir es ohne Probleme\Nnach Dwargon geschafft …
+Dialogue: 0,0:20:12.10,0:20:16.06,Internal,Rimuru,0000,0000,0000,,und uns direkt zu König Gazelle bewegt,\Num ihn zu treffen.
+Dialogue: 0,0:20:18.52,0:20:21.28,Default,Dolf,0000,0000,0000,,Es freut mich sehr, Sie gesund\Nzu sehen, Meister Rimuru.
+Dialogue: 0,0:20:21.82,0:20:23.78,Default,Rimuru,0000,0000,0000,,Sie scheinen auch wohlauf zu sein, Dolf.
+Dialogue: 0,0:20:25.74,0:20:27.99,Default,Dolf,0000,0000,0000,,Sie müssen doch nicht so höflich sein.
+Dialogue: 0,0:20:27.99,0:20:30.87,Default,Dolf,0000,0000,0000,,Nun, unsere Königliche Hoheit wartet auf Sie.
+Dialogue: 0,0:20:31.25,0:20:35.42,Internal,Rimuru Intern,0000,0000,0000,,Er war der Anführer der Pegasusritter Dolf,\Nder uns im Kampf gegen Charybdis geholfen hatte.
+Dialogue: 0,0:20:35.92,0:20:39.05,Internal,Rimuru Intern,0000,0000,0000,,Die Pegasusritter waren eine geheime Einheit,\Ndie dem König untersteht.
+Dialogue: 0,0:20:39.05,0:20:42.42,Internal,Rimuru Intern,0000,0000,0000,,Deswegen gab er sich für\Ngewöhnlich als normalen Staatsbeamten aus.
+Dialogue: 0,0:20:46.51,0:20:49.56,Default,Dolf,0000,0000,0000,,Der Landesherr der Republik Jura-Tempest,
+Dialogue: 0,0:20:49.56,0:20:52.02,Default,Dolf,0000,0000,0000,,seine Hoheit Rimuru ist eingetroffen!
+Dialogue: 0,0:20:58.65,0:21:00.28,Default,Dolf,0000,0000,0000,,Bitte tretet ein.
+Dialogue: 0,0:21:06.82,0:21:08.91,Internal,Rimuru Intern,0000,0000,0000,,Der König der Kriegsnation Dwargon.
+Dialogue: 0,0:21:08.91,0:21:11.41,Internal,Rimuru Intern,0000,0000,0000,,Gazelle Dwargo.
+Dialogue: 0,0:21:12.58,0:21:14.96,Default,Gazelle,0000,0000,0000,,Lange ist es her, Rimuru.
+Dialogue: 0,0:21:24.47,0:21:26.34,Default,Kleiman,0000,0000,0000,,So ist das also.
+Dialogue: 0,0:21:29.30,0:21:33.56,Default,Kleiman,0000,0000,0000,,Gute Arbeit.\NEin wahrlich interessanter Bericht.
+Dialogue: 0,0:21:33.56,0:21:34.98,Default,Kleiman,0000,0000,0000,,Danke.
+Dialogue: 0,0:21:35.60,0:21:37.85,Default,Kleiman,0000,0000,0000,,So langsam kann ich dir wohl
+Dialogue: 0,0:21:37.85,0:21:41.11,Default,Kleiman,0000,0000,0000,,dein Herz zurückgeben.
+Dialogue: 0,0:21:43.15,0:21:46.28,Default,Kleiman,0000,0000,0000,,Aber wenn du noch\Nein wenig für mich arbeitest,
+Dialogue: 0,0:21:46.28,0:21:48.82,Default,Kleiman,0000,0000,0000,,wäre mir wirklich geholfen.
+Dialogue: 0,0:21:49.82,0:21:53.29,Default,Myuran,0000,0000,0000,,Was soll ich für Sie tun, Meister Clayman?
+Dialogue: 0,0:21:53.29,0:21:56.08,Default,Kleiman,0000,0000,0000,,Es ist eine sehr einfache Aufgabe.
+Dialogue: 0,0:21:56.08,0:21:58.50,Default,Kleiman,0000,0000,0000,,Wirklich einfach.
+Dialogue: 0,0:21:59.08,0:22:00.50,Default,Kleiman,0000,0000,0000,,Verstehst du, …
+Dialogue: 0,0:22:00.88,0:22:02.63,Default,Kleiman,0000,0000,0000,,Myuran?
+Dialogue: 0,0:23:36.26,0:23:36.97,NachstesMal,,0000,0000,0000,,Nächstes {\alpha&HFF&\t(210,210,\alpha&H00&)}Mal
+Dialogue: 0,0:23:36.60,0:23:39.60,Default,Großer Weiser,0000,0000,0000,,Nächstes Mal:\N„Wieder im Paradies“.
+Dialogue: 0,0:23:37.14,0:23:41.06,NextEpiTitle1,,0000,0000,0000,,{\clip(140,50,205,125)\t(1,300,\clip(120,50,330,125))\pos(330,75)}\hWieder im\h
+Dialogue: 0,0:23:37.39,0:23:41.06,NextEpiTitle2,,0000,0000,0000,,{\pos(335,75)\alpha&HFF&\t(0,120,\alpha&H00&)}P{\alpha&HFF&\t(68,188,\alpha&H00&)}a{\alpha&HFF&\t(137,257,\alpha&H00&)}r{\alpha&HFF&\t(205,325,\alpha&H00&)}a{\alpha&HFF&\t(274,394,\alpha&H00&)}d{\alpha&HFF&\t(342,462,\alpha&H00&)}i{\alpha&HFF&\t(411,531,\alpha&H00&)}e{\alpha&HFF&\t(480,600,\alpha&H00&)}s

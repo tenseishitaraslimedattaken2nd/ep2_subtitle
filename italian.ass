@@ -1,0 +1,481 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Sign,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0012,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H002A901E,&H002A901E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Main_Top_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: EpTitle,Times New Roman,21,&H00FFFFFF,&H000000FF,&H011C2825,&H001C2825,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: TitoloSigla,Arial,24,&H00CA9611,&H000000FF,&H00FEFEFE,&H0047200D,0,0,0,0,100,100,0,0,1,4,0,8,0028,0028,0012,1
+Style: Prossimamente,Times New Roman,24,&H00D3E1E2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0268,1
+Style: TitoloNext,Times New Roman,26,&H00000000,&H000000FF,&H00D8E2E5,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,0010,0010,0230,1
+Style: sign_23240_263_Avviso_,Times New Roman,33,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0259,0264,0295,1
+Style: Tecniche,Times New Roman,30,&H00FDFDFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0008,1
+Style: PG,Times New Roman,24,&H00FFFFFF,&H000000FF,&H002C2E2E,&H002C2E2E,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: sign_5629_346_Gluttony_,Times New Roman,33,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0001,0001,0298,1
+Style: sign_5675_347_Fondere_tra_loro,Times New Roman,33,&H00DDE9DE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0098,0098,0295,1
+Style: sign_6237_349_Alteratore,Times New Roman,33,&H00D6E4E9,&H000000FF,&H0022211B,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0240,0234,0309,1
+Style: sign_6281_350_Spirito_superior,Times New Roman,27,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0188,0182,0298,1
+Style: sign_6330_351_Fusione_,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0198,0344,0202,1
+Style: sign_6330_352_completata,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0325,0187,0202,1
+Style: sign_6378_354_Terra,Times New Roman,38,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0301,0231,0263,1
+Style: sign_6378_353_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0191,0339,0204,1
+Style: sign_6416_355_Creazione_di_una,Times New Roman,27,&H00DDE9DE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0295,1
+Style: sign_6537_356_Spirito_superior,Times New Roman,24,&H00DDE9DE,&H000000FF,&H003A1D13,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0095,0363,0097,1
+Style: sign_6548_357_Terra,Times New Roman,34,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0128,0404,0253,1
+Style: sign_6561_358_Gail_Gibson,Times New Roman,28,&H00DDE9DE,&H000000FF,&H00111213,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0355,0123,0252,1
+Style: sign_6582_359_Fonderli__,Times New Roman,27,&H00DDE9DE,&H000000FF,&H001A1A15,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0364,0142,0147,1
+Style: sign_6207_348_Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001A211E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0266,0266,0295,1
+Style: sign_8367_360__Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0262,0262,0295,1
+Style: sign_8397_361_Alteratore,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0240,0234,0309,1
+Style: sign_8441_362_Spirito_superior,Times New Roman,27,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0213,0207,0298,1
+Style: sign_8490_363_Fusione,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0204,0346,0201,1
+Style: sign_8490_364_Completata,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0323,0181,0201,1
+Style: sign_8535_365_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001B1036,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0195,0335,0176,1
+Style: sign_8534_366_Vuoto,Times New Roman,38,&H00D6E4E9,&H000000FF,&H001B1036,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0330,0198,0303,1
+Style: sign_11410_367_Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001A3F0E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0266,0266,0295,1
+Style: sign_11431_368_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001A3F0E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0195,0335,0176,1
+Style: sign_11448_370_Vento_,Times New Roman,38,&H00D6E4E9,&H000000FF,&H0016320E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0423,0097,0258,1
+Style: sign_11448_369_Acqua_,Times New Roman,38,&H00D6E4E9,&H000000FF,&H0016320E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0090,0420,0258,1
+Style: sign_11479_376_Spirito_superior,Times New Roman,22,&H00DDE9DE,&H000000FF,&H003D5824,&H00000000,0,0,0,0,100,100,0,-90,1,4,0,2,0040,0308,0097,1
+Style: sign_11542_377_Completato,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00163C0D,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0063,0441,0224,1
+Style: sign_11542_378_con_successo,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00163C0D,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0443,0053,0224,1
+Style: sign_3408_22_S_l_i_m_e,Verdana,20,&H00141621,&H000000FF,&H00ABB8CB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0309,0309,0012,1
+Style: sign_5950_128_Risposta,Times New Roman,33,&H00D6E4E9,&H000000FF,&H000B0909,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0252,0252,0295,1
+Style: sign_6030_129_Il_polistirene__,Times New Roman,28,&H00D1DBD6,&H000000FF,&H000C0B09,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0001,0001,0003,1
+Style: sign_6099_130_Polimerizzazione,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001A211E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0185,0185,0002,1
+Style: sign_17733_276_Limur,Comic Sans MS,24,&H00636365,&H000000FF,&H00F8F9F6,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0001,0001,0012,1
+Style: sign_20188_496_Facile_da_capire,Times New Roman,14,&H0052E4DD,&H000000FF,&H003A2EB5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0156,0156,0012,1
+Style: sign_20188_497_Manuale_di_sopra,Arial,28,&H003C34C5,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,8,0127,0127,0012,1
+Style: sign_20188_499_Spiegazioni_esau,Times New Roman,14,&H0052E4DD,&H000000FF,&H003A2EB5,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0088,0088,0012,1
+Style: sign_20188_498_Aggiunta_special,Times New Roman,12,&H005B55B7,&H000000FF,&H00E7FAF1,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,0010,0492,0000,1
+Style: sign_8947_490_Valore_magico__0,Times New Roman,27,&H00C8E5E0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0001,0001,0166,1
+Style: sign_11212_372_Regno_di_Bulmund,Times New Roman,24,&H00FFFFFF,&H000000FF,&H0024B508,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0195,0198,0321,1
+Style: sign_11046_370_Regno_di_Bulmund,Arial,16,&H000A2543,&H000000FF,&H00447B92,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0039,0424,0149,1
+Style: sign_5882_485_Regno_di_Ingraci,Times New Roman,17,&H00000103,&H000000FF,&H007DC2D0,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0223,0223,0012,1
+Style: sign_13222_2_Attivazione_poss,Arial,28,&H00EEEEEE,&H000000FF,&H00000000,&H00FDF8F4,0,0,0,0,100,100,0,0,3,2,2,2,0001,0001,0012,1
+Style: sign_13179_1_del_Grande_Limur,Arial,12,&H00392824,&H000000FF,&H00F6F3EF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0498,0038,0344,1
+Style: sign_11683_138_Regioni_occident,Arial,18,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0167,0263,0195,1
+Style: sign_11683_139_Dinastia_demonia,Arial,10,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0295,0181,0244,1
+Style: sign_11683_140_Federazione_dell,Arial,18,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,20.28,1,4,0,8,0462,0000,0245,1
+Style: sign_11683_141_Regno_di_Ingraci,Arial,13,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0169,0334,0140,1
+Style: sign_11683_142_Sacro_impero_Rub,Arial,10,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0079,0481,0121,1
+Style: sign_11683_143_Caverna_del_sigi,Arial,10,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0471,0059,0139,1
+Style: sign_11683_144_Grande_foresta_d,Arial,11,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0428,0052,0083,1
+Style: sign_11683_145_Regno_di_Bulmund,Arial,10,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0100,0100,0160,1
+Style: sign_11683_146_Regno_di_Falmuth,Arial,10,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0358,0176,0038,1
+Style: sign_11683_147_Impero_di_Sirthr,Arial,10,&H000A2543,&H000000FF,&H00AACAD0,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0265,0265,0045,1
+Style: sign_11683_148_Regno_militare_d,Arial,10,&H000A2543,&H000000FF,&H005C829E,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0505,0048,0022,1
+Style: sign_11683_149_Lago_Siss,Arial,10,&H00A0BFCD,&H000000FF,&H00476F7E,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0585,0000,0124,1
+Style: sign_11683_150_Catena_montuosa_,Arial,10,&H000A2543,&H000000FF,&H005892B2,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0507,0027,0047,1
+Style: sign_11683_151_Montagne_Kusha_,Arial,9,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0432,0114,0205,1
+Style: sign_9042_348_Federazione_Jura,Arial,16,&H000A2543,&H000000FF,&H0066A4B9,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0407,0000,0245,1
+Style: sign_15581_170_Per_essere_preci,Arial,15,&H00CBAD69,&H000000FF,&H00FCFEFE,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0001,0001,0012,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.46,0:00:05.38,Main_Italics,,0000,0000,0000,,La delegazione del Regno delle bestie Eurazania
+Dialogue: 0,0:00:05.38,0:00:09.11,Main_Italics,,0000,0000,0000,,è giunta a Tempest per ordine del Re demone Callion.
+Dialogue: 0,0:00:09.42,0:00:10.57,Main_Italics,,0000,0000,0000,,Tuttavia,
+Dialogue: 0,0:00:10.57,0:00:13.11,Main_Italics,,0000,0000,0000,,non appena arrivata, ne sono successe di tutti i colori...
+Dialogue: 0,0:00:25.58,0:00:27.96,Main_Italics,,0000,0000,0000,,e siamo finiti in questa situazione.
+Dialogue: 0,0:00:29.42,0:00:32.62,Main_Italics,,0000,0000,0000,,Beh, in parte è colpa mia...
+Dialogue: 0,0:00:32.62,0:00:34.30,Main_Italics,,0000,0000,0000,,Sì, forse sì.
+Dialogue: 0,0:00:52.57,0:00:54.32,TitoloSigla,,0000,0000,0000,,{\fad(125,0)}That {\c&H47200D&}Time{\c&HCA9611&} I Got {\c&H47200D&\b1}Reincarnated{\c&HCA9611&\b0} as a {\b1\c&H47200D&}S{\c&H7C4A09&}li{\c&H9F6B03&}m{\c&HCA9611&}e{\b0}
+Dialogue: 0,0:02:11.65,0:02:16.32,EpTitle,,0000,0000,0000,,{\fad(1425,525)\3c&H2D3835&\4c&H2D3835&}Episodio 26  Lo scambio commerciale con il regno delle bestie
+Dialogue: 0,0:02:27.12,0:02:29.43,Main,,0000,0000,0000,,Tutto qui il potere di un kijin?
+Dialogue: 0,0:02:29.43,0:02:31.75,Main,,0000,0000,0000,,Fammi divertire molto, molto di più!
+Dialogue: 0,0:02:31.75,0:02:34.13,Main,,0000,0000,0000,,Era proprio quello che volevo fare.
+Dialogue: 0,0:02:40.79,0:02:41.89,Main,,0000,0000,0000,,Preparati!
+Dialogue: 0,0:02:44.48,0:02:45.18,Main,,0000,0000,0000,,Ma quella...
+Dialogue: 0,0:02:45.85,0:02:47.68,Main,,0000,0000,0000,,Una gigantesca bomba magica?
+Dialogue: 0,0:02:47.68,0:02:50.08,Main,,0000,0000,0000,,E-Ehi, Shion! A-Aspetta un attimo...
+Dialogue: 0,0:02:50.08,0:02:52.19,Main,,0000,0000,0000,,Vuoi radere al suolo l'intera zona?!
+Dialogue: 0,0:02:53.77,0:02:55.69,Main_Italics,,0000,0000,0000,,Ah, non mi sente nemmeno...
+Dialogue: 0,0:02:56.55,0:02:58.25,Main,,0000,0000,0000,,E va bene, sono pronta!
+Dialogue: 0,0:02:58.25,0:03:01.44,Main_Italics,,0000,0000,0000,,Cosa?! Quella Suphia vuole davvero che la lanci?!
+Dialogue: 0,0:03:01.44,0:03:04.48,Main_Italics,,0000,0000,0000,,Per quanto possa essere forte, non può uscirne viva!
+Dialogue: 0,0:03:05.40,0:03:07.54,Main_Italics,,0000,0000,0000,,Che faccio? Le fermo?
+Dialogue: 0,0:03:09.29,0:03:10.16,Main,,0000,0000,0000,,Prendi questo!
+Dialogue: 0,0:03:10.16,0:03:11.00,Main,,0000,0000,0000,,Basta così!
+Dialogue: 0,0:03:16.23,0:03:18.09,Main,,0000,0000,0000,,È sufficiente.
+Dialogue: 0,0:03:22.35,0:03:24.09,Main_Italics,,0000,0000,0000,,Una forma animale?
+Dialogue: 0,0:03:25.06,0:03:26.85,Main,,0000,0000,0000,,Chiudiamola qui.
+Dialogue: 0,0:03:28.48,0:03:31.46,Main,,0000,0000,0000,,Quindi? Siamo stati promossi?
+Dialogue: 0,0:03:32.14,0:03:33.11,Main,,0000,0000,0000,,Sì.
+Dialogue: 0,0:03:34.12,0:03:35.28,Main,,0000,0000,0000,,Basta così.
+Dialogue: 0,0:03:36.17,0:03:38.65,Main,,0000,0000,0000,,Eh? Signore, che significa?
+Dialogue: 0,0:03:38.65,0:03:41.61,Main,,0000,0000,0000,,Pare che ci stessero mettendo alla prova.
+Dialogue: 0,0:03:42.86,0:03:45.64,Main,,0000,0000,0000,,Non ho obiezioni. Siete davvero forti.
+Dialogue: 0,0:03:45.64,0:03:49.20,Main,,0000,0000,0000,,Siete all'altezza di essere considerati nostri pari.
+Dialogue: 0,0:03:49.20,0:03:50.85,Main,,0000,0000,0000,,Ne ho avuto la prova.
+Dialogue: 0,0:03:51.31,0:03:53.51,Main,,0000,0000,0000,,Se qualcuno oserà guardare dall'alto in basso
+Dialogue: 0,0:03:53.51,0:03:56.55,Main,,0000,0000,0000,,il capo della Federazione Jura Tempest, Limur Tempest, e i suoi amici
+Dialogue: 0,0:03:56.55,0:03:59.07,Main,,0000,0000,0000,,sarà come se non portasse rispetto al Grande Callion.
+Dialogue: 0,0:03:59.07,0:03:59.91,Main,,0000,0000,0000,,Intesi?
+Dialogue: 0,0:03:59.91,0:04:00.55,Main,,0000,0000,0000,,Sì!
+Dialogue: 0,0:04:00.55,0:04:02.62,Main,,0000,0000,0000,,Suphia ha ragione.
+Dialogue: 0,0:04:02.62,0:04:06.12,Main,,0000,0000,0000,,È raro che un essere umano \Nriesca a tenermi testa in quel modo.
+Dialogue: 0,0:04:07.32,0:04:08.39,Main,,0000,0000,0000,,Ne sono felice.
+Dialogue: 0,0:04:12.56,0:04:15.58,Main,,0000,0000,0000,,Ero preoccupato di cosa sarebbe \Nsuccesso al loro arrivo...
+Dialogue: 0,0:04:15.58,0:04:17.80,Main,,0000,0000,0000,,Ma per fortuna è andato tutto bene.
+Dialogue: 0,0:04:17.80,0:04:20.03,Main,,0000,0000,0000,,Shion, ci siamo capiti?
+Dialogue: 0,0:04:21.09,0:04:22.19,Main,,0000,0000,0000,,Shion?
+Dialogue: 0,0:04:23.29,0:04:24.27,Main,,0000,0000,0000,,Ecco...
+Dialogue: 0,0:04:24.78,0:04:26.41,Main,,0000,0000,0000,,Cosa faccio con questa?
+Dialogue: 0,0:04:26.41,0:04:28.60,Main,,0000,0000,0000,,Accidenti, sta per esplodere!
+Dialogue: 0,0:04:28.60,0:04:29.83,Main,,0000,0000,0000,,N-Non puoi farla sparire?
+Dialogue: 0,0:04:30.14,0:04:31.28,Main,,0000,0000,0000,,Non ci riesco!
+Dialogue: 0,0:04:31.28,0:04:33.29,Main,,0000,0000,0000,,I miei poteri sono al limite!
+Dialogue: 0,0:04:35.87,0:04:37.38,Main,,0000,0000,0000,,Grande Limur, sarà meglio evacuare—
+Dialogue: 0,0:04:37.74,0:04:39.12,Main,,0000,0000,0000,,C-Calmati!
+Dialogue: 0,0:04:39.12,0:04:42.42,Main,,0000,0000,0000,,Piano, piano. Lanciala piano verso l'alto.
+Dialogue: 0,0:04:42.42,0:04:44.25,Main,,0000,0000,0000,,V-Verso l'alto?
+Dialogue: 0,0:04:45.30,0:04:47.59,Main,,0000,0000,0000,,Un piccolo sforzo! Ci vuole un piccolo sforzo!
+Dialogue: 0,0:04:47.59,0:04:49.85,Main,,0000,0000,0000,,N-Non credo di farcela!
+Dialogue: 0,0:04:50.20,0:04:51.37,Main,,0000,0000,0000,,Accidenti...
+Dialogue: 0,0:04:51.37,0:04:53.36,Main,,0000,0000,0000,,Shion è sempre la solita.
+Dialogue: 0,0:04:58.15,0:04:59.94,Main,,0000,0000,0000,,Shion, lanciala qui!
+Dialogue: 0,0:05:00.54,0:05:01.44,Main,,0000,0000,0000,,Non preoccuparti!
+Dialogue: 0,0:05:02.64,0:05:03.44,Main,,0000,0000,0000,,Ma...
+Dialogue: 0,0:05:04.12,0:05:05.52,Main,,0000,0000,0000,,Credi in me!
+Dialogue: 0,0:05:05.95,0:05:07.67,Main,,0000,0000,0000,,S-Sì!
+Dialogue: 0,0:05:07.67,0:05:08.70,Main,,0000,0000,0000,,Vado!
+Dialogue: 0,0:05:12.90,0:05:13.62,Main,,0000,0000,0000,,{\i1}Gluttony{\i0}!
+Dialogue: 0,0:05:24.50,0:05:25.63,Main,,0000,0000,0000,,Ecco, tutto finito.
+Dialogue: 0,0:05:28.99,0:05:29.89,Main,,0000,0000,0000,,Incredibile!
+Dialogue: 0,0:05:30.74,0:05:31.76,Main,,0000,0000,0000,,Siamo seri?
+Dialogue: 0,0:05:34.08,0:05:37.02,Main,,0000,0000,0000,,Questo è nulla, per il mio padrone.
+Dialogue: 0,0:05:40.00,0:05:41.77,Main,,0000,0000,0000,,Tutto bene?
+Dialogue: 0,0:05:42.58,0:05:45.60,Main,,0000,0000,0000,,C'era da aspettarselo da una persona \Nche ha l'approvazione del Grande Callion.
+Dialogue: 0,0:05:46.62,0:05:50.28,Main,,0000,0000,0000,,Siamo grati di aver stretto alleanza \Ncon voi e il vostro regno.
+Dialogue: 0,0:05:50.58,0:05:53.62,Main,,0000,0000,0000,,Lo stesso vale per noi. Benvenuti a Tempest.
+Dialogue: 0,0:05:55.23,0:06:00.00,Main_Italics,,0000,0000,0000,,Ed è così che abbiamo accolto i delegati di Eurazania.
+Dialogue: 0,0:06:03.40,0:06:04.42,Main_Italics,,0000,0000,0000,,Quella sera
+Dialogue: 0,0:06:05.04,0:06:07.42,Main_Italics,,0000,0000,0000,,c'è stata una piccola festa di benvenuto
+Dialogue: 0,0:06:07.42,0:06:09.97,Main_Italics,,0000,0000,0000,,nel palazzo per gli ospiti nuovo di zecca.
+Dialogue: 0,0:06:16.70,0:06:17.77,Main,,0000,0000,0000,,Com'è buono!
+Dialogue: 0,0:06:17.77,0:06:19.58,Main,,0000,0000,0000,,Ha un sapore fantastico!
+Dialogue: 0,0:06:19.58,0:06:20.94,Main,,0000,0000,0000,,Il quantitativo di sale è perfetto!
+Dialogue: 0,0:06:21.41,0:06:23.23,Main,,0000,0000,0000,,Potrei mangiarne all'infinito!
+Dialogue: 0,0:06:23.23,0:06:24.25,Main,,0000,0000,0000,,Buonissimo!
+Dialogue: 0,0:06:32.51,0:06:33.70,Main,,0000,0000,0000,,Come sono felice...
+Dialogue: 0,0:06:34.12,0:06:35.47,Main,,0000,0000,0000,,Le piace proprio bere...
+Dialogue: 0,0:06:35.47,0:06:36.64,Main,,0000,0000,0000,,Chi è
+Dialogue: 0,0:06:36.64,0:06:39.00,Main,,0000,0000,0000,,che le ha dato la botte intera?
+Dialogue: 0,0:06:39.00,0:06:40.79,Main,,0000,0000,0000,,E poi, dall'altra parte...
+Dialogue: 0,0:06:46.58,0:06:50.68,Main,,0000,0000,0000,,Sentite, ma potete davvero mostrarvi così agli altri?
+Dialogue: 0,0:06:50.68,0:06:53.45,Main,,0000,0000,0000,,Non è un segreto.
+Dialogue: 0,0:06:53.45,0:06:54.72,Main,,0000,0000,0000,,C-Capisco...
+Dialogue: 0,0:06:54.72,0:06:56.24,Main,,0000,0000,0000,,Però...
+Dialogue: 0,0:06:56.24,0:06:59.73,Main,,0000,0000,0000,,lo faccio solo con le persone di cui mi fido.
+Dialogue: 0,0:06:59.73,0:07:01.22,Main,,0000,0000,0000,,Chiaro.
+Dialogue: 0,0:07:01.58,0:07:03.09,Main,,0000,0000,0000,,Oh beh, meglio così!
+Dialogue: 0,0:07:03.09,0:07:04.23,Main,,0000,0000,0000,,Anche se...
+Dialogue: 0,0:07:06.11,0:07:09.82,Main,,0000,0000,0000,,hanno fatto fuori tutto il nostro brandy di mele.
+Dialogue: 0,0:07:10.20,0:07:11.66,Main,,0000,0000,0000,,Tutto?
+Dialogue: 0,0:07:11.90,0:07:14.18,Main,,0000,0000,0000,,Non potete farne di più?
+Dialogue: 0,0:07:14.18,0:07:16.89,Main,,0000,0000,0000,,Ah, no, non preoccupatevene!
+Dialogue: 0,0:07:16.89,0:07:20.16,Main,,0000,0000,0000,,Certo, l'abbiamo preparato per voi ospiti,
+Dialogue: 0,0:07:20.16,0:07:22.59,Main,,0000,0000,0000,,ma lo ricaviamo dalla sola frutta della foresta,
+Dialogue: 0,0:07:22.59,0:07:24.21,Main,,0000,0000,0000,,quindi non ne produciamo molto.
+Dialogue: 0,0:07:26.34,0:07:28.71,Main,,0000,0000,0000,,Allora mi è venuta un'idea.
+Dialogue: 0,0:07:30.37,0:07:33.91,Main,,0000,0000,0000,,La nostra Eurazania è ricca di frutta.
+Dialogue: 0,0:07:33.91,0:07:36.51,Main,,0000,0000,0000,,Faremo in modo di farne arrivare un po' qui da voi.
+Dialogue: 0,0:07:37.44,0:07:38.27,Main,,0000,0000,0000,,Davvero?
+Dialogue: 0,0:07:38.59,0:07:39.52,Main,,0000,0000,0000,,Ma certo.
+Dialogue: 0,0:07:39.84,0:07:42.14,Main,,0000,0000,0000,,Meno male, Grande Limur!
+Dialogue: 0,0:07:42.14,0:07:43.13,Main,,0000,0000,0000,,Sì!
+Dialogue: 0,0:07:48.24,0:07:49.39,Main,,0000,0000,0000,,Ho capito.
+Dialogue: 0,0:07:49.78,0:07:52.91,Main,,0000,0000,0000,,In cambio, volete dell'alcol.
+Dialogue: 0,0:07:54.70,0:07:55.87,Main,,0000,0000,0000,,In che proporzione?
+Dialogue: 0,0:07:56.28,0:07:58.46,Main,,0000,0000,0000,,Lascio decidere a voi questi dettagli.
+Dialogue: 0,0:07:58.46,0:08:01.02,Main,,0000,0000,0000,,A me basta poter bere del buon alcol.
+Dialogue: 0,0:08:01.02,0:08:03.57,Main,,0000,0000,0000,,La frutta di Eurazania è di ottima qualità,
+Dialogue: 0,0:08:03.57,0:08:05.47,Main,,0000,0000,0000,,quindi mi aspetto un gran risultato!
+Dialogue: 0,0:08:07.90,0:08:08.84,Main,,0000,0000,0000,,Bene.
+Dialogue: 0,0:08:09.42,0:08:12.08,Main,,0000,0000,0000,,Hanno lasciato a noi la parte pratica, eh?
+Dialogue: 0,0:08:12.08,0:08:15.97,Main,,0000,0000,0000,,Quale sarà la proporzione per uno scambio equo?
+Dialogue: 0,0:08:19.23,0:08:21.73,Main,,0000,0000,0000,,Lasciamo fare agli esperti.
+Dialogue: 0,0:08:21.73,0:08:22.87,Main,,0000,0000,0000,,Shuna!
+Dialogue: 0,0:08:22.87,0:08:24.23,Main,,0000,0000,0000,,Ditemi pure, Grande Limur.
+Dialogue: 0,0:08:24.76,0:08:26.38,Main,,0000,0000,0000,,Fa' venire qui Cobie.
+Dialogue: 0,0:08:29.54,0:08:31.67,Main_Top_Italics,,0000,0000,0000,,Lui è un mercante dei coboldi.
+Dialogue: 0,0:08:29.73,0:08:36.24,PG,Cane,0000,0000,0000,,{\fad(500,0)\be4\pos(362.667,290.222)}Mercante coboldo {\fs34}Cobie
+Dialogue: 0,0:08:31.67,0:08:33.68,Main_Top_Italics,,0000,0000,0000,,Al momento gestisce un negozio qui a Tempest
+Dialogue: 0,0:08:33.68,0:08:36.24,Main_Top_Italics,,0000,0000,0000,,e si occupa delle transazioni commerciali di tutta la città.
+Dialogue: 0,0:08:36.45,0:08:39.10,Main,,0000,0000,0000,,G-Grande Limur, cosa...
+Dialogue: 0,0:08:39.10,0:08:41.95,Main,,0000,0000,0000,,Lui è Cobie, il capo dei mercanti di questo regno.
+Dialogue: 0,0:08:41.95,0:08:44.60,Main,,0000,0000,0000,,Ha lavorato anche nei territori del Re demone
+Dialogue: 0,0:08:44.60,0:08:46.90,Main,,0000,0000,0000,,e sarà il rappresentante per le questioni commerciali.
+Dialogue: 0,0:08:47.67,0:08:50.08,Main,,0000,0000,0000,,Loro vengono dal regno delle bestie.
+Dialogue: 0,0:08:50.08,0:08:53.50,Main,,0000,0000,0000,,Aprite delle trattative per qualsiasi cosa vi interessi,\Noltre al nostro alcol.
+Dialogue: 0,0:08:53.50,0:08:54.58,Main,,0000,0000,0000,,N-No, no, no!
+Dialogue: 0,0:08:54.58,0:08:57.68,Main,,0000,0000,0000,,A razze deboli come la mia\Nnon è permesso entrare nel regno delle bestie—
+Dialogue: 0,0:08:58.04,0:09:00.68,Main,,0000,0000,0000,,Ti farò avere un permesso. Non preoccuparti.
+Dialogue: 0,0:09:00.68,0:09:03.18,Main,,0000,0000,0000,,Lo dirò anche al Grande Callion.
+Dialogue: 0,0:09:03.42,0:09:06.98,Main,,0000,0000,0000,,Dopotutto non sei molto diverso dai licantropi,\Nandrete sicuramente d'accordo!
+Dialogue: 0,0:09:08.74,0:09:10.56,Main,,0000,0000,0000,,Conto su di te, d'accordo?
+Dialogue: 0,0:09:11.59,0:09:13.55,Main,,0000,0000,0000,,Ecco... veramente...
+Dialogue: 0,0:09:13.99,0:09:14.74,Main,,0000,0000,0000,,Va bene.
+Dialogue: 0,0:09:16.26,0:09:19.62,Main,,0000,0000,0000,,Ok, lasciamo fare ai giovani.
+Dialogue: 0,0:09:19.62,0:09:20.99,Main,,0000,0000,0000,,Con permesso.
+Dialogue: 0,0:09:23.44,0:09:24.75,Main,,0000,0000,0000,,A-Aspettate, io...
+Dialogue: 0,0:09:26.52,0:09:28.00,Main,,0000,0000,0000,,Grande Limur!
+Dialogue: 0,0:09:30.57,0:09:33.14,Main,,0000,0000,0000,,Ora che ho affidato la questione a Cobie \Npossiamo stare tranquilli.
+Dialogue: 0,0:09:33.14,0:09:34.76,Main,,0000,0000,0000,,Sì, è vero.
+Dialogue: 0,0:09:35.10,0:09:39.67,Main,,0000,0000,0000,,Le negoziazioni si fanno sempre più semplici\Ndavanti a un buon bicchiere.
+Dialogue: 0,0:09:41.17,0:09:44.35,Main_Italics,,0000,0000,0000,,La serata è passata tra i festeggiamenti.
+Dialogue: 0,0:09:45.18,0:09:49.19,Main_Italics,,0000,0000,0000,,Come inizio dei rapporti con gli altri regni\Nnon è andata poi così male.
+Dialogue: 0,0:09:53.43,0:09:58.24,Main_Italics,,0000,0000,0000,,Qualche giorno dopo,\NAlbis e Suphia sono tornate ad Eurazania.
+Dialogue: 0,0:10:01.01,0:10:03.20,Main_Italics,,0000,0000,0000,,Abbiamo intenzione\Ndi insegnarci a vicenda diverse tecniche.
+Dialogue: 0,0:10:03.54,0:10:07.83,Main_Italics,,0000,0000,0000,,Queste persone sono rimaste a Tempest \Nper apprendere le nostre.
+Dialogue: 0,0:10:09.58,0:10:11.73,Main_Italics,,0000,0000,0000,,Imparano tutti in fretta e sono molto attenti.
+Dialogue: 0,0:10:16.64,0:10:20.89,Main,,0000,0000,0000,,Come fa ad uscire dell'acqua calda\Nda questa cosa che chiamate "rubinetto"?
+Dialogue: 0,0:10:20.89,0:10:23.06,Main,,0000,0000,0000,,Non sembra esserci niente per scaldare l'acqua...
+Dialogue: 0,0:10:23.36,0:10:25.31,Main,,0000,0000,0000,,Si tratta di una runa magica.
+Dialogue: 0,0:10:25.31,0:10:26.86,Main,,0000,0000,0000,,Runa magica?
+Dialogue: 0,0:10:26.86,0:10:28.14,Main,,0000,0000,0000,,E dove sarebbe?
+Dialogue: 0,0:10:30.39,0:10:32.07,Main,,0000,0000,0000,,Qui, nella manopola.
+Dialogue: 0,0:10:32.07,0:10:35.90,Main,,0000,0000,0000,,All'interno vi è una pietra magica sulla quale \Nè stata incisa una runa della magia del calore.
+Dialogue: 0,0:10:36.40,0:10:37.63,Main,,0000,0000,0000,,Ora capisco!
+Dialogue: 0,0:10:37.63,0:10:41.59,Main,,0000,0000,0000,,Quindi se a girarla è una creatura magica, \Nl'acqua fredda si scalderà!
+Dialogue: 0,0:10:41.59,0:10:43.33,Main,,0000,0000,0000,,È proprio degno di un artigiano dei nani!
+Dialogue: 0,0:10:44.25,0:10:46.33,Main,,0000,0000,0000,,M-Ma no, niente di che...
+Dialogue: 0,0:10:46.75,0:10:49.83,Main_Italics,,0000,0000,0000,,In realtà è stato il signor Limur a idearlo...
+Dialogue: 0,0:10:49.83,0:10:51.33,sign_15581_170_Per_essere_preci,Cartello,0000,0000,0000,,{\pos(329.778,290.222)}Per essere precisi, è stato il Grande Saggio.
+Dialogue: 0,0:10:53.84,0:10:57.40,Main,,0000,0000,0000,,Sicuro di non voler imparare le varie tecniche\Ncome fanno gli altri?
+Dialogue: 0,0:10:57.40,0:10:58.80,Main,,0000,0000,0000,,Sì, non m'importa.
+Dialogue: 0,0:10:58.80,0:11:01.64,Main,,0000,0000,0000,,È stato il Grande Phobio, l'Artiglio della Pantera, a ordinarmi
+Dialogue: 0,0:11:01.64,0:11:04.97,Main,,0000,0000,0000,,di essere utile al Grande Limur, \Ndal momento che lui non può farlo.
+Dialogue: 0,0:11:04.97,0:11:07.86,Main,,0000,0000,0000,,Ed è per questo che ti sei unito al gruppo di guardia?
+Dialogue: 0,0:11:07.86,0:11:09.41,Main,,0000,0000,0000,,Esattamente.
+Dialogue: 0,0:11:09.41,0:11:11.23,Main,,0000,0000,0000,,Grucius!
+Dialogue: 0,0:11:11.23,0:11:12.98,Main,,0000,0000,0000,,Andiamo a fare un giro d'ispezione!
+Dialogue: 0,0:11:12.98,0:11:13.88,Main,,0000,0000,0000,,Arrivo!
+Dialogue: 0,0:11:14.29,0:11:15.11,Main,,0000,0000,0000,,A più tardi.
+Dialogue: 0,0:11:18.61,0:11:20.99,Main,,0000,0000,0000,,Io andrò a farmi un bel bagno...
+Dialogue: 0,0:11:22.79,0:11:25.88,Main,,0000,0000,0000,,Ti aspetta un allenamento con la spada.
+Dialogue: 0,0:11:25.88,0:11:26.76,Main,,0000,0000,0000,,Certo.
+Dialogue: 0,0:11:32.66,0:11:34.66,Main,,0000,0000,0000,,Diventerebbe difficile fare la divisione
+Dialogue: 0,0:11:34.66,0:11:37.17,Main,,0000,0000,0000,,con le frazioni in questa forma.
+Dialogue: 0,0:11:37.17,0:11:39.61,Main,,0000,0000,0000,,Quindi ora vedremo\Ncome trasformarla in una moltiplicazione.
+Dialogue: 0,0:11:40.17,0:11:42.56,Main,,0000,0000,0000,,Per farlo...
+Dialogue: 0,0:11:42.56,0:11:45.18,Main_Italics,,0000,0000,0000,,Meno male, anche senza di me \Nseguono diligentemente le lezioni.
+Dialogue: 0,0:11:54.36,0:11:56.90,Main_Italics,,0000,0000,0000,,E così, sono passati altri giorni
+Dialogue: 0,0:11:57.49,0:12:01.90,Main_Italics,,0000,0000,0000,,e anche Youm e i suoi compagni hanno ripreso il loro viaggio\Nper guadagnarsi la reputazione di eroi.
+Dialogue: 0,0:12:02.42,0:12:06.14,Main_Italics,,0000,0000,0000,,E quasi nello stesso momento, \Nla delegazione di Benimaru è tornata a casa.
+Dialogue: 0,0:12:08.04,0:12:10.91,Main,,0000,0000,0000,,I cavalieri di Eurazania sono davvero abili, non c'è che dire.
+Dialogue: 0,0:12:11.30,0:12:12.96,Main,,0000,0000,0000,,Ogni singolo cavaliere
+Dialogue: 0,0:12:12.96,0:12:16.04,Main,,0000,0000,0000,,viene allenato duramente dal Re demone Callion.
+Dialogue: 0,0:12:16.39,0:12:19.76,Main,,0000,0000,0000,,Immagino sia il minimo che\Nci si può aspettare dal Beast Master.
+Dialogue: 0,0:12:19.76,0:12:20.55,Main,,0000,0000,0000,,C'è altro?
+Dialogue: 0,0:12:20.87,0:12:21.81,Main,,0000,0000,0000,,Certo.
+Dialogue: 0,0:12:21.81,0:12:25.97,Main,,0000,0000,0000,,I loro edifici sono molto più semplici \Nrispetto a quelli di Tempest.
+Dialogue: 0,0:12:25.97,0:12:28.60,Main,,0000,0000,0000,,Il palazzo reale, invece, è molto lussuoso
+Dialogue: 0,0:12:28.60,0:12:31.18,Main,,0000,0000,0000,,ed è lì che si concentra la ricchezza di tutto il Paese.
+Dialogue: 0,0:12:33.19,0:12:36.51,Main,,0000,0000,0000,,Il mio Rigur si è fatto così grande!
+Dialogue: 0,0:12:38.65,0:12:40.42,Main,,0000,0000,0000,,Ah, sì...
+Dialogue: 0,0:12:40.84,0:12:42.82,Main,,0000,0000,0000,,Tuttavia, non è inteso in senso negativo.
+Dialogue: 0,0:12:43.10,0:12:45.11,Main,,0000,0000,0000,,È così per volontà dei cittadini stessi.
+Dialogue: 0,0:12:45.11,0:12:46.26,Main,,0000,0000,0000,,Capisco.
+Dialogue: 0,0:12:46.26,0:12:48.46,Main,,0000,0000,0000,,Le nostre tecniche sono attualmente superiori alle loro,
+Dialogue: 0,0:12:48.46,0:12:51.24,Main,,0000,0000,0000,,non solo nell'architettura, ma anche nell'artigianato.
+Dialogue: 0,0:12:51.24,0:12:55.54,Main,,0000,0000,0000,,Beh, dalla nostra abbiamo non solo Kaijin e i suoi compagni,\Nma anche Kurobe e Shuna.
+Dialogue: 0,0:12:56.61,0:12:58.07,Main,,0000,0000,0000,,Però c'è una cosa
+Dialogue: 0,0:12:58.07,0:13:00.77,Main,,0000,0000,0000,,che mi ha lasciato davvero a bocca aperta.
+Dialogue: 0,0:13:00.77,0:13:01.63,Main,,0000,0000,0000,,Ovvero?
+Dialogue: 0,0:13:01.95,0:13:03.26,Main,,0000,0000,0000,,L'agricoltura.
+Dialogue: 0,0:13:05.27,0:13:09.33,Main,,0000,0000,0000,,I loro campi coltivati sono talmente vasti\Nche i nostri non possono minimamente competere.
+Dialogue: 0,0:13:09.33,0:13:12.64,Main,,0000,0000,0000,,I prodotti agricoli hanno un colore vivido e sono abbondanti.
+Dialogue: 0,0:13:12.64,0:13:15.89,Main,,0000,0000,0000,,Credi che potremmo acquisire anche noi le loro tecniche?
+Dialogue: 0,0:13:18.28,0:13:19.90,Main,,0000,0000,0000,,Sì, penso di sì.
+Dialogue: 0,0:13:19.90,0:13:21.07,Main,,0000,0000,0000,,Bene!
+Dialogue: 0,0:13:21.07,0:13:25.16,Main,,0000,0000,0000,,La prossima delegazione si concentrerà \Nnell'apprendimento delle tecniche agricole.
+Dialogue: 0,0:13:25.16,0:13:29.15,Main,,0000,0000,0000,,Per quanto riguarda gli alimenti,\Nabbiamo applicato diversi miglioramenti
+Dialogue: 0,0:13:29.15,0:13:32.70,Main,,0000,0000,0000,,ma stiamo ancora andando per tentativi su diverse cose.
+Dialogue: 0,0:13:32.70,0:13:34.84,Main,,0000,0000,0000,,Forse potrebbero esserci utili
+Dialogue: 0,0:13:34.84,0:13:37.92,Main,,0000,0000,0000,,per migliorare quei casi specifici.
+Dialogue: 0,0:13:39.83,0:13:42.57,Main_Top,,0000,0000,0000,,Rigur, sei cresciuto così tanto!!
+Dialogue: 0,0:13:40.97,0:13:44.31,Main,,0000,0000,0000,,Bene, io devo prepararmi per il viaggio verso il regno dei nani.
+Dialogue: 0,0:13:44.31,0:13:46.01,Main,,0000,0000,0000,,Lascerò che siate voi a occuparvi del resto.
+Dialogue: 0,0:13:46.01,0:13:47.32,Main,,0000,0000,0000,,Conto su di voi!
+Dialogue: 0,0:13:47.32,0:13:48.24,Main,,0000,0000,0000,,Sì!
+Dialogue: 0,0:13:53.66,0:13:54.83,Main,,0000,0000,0000,,Grande Limur.
+Dialogue: 0,0:13:58.74,0:14:00.82,Main,,0000,0000,0000,,Se vi è possibile,
+Dialogue: 0,0:14:00.82,0:14:05.48,Main,,0000,0000,0000,,vorrei che nominaste Rigur capo della prossima delegazione.
+Dialogue: 0,0:14:05.48,0:14:06.82,Main,,0000,0000,0000,,Come mai?
+Dialogue: 0,0:14:07.25,0:14:10.80,Main,,0000,0000,0000,,Ritengo che il Re demone Callion sia degno di fiducia.
+Dialogue: 0,0:14:11.23,0:14:14.08,Main,,0000,0000,0000,,Sono certo che non mancherà mai di riguardo \Nnei confronti dei nostri delegati.
+Dialogue: 0,0:14:14.48,0:14:18.82,Main,,0000,0000,0000,,Dunque penso sia meglio \Nche io resti qui a proteggere il regno.
+Dialogue: 0,0:14:18.82,0:14:19.83,Main,,0000,0000,0000,,Capisco.
+Dialogue: 0,0:14:19.83,0:14:23.16,Main,,0000,0000,0000,,Inoltre, possiamo fidarci di Rigur.
+Dialogue: 0,0:14:23.16,0:14:24.76,Main,,0000,0000,0000,,È questo che intendi, giusto?
+Dialogue: 0,0:14:24.76,0:14:25.44,Main,,0000,0000,0000,,Esatto.
+Dialogue: 0,0:14:25.99,0:14:27.86,Main,,0000,0000,0000,,D'accordo. E sia!
+Dialogue: 0,0:14:27.86,0:14:29.23,Main,,0000,0000,0000,,Vi ringrazio.
+Dialogue: 0,0:14:31.71,0:14:34.79,Main,,0000,0000,0000,,Certo che per aver ottenuto la tua fiducia
+Dialogue: 0,0:14:34.79,0:14:37.81,Main,,0000,0000,0000,,vuol dire che Callion non si affida solo alla forza.
+Dialogue: 0,0:14:37.81,0:14:39.45,Main,,0000,0000,0000,,Sì, esatto.
+Dialogue: 0,0:14:39.45,0:14:43.06,Main,,0000,0000,0000,,A dire il vero, ho provato a iniziare una lotta\Ncon lui, ma ha evitato il colpo con una risata.
+Dialogue: 0,0:14:45.39,0:14:47.57,Main,,0000,0000,0000,,M-M-Ma...
+Dialogue: 0,0:14:48.88,0:14:52.82,Main,,0000,0000,0000,,Non ho potuto usare il mio {\i1}Hell Flare{\i0} \Nquindi sono stato sconfitto in un secondo.
+Dialogue: 0,0:14:53.85,0:14:55.56,Main,,0000,0000,0000,,Ho ancora molto da imparare.
+Dialogue: 0,0:14:55.56,0:14:56.68,Main,,0000,0000,0000,,Senti un po'...
+Dialogue: 0,0:14:56.68,0:14:58.03,Main,,0000,0000,0000,,Ah, però
+Dialogue: 0,0:14:58.03,0:14:59.53,Main,,0000,0000,0000,,contro Phobio ho vinto.
+Dialogue: 0,0:14:59.53,0:15:00.58,Main,,0000,0000,0000,,Ah, sì?
+Dialogue: 0,0:15:01.00,0:15:04.41,Main,,0000,0000,0000,,Aver battuto Phobio è straordinario, però...
+Dialogue: 0,0:15:05.64,0:15:06.67,Main_Italics,,0000,0000,0000,,Non va bene.
+Dialogue: 0,0:15:06.67,0:15:10.05,Main_Italics,,0000,0000,0000,,Non dovevo lasciarlo uscire dal regno!
+Dialogue: 0,0:15:11.80,0:15:13.85,Main_Italics,,0000,0000,0000,,Dopo tutti questi avvenimenti,
+Dialogue: 0,0:15:15.16,0:15:16.10,Main_Italics,,0000,0000,0000,,il giorno seguente
+Dialogue: 0,0:15:16.54,0:15:20.10,Main_Italics,,0000,0000,0000,,sono partito verso il regno dei nani.
+Dialogue: 0,0:15:21.28,0:15:23.23,Main,,0000,0000,0000,,Ehi, Ranga! Troppo veloce!
+Dialogue: 0,0:15:23.23,0:15:24.69,Main,,0000,0000,0000,,D'accordo, ricevuto!
+Dialogue: 0,0:15:26.86,0:15:29.29,Main,,0000,0000,0000,,RANGAAA!
+Dialogue: 0,0:15:30.67,0:15:32.94,Main_Italics,,0000,0000,0000,,Questa volta mi sono fatto accompagnare
+Dialogue: 0,0:15:32.94,0:15:35.87,Main_Italics,,0000,0000,0000,,da Gobta, Gobzu e altri sei goblin combattenti.
+Dialogue: 0,0:15:36.31,0:15:37.59,Main_Italics,,0000,0000,0000,,Shion e Shuna.
+Dialogue: 0,0:15:38.15,0:15:43.67,Main_Italics,,0000,0000,0000,,Poi, Kaijin e i tre fratelli Garm, Dold e Myrd.
+Dialogue: 0,0:15:43.97,0:15:47.50,Main,,0000,0000,0000,,Non posso credere che potrò tornare \Nper qualche giorno a Dwargon.
+Dialogue: 0,0:15:47.50,0:15:49.05,Main,,0000,0000,0000,,Ne sono molto grato.
+Dialogue: 0,0:15:49.44,0:15:50.83,Main,,0000,0000,0000,,Davvero!
+Dialogue: 0,0:15:50.83,0:15:52.12,Main,,0000,0000,0000,,Non credete anche voi?
+Dialogue: 0,0:15:52.12,0:15:53.63,Main,,0000,0000,0000,,Sicuro!
+Dialogue: 0,0:15:55.05,0:15:58.18,Main,,0000,0000,0000,,A sentirvi così felici, sono felice anch'io.
+Dialogue: 0,0:15:58.18,0:16:01.88,Main,,0000,0000,0000,,Il nostro regno è cresciuto così tanto\Nproprio perché c'eravate voi al nostro fianco!
+Dialogue: 0,0:16:02.57,0:16:04.07,Main,,0000,0000,0000,,Sentirvelo dire
+Dialogue: 0,0:16:04.07,0:16:06.69,Main,,0000,0000,0000,,mi fa sentire onorato di essere un artigiano.
+Dialogue: 0,0:16:06.69,0:16:07.32,Main,,0000,0000,0000,,Vero!
+Dialogue: 0,0:16:07.73,0:16:10.57,Main,,0000,0000,0000,,Sono proprio felice di avervi incontrati!
+Dialogue: 0,0:16:10.88,0:16:12.57,Main,,0000,0000,0000,,Signore...
+Dialogue: 0,0:16:15.32,0:16:18.08,Main_Italics,,0000,0000,0000,,Tra l'altro, le carrozze dietro la nostra
+Dialogue: 0,0:16:18.08,0:16:20.41,Main_Italics,,0000,0000,0000,,sono piene di regali per Re Gazehr.
+Dialogue: 0,0:16:20.41,0:16:25.08,Main_Italics,,0000,0000,0000,,E se pensate che non ci fosse bisogno delle carrozze,\Nperché avrei potuto trasportare tutto nel mio stomaco...
+Dialogue: 0,0:16:25.33,0:16:27.84,Flashback,,0000,0000,0000,,In questi casi anche l'apparenza è importante!
+Dialogue: 0,0:16:27.84,0:16:29.51,Main_Italics,,0000,0000,0000,,Mi ha convinto così.
+Dialogue: 0,0:16:30.09,0:16:32.23,Main_Italics,,0000,0000,0000,,Lei è pur sempre una principessa.
+Dialogue: 0,0:16:32.23,0:16:34.82,Main_Italics,,0000,0000,0000,,Ultimamente sta imparando molto da Vester
+Dialogue: 0,0:16:34.82,0:16:37.30,Main_Italics,,0000,0000,0000,,e mi aiuta tantissimo con l'etichetta.
+Dialogue: 0,0:16:37.72,0:16:39.36,Main_Italics,,0000,0000,0000,,Per quanto riguarda Shion, invece...
+Dialogue: 0,0:16:39.36,0:16:43.48,Main_Italics,,0000,0000,0000,,pensavo fosse ancora più pericolosa di Benimaru, se portata al di fuori del regno, ma...
+Dialogue: 0,0:16:44.86,0:16:47.23,Flashback,,0000,0000,0000,,Andrete in viaggio con la Grande Shuna?
+Dialogue: 0,0:16:47.44,0:16:49.78,Flashback,,0000,0000,0000,,Non è un viaggio, è per lavoro...
+Dialogue: 0,0:16:49.78,0:16:51.48,Flashback,,0000,0000,0000,,Non vale! Non vale!
+Dialogue: 0,0:16:51.48,0:16:54.80,Flashback,,0000,0000,0000,,Non è giusto che solo la Grande Shuna \Npossa andare in giro con voi!
+Dialogue: 0,0:16:53.69,0:16:55.61,Flashback,,0000,0000,0000,,{\an8}È per lavoro! Per lavoro!
+Dialogue: 0,0:16:59.34,0:17:01.18,Flashback,,0000,0000,0000,,È fuori controllo!
+Dialogue: 0,0:17:01.18,0:17:03.09,Flashback,,0000,0000,0000,,Calmatevi!
+Dialogue: 0,0:17:04.34,0:17:07.67,Main_Italics,,0000,0000,0000,,Beh, ha iniziato a piangere, a gridare e ad agitarsi...
+Dialogue: 0,0:17:10.90,0:17:13.30,Flashback,,0000,0000,0000,,Rigur'd, pensi di cavartela?
+Dialogue: 0,0:17:14.19,0:17:16.05,Flashback,,0000,0000,0000,,Non c'è alcun problema...
+Dialogue: 0,0:17:16.59,0:17:21.81,Main_Italics,,0000,0000,0000,,Se l'avessi lasciata a Tempest mi sarebbe dispiaciuto \Nper Rigur'd e Rigur, quindi l'ho portata con me.
+Dialogue: 0,0:17:22.25,0:17:26.26,Main_Italics,,0000,0000,0000,,Beh, se resta in silenzio sembra una perfetta segretaria
+Dialogue: 0,0:17:26.26,0:17:29.59,Main_Italics,,0000,0000,0000,,e se la tengo d'occhio non ci saranno problemi.
+Dialogue: 0,0:17:31.13,0:17:33.07,Main,,0000,0000,0000,,Grande Limur, guardate!
+Dialogue: 0,0:17:35.70,0:17:40.65,Main,,0000,0000,0000,,La strada che era stata distrutta nel combattimento \Ncontro Charybdis è stata quasi sistemata!
+Dialogue: 0,0:17:40.65,0:17:43.25,Main,,0000,0000,0000,,Hai ragione! Sono davvero veloci!
+Dialogue: 0,0:17:43.25,0:17:45.20,Main,,0000,0000,0000,,Gerd e i suoi compagni sono proprio affidabili.
+Dialogue: 0,0:17:52.19,0:17:54.71,Main,,0000,0000,0000,,Bene, tutto procede come da programma.
+Dialogue: 0,0:17:54.71,0:17:56.08,Main,,0000,0000,0000,,Grande Gerd,
+Dialogue: 0,0:17:56.08,0:17:58.77,Main,,0000,0000,0000,,avremmo bisogno di altro materiale per la pavimentazione.
+Dialogue: 0,0:17:58.77,0:17:59.86,Main,,0000,0000,0000,,D'accordo.
+Dialogue: 0,0:17:59.86,0:18:01.72,Main,,0000,0000,0000,,Riferisco alla cava.
+Dialogue: 0,0:18:01.72,0:18:02.49,Main,,0000,0000,0000,,Grazie.
+Dialogue: 0,0:18:03.31,0:18:04.57,Main,,0000,0000,0000,,Ma quelle...
+Dialogue: 0,0:18:10.29,0:18:13.21,Main,,0000,0000,0000,,Oggi siete partiti verso il regno dei nani, non è così?
+Dialogue: 0,0:18:13.21,0:18:14.05,Main,,0000,0000,0000,,Esatto!
+Dialogue: 0,0:18:14.05,0:18:17.56,Main,,0000,0000,0000,,Visto che avete livellato la strada, la carrozza \Nnon oscilla molto. Il viaggio è davvero piacevole!
+Dialogue: 0,0:18:17.56,0:18:18.35,Main,,0000,0000,0000,,Grazie.
+Dialogue: 0,0:18:18.35,0:18:21.67,Main,,0000,0000,0000,,Abbiamo cominciato i lavori dall'area vicino al regno dei nani,
+Dialogue: 0,0:18:21.67,0:18:24.83,Main,,0000,0000,0000,,perciò da qui in poi la pavimentazione sarà completa.
+Dialogue: 0,0:18:25.67,0:18:27.81,Main,,0000,0000,0000,,Allora sarà ancora più piacevole!
+Dialogue: 0,0:18:27.81,0:18:28.83,Main,,0000,0000,0000,,Grazie mille!
+Dialogue: 0,0:18:29.61,0:18:30.92,Main,,0000,0000,0000,,Grazie a voi.
+Dialogue: 0,0:18:30.92,0:18:32.00,Main,,0000,0000,0000,,Ecco qui!
+Dialogue: 0,0:18:37.49,0:18:38.51,Main,,0000,0000,0000,,Di cosa si tratta?
+Dialogue: 0,0:18:38.80,0:18:39.97,Main,,0000,0000,0000,,È birra.
+Dialogue: 0,0:18:40.33,0:18:41.80,Main,,0000,0000,0000,,Birra!
+Dialogue: 0,0:18:42.17,0:18:44.11,Main,,0000,0000,0000,,Non bevete troppo!
+Dialogue: 0,0:18:44.11,0:18:45.06,Main,,0000,0000,0000,,Certo!
+Dialogue: 0,0:18:46.20,0:18:48.81,Main_Italics,,0000,0000,0000,,Il nostro viaggio è proseguito senza problemi.
+Dialogue: 0,0:18:49.53,0:18:51.33,Main_Italics,,0000,0000,0000,,Dopo quattro giorni dalla partenza
+Dialogue: 0,0:18:51.74,0:18:54.87,Main_Italics,,0000,0000,0000,,siamo arrivati a Dwargon.
+Dialogue: 0,0:18:55.50,0:18:57.06,Main,,0000,0000,0000,,Aprite i cancelli!
+Dialogue: 0,0:18:57.06,0:18:59.87,Main,,0000,0000,0000,,Incredibile come riescano \Na impiegare delle bestie magiche in quel modo.
+Dialogue: 0,0:18:59.87,0:19:01.34,Main,,0000,0000,0000,,Devono essere persone incredibili.
+Dialogue: 0,0:19:01.34,0:19:03.16,Main,,0000,0000,0000,,Quelle sono davvero bestie magiche?
+Dialogue: 0,0:19:03.16,0:19:04.68,Main,,0000,0000,0000,,Mai viste...
+Dialogue: 0,0:19:03.69,0:19:06.57,Main_Overlap,,0000,0000,0000,,Quel mezzo è strano...
+Dialogue: 0,0:19:06.93,0:19:08.44,Main,,0000,0000,0000,,Ehi, fratello.
+Dialogue: 0,0:19:09.33,0:19:11.41,Main,,0000,0000,0000,,Mi fa piacere vederti in forma.
+Dialogue: 0,0:19:11.41,0:19:12.71,Main,,0000,0000,0000,,Kaido!
+Dialogue: 0,0:19:12.71,0:19:14.66,Main,,0000,0000,0000,,Quanto tempo! Come te la passi?
+Dialogue: 0,0:19:14.66,0:19:17.51,Main,,0000,0000,0000,,Io mi trovo molto bene insieme al signor Limur!
+Dialogue: 0,0:19:17.51,0:19:18.64,Main,,0000,0000,0000,,Immaginavo!
+Dialogue: 0,0:19:18.64,0:19:20.59,Main,,0000,0000,0000,,Ti si legge in faccia!
+Dialogue: 0,0:19:20.59,0:19:22.14,Main,,0000,0000,0000,,Ragazzi, anche voi state bene?
+Dialogue: 0,0:19:22.38,0:19:23.88,Main,,0000,0000,0000,,Sì, grazie!
+Dialogue: 0,0:19:23.88,0:19:24.77,Main,,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:25.64,0:19:26.46,Main,,0000,0000,0000,,E quindi?
+Dialogue: 0,0:19:27.08,0:19:28.43,Main,,0000,0000,0000,,Dov'è il signor Limur?
+Dialogue: 0,0:19:30.43,0:19:33.25,Main,,0000,0000,0000,,Lui ormai è un ospite d'eccezione!
+Dialogue: 0,0:19:33.25,0:19:35.79,Main,,0000,0000,0000,,Devo assolutamente porgergli i miei saluti!
+Dialogue: 0,0:19:35.79,0:19:38.69,Main_Italics,,0000,0000,0000,,Ma che sta dicendo? Sono qui...
+Dialogue: 0,0:19:38.69,0:19:39.79,Main_Italics,,0000,0000,0000,,Ah!
+Dialogue: 0,0:19:39.79,0:19:43.44,Main_Italics,,0000,0000,0000,,Giusto, conosce solo il mio aspetto da slime!
+Dialogue: 0,0:19:44.04,0:19:45.83,Main,,0000,0000,0000,,Il signor Limur è lui.
+Dialogue: 0,0:19:47.42,0:19:49.08,Main,,0000,0000,0000,,Il signor Limur è lui!
+Dialogue: 0,0:19:50.12,0:19:51.37,Main,,0000,0000,0000,,Il signore è lui!
+Dialogue: 0,0:19:54.66,0:19:56.96,Main,,0000,0000,0000,,Oh beh, sono successe un po' di cose...
+Dialogue: 0,0:19:57.35,0:19:59.50,Main,,0000,0000,0000,,S-S-Signor Limur,
+Dialogue: 0,0:19:59.50,0:20:01.49,Main,,0000,0000,0000,,sono felice di vedere che state bene...
+Dialogue: 0,0:20:01.49,0:20:02.55,Main,,0000,0000,0000,,Ecco...
+Dialogue: 0,0:20:02.55,0:20:04.65,Main,,0000,0000,0000,,Prego, da questa parte...
+Dialogue: 0,0:20:04.65,0:20:06.79,Main_Italics,,0000,0000,0000,,Oh beh, la sua reazione è comprensibile.
+Dialogue: 0,0:20:08.37,0:20:11.77,Main_Italics,,0000,0000,0000,,Ed è così che siamo entrati \Nnel regno di Dwargon senza problemi,
+Dialogue: 0,0:20:12.13,0:20:15.85,Main_Italics,,0000,0000,0000,,e siamo stati scortati subito da Re Gazehr.
+Dialogue: 0,0:20:18.56,0:20:21.28,Main,,0000,0000,0000,,Sono felice di vedervi in salute, signor Limur.
+Dialogue: 0,0:20:21.85,0:20:23.78,Main,,0000,0000,0000,,Sono felice di vedere che anche voi state bene, signor Dorf.
+Dialogue: 0,0:20:25.69,0:20:27.97,Main,,0000,0000,0000,,Non è necessaria questa formalità, con me.
+Dialogue: 0,0:20:27.97,0:20:30.80,Main,,0000,0000,0000,,Il mio sovrano vi sta aspettando.
+Dialogue: 0,0:20:31.22,0:20:35.42,Main_Italics,,0000,0000,0000,,Lui è il generale Dorf, al comando dei Cavalieri Pegaso.\NCi hanno aiutato con Charybdis.
+Dialogue: 0,0:20:35.90,0:20:39.08,Main_Italics,,0000,0000,0000,,Tali cavalieri sono un'armata segreta \Nsotto diretta supervisione del sovrano,
+Dialogue: 0,0:20:39.08,0:20:42.42,Main_Italics,,0000,0000,0000,,quindi i loro membri si comportano \Ncome se fossero soldati comuni.
+Dialogue: 0,0:20:46.46,0:20:49.50,Main,,0000,0000,0000,,Sta per entrare sua maestà Limur,
+Dialogue: 0,0:20:49.50,0:20:51.89,Main,,0000,0000,0000,,sovrano della Federazione Jura Tempest.
+Dialogue: 0,0:20:58.64,0:21:00.13,Main,,0000,0000,0000,,Prego, entrate pure.
+Dialogue: 0,0:21:06.82,0:21:08.91,Main_Italics,,0000,0000,0000,,Il Regno militare di Dwargon.
+Dialogue: 0,0:21:08.91,0:21:11.33,Main_Italics,,0000,0000,0000,,E lui ne è il sovrano, Gazehr Dwargo.
+Dialogue: 0,0:21:12.58,0:21:14.88,Main,,0000,0000,0000,,Ne è passato di tempo, Limur.
+Dialogue: 0,0:21:24.48,0:21:25.96,Main,,0000,0000,0000,,Capisco.
+Dialogue: 0,0:21:29.22,0:21:30.84,Main,,0000,0000,0000,,Ottimo lavoro.
+Dialogue: 0,0:21:30.84,0:21:33.53,Main,,0000,0000,0000,,Mi hai fornito delle informazioni molto interessanti.
+Dialogue: 0,0:21:33.53,0:21:34.81,Main,,0000,0000,0000,,Grazie.
+Dialogue: 0,0:21:35.84,0:21:37.83,Main,,0000,0000,0000,,A breve, potrei addirittura
+Dialogue: 0,0:21:37.83,0:21:41.11,Main,,0000,0000,0000,,farti la gentilezza di restituirti l'anima.
+Dialogue: 0,0:21:43.13,0:21:46.26,Main,,0000,0000,0000,,Ancora un altro piccolo sforzo
+Dialogue: 0,0:21:46.26,0:21:48.68,Main,,0000,0000,0000,,mi sarebbe davvero d'aiuto.
+Dialogue: 0,0:21:49.83,0:21:53.30,Main,,0000,0000,0000,,Cosa dovrei fare, Grande Kleiman?
+Dialogue: 0,0:21:53.30,0:21:56.08,Main,,0000,0000,0000,,Cosa dovresti fare? È semplice.
+Dialogue: 0,0:21:56.08,0:21:59.94,Main,,0000,0000,0000,,Molto, {\i1}molto{\i0} semplice.
+Dialogue: 0,0:22:00.85,0:22:02.52,Main,,0000,0000,0000,,Myuran.
+Dialogue: 0,0:23:36.26,0:23:36.97,Prossimamente,,0000,0000,0000,,{\fad(175,1)}Prossimamente
+Dialogue: 0,0:23:36.54,0:23:39.48,Main,,0000,0000,0000,,Prossimo episodio, "Ancora una volta, il Paradiso".
+Dialogue: 0,0:23:37.14,0:23:41.02,TitoloNext,,0000,0000,0000,,{\fad(875,0)}\h{\c&H000000&\3c&HD8E2E5&}Ancora una volta,\h{\c&HD9DFDE&\3c&H0E0B0B&}\h{\u1}il Paradiso{\u0}

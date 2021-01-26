@@ -1,0 +1,378 @@
+﻿[Script Info]
+Title: [Erai-raws] Français (France)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: Italique,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0002,0002,0025,1
+Style: TiretsDefault,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,1,0020,0002,0025,1
+Style: TITRE25,Arial,11,&H00FFFFFF,&H000000FF,&H00282626,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0042,0060,1
+Style: NOMDESBETES,Arial,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0030,1
+Style: SAGE,Arial,15,&H00B6A23D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0010,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.48,0:00:05.31,Italique,Narration,0000,0000,0000,,La délégation envoyée\Npar le roi-démon Karion
+Dialogue: 0,0:00:05.44,0:00:08.77,Italique,Narration,0000,0000,0000,,était arrivée d’Eurasania,\Nla contrée du roi-bête.
+Dialogue: 0,0:00:09.40,0:00:13.11,Italique,Narration,0000,0000,0000,,Mais dès le départ,\Nles choses s’envenimèrent…
+Dialogue: 0,0:00:25.62,0:00:27.96,Italique,Narration,0000,0000,0000,,Et voilà le résultat.
+Dialogue: 0,0:00:29.55,0:00:34.18,Italique,Narration,0000,0000,0000,,Quand même, je reconnais…\Nc’était un peu ma faute aussi.
+Dialogue: 0,0:02:11.71,0:02:16.03,TITRE25,Sign,0000,0000,0000,,{\fad(1381,228)}ÉPISODE 26 : COMMERCE AVEC LE PAYS DU ROI-BÊTE
+Dialogue: 0,0:02:27.12,0:02:29.33,Default,Suphia,0000,0000,0000,,C’est tout ce que valent les kijin ?
+Dialogue: 0,0:02:29.46,0:02:31.75,Default,Suphia,0000,0000,0000,,Du nerf,\Nje vais finir par m’ennuyer !
+Dialogue: 0,0:02:31.88,0:02:33.71,Default,Shion,0000,0000,0000,,Ça me ferait trop de peine…
+Dialogue: 0,0:02:40.80,0:02:41.89,Default,Shion,0000,0000,0000,,Tiens-toi prête !
+Dialogue: 0,0:02:44.51,0:02:45.18,Default,Ranga,0000,0000,0000,,Mais c’est…
+Dialogue: 0,0:02:45.89,0:02:47.56,Default,Limule,0000,0000,0000,,Une boule magique surpuissante ?
+Dialogue: 0,0:02:47.68,0:02:49.98,Default,Limule,0000,0000,0000,,Hé, Shion, calme ta joie !
+Dialogue: 0,0:02:50.10,0:02:52.19,Default,Limule,0000,0000,0000,,Tu veux raser toute la zone, ou quoi ?
+Dialogue: 0,0:02:53.81,0:02:55.69,Italique,Limule,0000,0000,0000,,Autant parler à un mur…
+Dialogue: 0,0:02:55.94,0:02:58.11,Default,Suphia,0000,0000,0000,,C’est ça, je t’attends !
+Dialogue: 0,0:02:58.24,0:03:01.32,Italique,Limule,0000,0000,0000,,Cette Suphia est chaude\Npour la réceptionner,
+Dialogue: 0,0:03:01.45,0:03:04.37,Italique,Limule,0000,0000,0000,,mais elle s’en tirera pas indemne,\Nsi elle se mange ça !
+Dialogue: 0,0:03:05.41,0:03:07.16,Italique,Limule,0000,0000,0000,,Je fais quoi ? Je m’interpose ?
+Dialogue: 0,0:03:09.33,0:03:10.16,Default,Shion,0000,0000,0000,,Prends ça !
+Dialogue: 0,0:03:10.33,0:03:11.00,Default,Albis,0000,0000,0000,,Ça suffit !
+Dialogue: 0,0:03:16.25,0:03:17.84,Default,Albis,0000,0000,0000,,Vous en avez assez fait.
+Dialogue: 0,0:03:22.38,0:03:24.05,Italique,Limule,0000,0000,0000,,Elle s’est métamorphosée…
+Dialogue: 0,0:03:25.10,0:03:26.85,Default,Albis,0000,0000,0000,,Restons-en là.
+Dialogue: 0,0:03:28.52,0:03:31.44,Default,Limule,0000,0000,0000,,C’est bon ? On est à la hauteur ?
+Dialogue: 0,0:03:32.19,0:03:33.10,Default,Albis,0000,0000,0000,,Oui.
+Dialogue: 0,0:03:34.15,0:03:35.36,Default,Grucius,0000,0000,0000,,Le combat est terminé.
+Dialogue: 0,0:03:36.19,0:03:38.36,Default,Yômu,0000,0000,0000,,J’ai pas tout compris, là.
+Dialogue: 0,0:03:38.78,0:03:41.61,Default,Limule,0000,0000,0000,,Apparemment,\Nils nous ont mis à l’épreuve.
+Dialogue: 0,0:03:43.07,0:03:45.53,Default,Suphia,0000,0000,0000,,Rien à dire,\Nvous êtes pas n’importe qui.
+Dialogue: 0,0:03:45.70,0:03:49.16,Default,Suphia,0000,0000,0000,,Vous méritez largement\Nqu’on vous considère comme des égaux.
+Dialogue: 0,0:03:49.29,0:03:50.83,Default,Suphia,0000,0000,0000,,Y a aucun doute là-dessus.
+Dialogue: 0,0:03:51.37,0:03:56.42,Default,Suphia,0000,0000,0000,,Que je n’attrape personne à médire\Nde Limule Tempest ou de ses amis,
+Dialogue: 0,0:03:56.54,0:03:59.00,Default,Suphia,0000,0000,0000,,car cela revient\Nà insulter sire Karion !
+Dialogue: 0,0:03:59.13,0:04:00.55,TiretsDefault,Suphia,0270,0000,0000,,– Compris ?\N– Compris !
+Dialogue: 0,0:04:00.80,0:04:02.55,Default,Grucius,0000,0000,0000,,Dame Suphia a raison.
+Dialogue: 0,0:04:02.68,0:04:06.10,Default,Grucius,0000,0000,0000,,Peu d’humains seraient capables\Nde me tenir tête.
+Dialogue: 0,0:04:07.35,0:04:08.39,Default,Yômu,0000,0000,0000,,Merci du compliment.
+Dialogue: 0,0:04:12.60,0:04:15.40,Default,Limule,0000,0000,0000,,J’ai bien cru que c’était mal barré.
+Dialogue: 0,0:04:15.52,0:04:17.69,Default,Shuna,0000,0000,0000,,Heureusement, tout s’est arrangé.
+Dialogue: 0,0:04:17.86,0:04:20.03,Default,Limule,0000,0000,0000,,Shion, tu as entendu ça ?
+Dialogue: 0,0:04:21.15,0:04:22.11,Default,Limule,0000,0000,0000,,Shion ?
+Dialogue: 0,0:04:23.28,0:04:24.28,Default,Shion,0000,0000,0000,,Dites…
+Dialogue: 0,0:04:24.82,0:04:26.53,Default,Shion,0000,0000,0000,,qu’est-ce que je fais de ça ?
+Dialogue: 0,0:04:27.16,0:04:29.83,Default,Limule,0000,0000,0000,,Ça va exploser !\NTu peux pas l’annuler ?
+Dialogue: 0,0:04:30.16,0:04:33.29,Default,Shion,0000,0000,0000,,Impossible,\Nje n’ai plus assez d’énergie pour ça !
+Dialogue: 0,0:04:36.08,0:04:37.38,Default,Soei,0000,0000,0000,,À couvert, maître Limule.
+Dialogue: 0,0:04:38.25,0:04:42.42,Default,Suphia,0000,0000,0000,,Pas de panique ! Dirige-la vers le ciel,\Ndoucement, tout doucement !
+Dialogue: 0,0:04:42.67,0:04:44.13,Default,Shion,0000,0000,0000,,Vers le ciel ?
+Dialogue: 0,0:04:45.22,0:04:47.59,Default,Suphia,0000,0000,0000,,Vas-y !\NC’est bon, tu peux y arriver !
+Dialogue: 0,0:04:48.43,0:04:49.85,Default,Shion,0000,0000,0000,,Je le sens pas du tout !
+Dialogue: 0,0:04:50.18,0:04:53.23,Default,Limule,0000,0000,0000,,Je te jure…\NCette Shion, vraiment…
+Dialogue: 0,0:04:58.19,0:04:59.82,Default,Limule,0000,0000,0000,,Balance, Shion !
+Dialogue: 0,0:05:00.61,0:05:01.44,Default,Limule,0000,0000,0000,,Ça va aller.
+Dialogue: 0,0:05:02.65,0:05:03.44,Default,Shion,0000,0000,0000,,Mais…
+Dialogue: 0,0:05:04.15,0:05:05.45,Default,Limule,0000,0000,0000,,Fais-moi confiance !
+Dialogue: 0,0:05:06.82,0:05:08.70,Default,Shion,0000,0000,0000,,Bien, je vous l’envoie !
+Dialogue: 0,0:05:12.95,0:05:13.62,Default,Limule,0000,0000,0000,,Voracité !
+Dialogue: 0,0:05:24.51,0:05:25.63,Default,Limule,0000,0000,0000,,Et voilà le travail !
+Dialogue: 0,0:05:29.09,0:05:29.89,Default,Albis,0000,0000,0000,,Incroyable !
+Dialogue: 0,0:05:30.76,0:05:31.76,Default,Yômu,0000,0000,0000,,Sérieusement ?
+Dialogue: 0,0:05:34.10,0:05:37.02,Default,Ranga,0000,0000,0000,,Rien de plus facile,\Npour mon maître.
+Dialogue: 0,0:05:40.06,0:05:41.48,Default,Shuna,0000,0000,0000,,Pas trop fatiguée ?
+Dialogue: 0,0:05:42.61,0:05:45.61,Default,Albis,0000,0000,0000,,Je comprends mieux le respect\Nque Karion a pour vous.
+Dialogue: 0,0:05:46.65,0:05:50.28,Default,Albis,0000,0000,0000,,Nous nous réjouissons\Ndu lien créé entre nos deux pays.
+Dialogue: 0,0:05:50.62,0:05:53.54,Default,Limule,0000,0000,0000,,Tout le plaisir est pour moi.\NBienvenue à Tempest !
+Dialogue: 0,0:05:55.29,0:06:00.04,Italique,Narration,0000,0000,0000,,C’est ainsi que nous accueillîmes\Nles émissaires d’Eurasania.
+Dialogue: 0,0:06:03.42,0:06:04.42,Italique,Narration,0000,0000,0000,,Le soir même,
+Dialogue: 0,0:06:05.05,0:06:07.30,Italique,Narration,0000,0000,0000,,un modeste banquet de bienvenue\Nse tint
+Dialogue: 0,0:06:07.42,0:06:09.89,Italique,Narration,0000,0000,0000,,dans la résidence des invités\Nflambant neuve.
+Dialogue: 0,0:06:16.73,0:06:19.40,TiretsDefault,Grucius,0180,0000,0000,,– Délicieux !\N– L’assaisonnement est parfait.
+Dialogue: 0,0:06:19.52,0:06:20.94,Default,Bête,0000,0000,0000,,C’est juste assez salé !
+Dialogue: 0,0:06:21.48,0:06:24.07,TiretsDefault,Bête,0205,0000,0000,,– Ça se mange sans faim !\N– Exquis !
+Dialogue: 0,0:06:32.53,0:06:33.70,Default,Albis,0000,0000,0000,,Je suis au paradis.
+Dialogue: 0,0:06:34.16,0:06:35.41,Default,Shuna,0000,0000,0000,,Belle descente.
+Dialogue: 0,0:06:35.54,0:06:38.87,Default,Limule,0000,0000,0000,,Qui c’est qui a carrément\Nsorti les fûts d’alcool ?
+Dialogue: 0,0:06:39.08,0:06:40.79,Default,Limule,0000,0000,0000,,Quant à l’autre…
+Dialogue: 0,0:06:46.63,0:06:50.47,Default,Limule,0000,0000,0000,,Dites, ce n’est pas risqué pour vous\Nde vous montrer sous cet aspect ?
+Dialogue: 0,0:06:50.72,0:06:53.39,Default,Albis,0000,0000,0000,,Ce n’est pas exactement\Nun interdit…
+Dialogue: 0,0:06:53.51,0:06:54.72,Default,Limule,0000,0000,0000,,Ah bon…
+Dialogue: 0,0:06:54.97,0:06:59.73,Default,Albis,0000,0000,0000,,… en revanche, on ne se dévoile ainsi\Nque devant les personnes de confiance.
+Dialogue: 0,0:06:59.94,0:07:01.06,Default,Limule,0000,0000,0000,,Vous m’en direz tant…
+Dialogue: 0,0:07:01.60,0:07:02.73,Default,Limule,0000,0000,0000,,Bon, passons…
+Dialogue: 0,0:07:03.06,0:07:04.23,Default,Limule,0000,0000,0000,,N’empêche…
+Dialogue: 0,0:07:06.15,0:07:09.82,Default,Limule,0000,0000,0000,,le brandy de pommes\Nen a pris un sacré coup.
+Dialogue: 0,0:07:10.24,0:07:11.49,Default,Albis,0000,0000,0000,,Comment cela ?
+Dialogue: 0,0:07:11.95,0:07:14.03,Default,Albis,0000,0000,0000,,Vous en aviez si peu en stock ?
+Dialogue: 0,0:07:14.20,0:07:16.58,Default,Limule,0000,0000,0000,,Désolé, oublie ce que j’ai dit.
+Dialogue: 0,0:07:16.95,0:07:20.08,Default,Limule,0000,0000,0000,,On en avait préparé\Npour servir à d’éventuels invités,
+Dialogue: 0,0:07:20.25,0:07:24.21,Default,Limule,0000,0000,0000,,mais la forêt ne nous fournit\Nqu’une quantité limitée de fruits.
+Dialogue: 0,0:07:26.38,0:07:28.71,Default,Albis,0000,0000,0000,,En ce cas, j’ai une proposition.
+Dialogue: 0,0:07:30.38,0:07:33.80,Default,Albis,0000,0000,0000,,Eurasania est recouverte\Nd’immenses vergers.
+Dialogue: 0,0:07:33.93,0:07:36.51,Default,Albis,0000,0000,0000,,Nous pourrions\Nvous fournir en fruits.
+Dialogue: 0,0:07:36.81,0:07:38.27,Default,Limule,0000,0000,0000,,Hein ? Vraiment ?
+Dialogue: 0,0:07:38.64,0:07:39.52,Default,Albis,0000,0000,0000,,Bien sûr.
+Dialogue: 0,0:07:39.89,0:07:42.06,Default,Shuna,0000,0000,0000,,C’est une bonne nouvelle,\Nmaître Limule.
+Dialogue: 0,0:07:42.19,0:07:43.10,Default,Limule,0000,0000,0000,,Plutôt.
+Dialogue: 0,0:07:48.28,0:07:49.36,Default,Limule,0000,0000,0000,,Je comprends.
+Dialogue: 0,0:07:49.82,0:07:52.91,Default,Limule,0000,0000,0000,,En échange,\Nvous voulez de l’alcool, c’est ça ?
+Dialogue: 0,0:07:54.74,0:07:55.82,Default,Limule,0000,0000,0000,,Combien ?
+Dialogue: 0,0:07:56.33,0:07:58.41,Default,Suphia,0000,0000,0000,,Ce que vous voulez, on s’en fiche.
+Dialogue: 0,0:07:58.54,0:08:01.00,Default,Suphia,0000,0000,0000,,Tant que j’ai du bon vin, ça me va.
+Dialogue: 0,0:08:01.12,0:08:05.29,Default,Suphia,0000,0000,0000,,Nos fruits sont de bonne qualité,\Nvous pouvez y aller les yeux fermés.
+Dialogue: 0,0:08:08.00,0:08:08.80,Default,Limule,0000,0000,0000,,Soit.
+Dialogue: 0,0:08:09.51,0:08:11.88,Italique,Limule,0000,0000,0000,,Elles me refilent le boulot, quoi…
+Dialogue: 0,0:08:12.13,0:08:15.59,Italique,Limule,0000,0000,0000,,Comment je calcule\Nles quantités à troquer ?
+Dialogue: 0,0:08:19.26,0:08:21.52,Italique,Limule,0000,0000,0000,,Mieux vaut s’en remettre\Nà un expert !
+Dialogue: 0,0:08:21.93,0:08:22.73,Default,Limule,0000,0000,0000,,Shuna !
+Dialogue: 0,0:08:22.94,0:08:24.23,Default,Shuna,0000,0000,0000,,Oui, maître Limule ?
+Dialogue: 0,0:08:24.81,0:08:26.23,Default,Shuna,0000,0000,0000,,Fais venir Koby.
+Dialogue: 0,0:08:29.61,0:08:31.53,Italique,Limule,0000,0000,0000,,C’est un marchand kobold
+Dialogue: 0,0:08:29.75,0:08:36.24,NOMDESBETES,Sign,0000,0000,0000,,{\fad(468,1)\pos(331,249)}KOBY\N\NMARCHAND KOBOLD
+Dialogue: 0,0:08:31.65,0:08:36.24,Italique,Limule,0000,0000,0000,,qui a ouvert une boutique à Tempest\Net uni les marchands.
+Dialogue: 0,0:08:36.53,0:08:39.03,Default,Coby,0000,0000,0000,,Maître Limule, que se passe-t-il ?
+Dialogue: 0,0:08:39.16,0:08:41.87,Default,Limule,0000,0000,0000,,Voici Koby,\Nnotre responsable du commerce.
+Dialogue: 0,0:08:42.00,0:08:44.54,Default,Limule,0000,0000,0000,,Les terres de rois-démons,\Nil connaît.
+Dialogue: 0,0:08:44.67,0:08:46.96,Default,Limule,0000,0000,0000,,Je lui confie la transaction.
+Dialogue: 0,0:08:47.71,0:08:49.71,Default,Limule,0000,0000,0000,,Voici nos invitées d’Eurasania.
+Dialogue: 0,0:08:50.17,0:08:53.34,Default,Limule,0000,0000,0000,,Si vous voulez autre chose,\Nnégociez avec lui.
+Dialogue: 0,0:08:53.47,0:08:57.22,Default,Coby,0000,0000,0000,,Impossible, le royaume des bêtes\Nest fermé aux races faibles.
+Dialogue: 0,0:08:58.10,0:09:00.56,Default,Suphia,0000,0000,0000,,T’inquiète,\Nt’auras un laissez-passer !
+Dialogue: 0,0:09:00.68,0:09:03.18,Default,Albis,0000,0000,0000,,On en touchera un mot\Nà sire Karion.
+Dialogue: 0,0:09:03.43,0:09:06.98,Default,Limule,0000,0000,0000,,Ça devrait rouler entre vous,\Nvous avez plein de points communs.
+Dialogue: 0,0:09:08.81,0:09:10.44,Default,Limule,0000,0000,0000,,Bref, c’est toi qui t’en charges.
+Dialogue: 0,0:09:11.65,0:09:13.49,Default,Coby,0000,0000,0000,,Ben… je…
+Dialogue: 0,0:09:14.07,0:09:14.74,Default,Coby,0000,0000,0000,,d’accord.
+Dialogue: 0,0:09:16.32,0:09:19.58,Default,Limule,0000,0000,0000,,Bon, je vous laisse entre jeunes\Ngérer tout ça.
+Dialogue: 0,0:09:19.70,0:09:20.99,Default,Shuna,0000,0000,0000,,Bonne soirée !
+Dialogue: 0,0:09:24.08,0:09:24.75,Default,Coby,0000,0000,0000,,Euh…
+Dialogue: 0,0:09:26.54,0:09:28.00,Default,Coby,0000,0000,0000,,Maître Limule !
+Dialogue: 0,0:09:30.63,0:09:33.09,Default,Limule,0000,0000,0000,,Avec Koby aux commandes,\Ny a rien à craindre.
+Dialogue: 0,0:09:33.21,0:09:34.76,Default,Shuna,0000,0000,0000,,En effet, vous avez raison.
+Dialogue: 0,0:09:35.17,0:09:39.60,Default,Limule,0000,0000,0000,,Et puis, l’alcool peut\Nbien faciliter les choses…
+Dialogue: 0,0:09:41.18,0:09:44.27,Italique,Narration,0000,0000,0000,,Ainsi, la nuit se poursuivit\Ndans la bonne humeur.
+Dialogue: 0,0:09:45.23,0:09:49.15,Italique,Narration,0000,0000,0000,,Pour un premier contact entre pays,\Nc’était assez prometteur.
+Dialogue: 0,0:09:53.48,0:09:54.69,Italique,Narration,0000,0000,0000,,Quelques jours après,
+Dialogue: 0,0:09:54.86,0:09:58.24,Italique,Narration,0000,0000,0000,,Albis et Suphia reprirent la route\Nd’Eurasania.
+Dialogue: 0,0:10:01.03,0:10:03.20,Italique,Narration,0000,0000,0000,,Comme prévu par notre accord,
+Dialogue: 0,0:10:03.62,0:10:07.83,Italique,Narration,0000,0000,0000,,certains hommes-bêtes restèrent\Npour acquérir nos techniques.
+Dialogue: 0,0:10:09.67,0:10:11.71,Italique,Narration,0000,0000,0000,,Ils étaient sérieux\Net sympathiques.
+Dialogue: 0,0:10:16.67,0:10:20.59,Default,Bête,0000,0000,0000,,Quel dispositif permet à de l’eau chaude\Nde couler du robinet ?
+Dialogue: 0,0:10:20.93,0:10:23.06,Default,Bête,0000,0000,0000,,Je ne vois\Naucun appareil de chauffage…
+Dialogue: 0,0:10:23.39,0:10:25.31,Default,Dord,0000,0000,0000,,C’est l’effet d’un sceau magique.
+Dialogue: 0,0:10:25.47,0:10:26.77,Default,Bête,0000,0000,0000,,D’un sceau magique ?
+Dialogue: 0,0:10:26.89,0:10:28.14,Default,Bête,0000,0000,0000,,Où est-il placé ?
+Dialogue: 0,0:10:30.44,0:10:32.06,Default,Dord,0000,0000,0000,,La poignée des robinets
+Dialogue: 0,0:10:32.19,0:10:35.78,Default,Dord,0000,0000,0000,,contient un cristal magique\Noù est scellé un sort réchauffant.
+Dialogue: 0,0:10:36.44,0:10:37.57,Default,Bête,0000,0000,0000,,Pas bête !
+Dialogue: 0,0:10:37.69,0:10:41.53,Default,Bête,0000,0000,0000,,Quand un individu doté de mana\Nle tourne, l’eau chauffe.
+Dialogue: 0,0:10:41.66,0:10:43.33,Default,Bête,0000,0000,0000,,Les nains sont les meilleurs !
+Dialogue: 0,0:10:44.08,0:10:46.33,Default,Dord,0000,0000,0000,,Ce n’est pas grand-chose…
+Dialogue: 0,0:10:46.79,0:10:49.75,Italique,Dord,0000,0000,0000,,En réalité,\Nc’est une idée de maître Limule.
+Dialogue: 0,0:10:49.83,0:10:51.33,SAGE,Sign,0000,0000,0000,,{\pos(328,281)}DU GRAND SAGE, POUR ÊTRE PRÉCIS
+Dialogue: 0,0:10:53.84,0:10:57.17,Default,Yômu,0000,0000,0000,,Dis-moi, tu vas pas apprendre\Navec les autres ?
+Dialogue: 0,0:10:57.46,0:10:58.80,Default,Grucius,0000,0000,0000,,Pas la peine.
+Dialogue: 0,0:10:59.01,0:11:01.51,Default,Grucius,0000,0000,0000,,Sire Phobio, le Croc du léopard noir,
+Dialogue: 0,0:11:01.72,0:11:04.97,Default,Grucius,0000,0000,0000,,m’a ordonné de me rendre utile\Nà maître Limule.
+Dialogue: 0,0:11:05.18,0:11:07.64,Default,Yômu,0000,0000,0000,,Ça explique\Nque tu traînes avec les gardes.
+Dialogue: 0,0:11:07.97,0:11:09.35,Default,Grucius,0000,0000,0000,,Tu as tout compris.
+Dialogue: 0,0:11:09.48,0:11:10.94,Default,Gobuta,0000,0000,0000,,Grucius !
+Dialogue: 0,0:11:11.35,0:11:12.90,Default,Gobuta,0000,0000,0000,,On va patrouiller !
+Dialogue: 0,0:11:13.06,0:11:13.77,Default,Grucius,0000,0000,0000,,J’arrive !
+Dialogue: 0,0:11:14.36,0:11:15.11,Default,Grucius,0000,0000,0000,,À plus !
+Dialogue: 0,0:11:18.69,0:11:21.07,Default,Yômu,0000,0000,0000,,Sur ce, je vais prendre un bain…
+Dialogue: 0,0:11:22.74,0:11:25.66,Default,Hakuro,0000,0000,0000,,Toi, tu as un entraînement\Nde prévu.
+Dialogue: 0,0:11:25.99,0:11:26.70,Default,Yômu,0000,0000,0000,,Oui, chef.
+Dialogue: 0,0:11:32.71,0:11:37.00,Default,Tiss,0000,0000,0000,,Il s’agit de diviser des fractions,\Nmais tel quel, c’est difficile.
+Dialogue: 0,0:11:37.17,0:11:39.59,Default,Tiss,0000,0000,0000,,On va plutôt les changer\Nen multiplications.
+Dialogue: 0,0:11:40.22,0:11:42.51,Default,Tiss,0000,0000,0000,,Pour ce faire, on va…
+Dialogue: 0,0:11:42.63,0:11:45.18,Italique,Limule,0000,0000,0000,,Même en mon absence,\Nils ne se relâchent pas.
+Dialogue: 0,0:11:54.40,0:11:56.90,Italique,Narration,0000,0000,0000,,Ensuite, plusieurs jours passèrent.
+Dialogue: 0,0:11:57.52,0:12:01.65,Italique,Narration,0000,0000,0000,,La troupe de Yômu repartit\Nfaire sa propre promotion.
+Dialogue: 0,0:12:02.45,0:12:06.07,Italique,Narration,0000,0000,0000,,Elle croisa la délégation de Benimaru\Nqui rentrait.
+Dialogue: 0,0:12:08.08,0:12:10.91,Default,Benimaru,0000,0000,0000,,Les guerriers d’Eurasania\Nsont proprement remarquables.
+Dialogue: 0,0:12:11.37,0:12:16.04,Default,Benimaru,0000,0000,0000,,Chaque soldat est entraîné\Nrigoureusement par le roi-démon Karion.
+Dialogue: 0,0:12:16.42,0:12:19.46,Default,Limule,0000,0000,0000,,Il mérite son surnom\Nde Maître des bêtes.
+Dialogue: 0,0:12:19.84,0:12:20.55,Default,Limule,0000,0000,0000,,Autre chose ?
+Dialogue: 0,0:12:20.92,0:12:21.63,Default,Riguru,0000,0000,0000,,Oui.
+Dialogue: 0,0:12:21.88,0:12:25.72,Default,Riguru,0000,0000,0000,,Par rapport à ceux de Tempest,\Nleurs édifices sont assez rudimentaires.
+Dialogue: 0,0:12:25.97,0:12:28.51,Default,Riguru,0000,0000,0000,,En revanche,\Nle palais frappe par son luxe.
+Dialogue: 0,0:12:28.64,0:12:31.06,Default,Riguru,0000,0000,0000,,Toute leur richesse\Nsemble y être concentrée.
+Dialogue: 0,0:12:33.31,0:12:36.56,Default,Riguru’d,0000,0000,0000,,Riguru a tellement grandi !
+Dialogue: 0,0:12:38.69,0:12:40.23,Default,Riguru,0000,0000,0000,,Euh…
+Dialogue: 0,0:12:40.86,0:12:42.82,Default,Riguru,0000,0000,0000,,Ce n’est pas une critique.
+Dialogue: 0,0:12:43.11,0:12:44.99,Default,Riguru,0000,0000,0000,,Les bêtes l’ont souhaité ainsi.
+Dialogue: 0,0:12:45.11,0:12:46.20,Default,Limule,0000,0000,0000,,Très bien.
+Dialogue: 0,0:12:46.32,0:12:48.37,Default,Riguru,0000,0000,0000,,En artisanat comme en architecture,
+Dialogue: 0,0:12:48.58,0:12:51.24,Default,Riguru,0000,0000,0000,,notre savoir-faire actuel\Nsurpasse le leur.
+Dialogue: 0,0:12:51.37,0:12:55.46,Default,Limule,0000,0000,0000,,C’est non seulement grâce aux nains,\Nmais aussi à Kurobê et Shuna.
+Dialogue: 0,0:12:56.63,0:13:00.75,Default,Riguru,0000,0000,0000,,Cependant, il y a une chose\Nqui m’a laissé béat d’admiration.
+Dialogue: 0,0:13:00.88,0:13:01.63,Default,Limule,0000,0000,0000,,Laquelle ?
+Dialogue: 0,0:13:02.01,0:13:03.17,Default,Riguru,0000,0000,0000,,Leur agriculture.
+Dialogue: 0,0:13:05.34,0:13:09.26,Default,Riguru,0000,0000,0000,,Leurs champs s’étendent à perte de vue,\Nbien plus vastes que les nôtres,
+Dialogue: 0,0:13:09.39,0:13:12.35,Default,Riguru,0000,0000,0000,,couverts de légumes\Nde toutes les couleurs.
+Dialogue: 0,0:13:12.64,0:13:15.89,Default,Limule,0000,0000,0000,,Nous serait-il possible\Nd’apprendre leurs procédés ?
+Dialogue: 0,0:13:18.31,0:13:19.90,Default,Riguru,0000,0000,0000,,Je pense que oui.
+Dialogue: 0,0:13:20.15,0:13:20.94,Default,Limule,0000,0000,0000,,Parfait !
+Dialogue: 0,0:13:21.15,0:13:25.03,Default,Limule,0000,0000,0000,,La prochaine mission\Ndevra se concentrer sur l’agriculture !
+Dialogue: 0,0:13:25.24,0:13:29.07,Default,Riguru’d,0000,0000,0000,,Notre sécurité alimentaire\Ns’est bien améliorée,
+Dialogue: 0,0:13:29.24,0:13:32.49,Default,Riguru’d,0000,0000,0000,,mais nous continuons\Nà tâtonner sur certains points.
+Dialogue: 0,0:13:32.79,0:13:37.29,Default,Riguru’d,0000,0000,0000,,Cela nous aidera peut-être\Nà progresser là-dessus.
+Dialogue: 0,0:13:39.92,0:13:40.92,Default,Riguru’d,0000,0000,0000,,Riguru a tellement…
+Dialogue: 0,0:13:41.04,0:13:44.21,Default,Limule,0000,0000,0000,,Sur ce, je dois préparer\Nma visite au pays des nains.
+Dialogue: 0,0:13:44.34,0:13:46.01,Default,Limule,0000,0000,0000,,À vous de jouer.
+Dialogue: 0,0:13:46.22,0:13:47.18,Default,Limule,0000,0000,0000,,Ça vous va ?
+Dialogue: 0,0:13:47.43,0:13:48.09,Default,Ensemble,0000,0000,0000,,Oui !
+Dialogue: 0,0:13:53.72,0:13:54.72,Default,Benimaru,0000,0000,0000,,Maître Limule…
+Dialogue: 0,0:13:58.77,0:14:00.56,Default,Benimaru,0000,0000,0000,,avec votre permission,
+Dialogue: 0,0:14:00.86,0:14:05.36,Default,Benimaru,0000,0000,0000,,j’aimerais que Riguru soit nommé\Nchef de la prochaine mission.
+Dialogue: 0,0:14:05.57,0:14:06.82,Default,Limule,0000,0000,0000,,Pour quelle raison ?
+Dialogue: 0,0:14:07.28,0:14:10.74,Default,Benimaru,0000,0000,0000,,J’ai jugé qu’on pouvait\Nse fier au roi-démon Karion.
+Dialogue: 0,0:14:11.28,0:14:14.08,Default,Benimaru,0000,0000,0000,,Jamais il ne maltraiterait\Ndes émissaires.
+Dialogue: 0,0:14:14.54,0:14:18.58,Default,Benimaru,0000,0000,0000,,Aussi, il serait préférable que je reste\Npour assurer la sécurité ici.
+Dialogue: 0,0:14:18.92,0:14:19.75,Default,Limule,0000,0000,0000,,Je vois.
+Dialogue: 0,0:14:19.92,0:14:22.96,Default,Limule,0000,0000,0000,,En plus,\NRiguru a les compétences pour…
+Dialogue: 0,0:14:23.25,0:14:24.71,Default,Limule,0000,0000,0000,,c’est bien ça ?
+Dialogue: 0,0:14:24.84,0:14:25.46,Default,Benimaru,0000,0000,0000,,En effet.
+Dialogue: 0,0:14:26.01,0:14:27.67,Default,Limule,0000,0000,0000,,Entendu, faisons ainsi.
+Dialogue: 0,0:14:27.92,0:14:29.22,Default,Benimaru,0000,0000,0000,,Je vous remercie.
+Dialogue: 0,0:14:31.80,0:14:34.72,Default,Limule,0000,0000,0000,,Quand même,\Npour t’inspirer une telle confiance,
+Dialogue: 0,0:14:34.85,0:14:37.77,Default,Limule,0000,0000,0000,,c’est que Karion ne doit pas son titre\Nqu’à sa force.
+Dialogue: 0,0:14:38.02,0:14:39.23,Default,Benimaru,0000,0000,0000,,Effectivement.
+Dialogue: 0,0:14:39.48,0:14:43.06,Default,Benimaru,0000,0000,0000,,À vrai dire, je l’ai provoqué un peu,\Nmais il m’a esquivé en riant.
+Dialogue: 0,0:14:45.78,0:14:47.57,Default,Limule,0000,0000,0000,,Dis donc, toi…
+Dialogue: 0,0:14:48.90,0:14:51.45,Default,Benimaru,0000,0000,0000,,Faute de pouvoir utiliser\NBrasier infernal,
+Dialogue: 0,0:14:51.57,0:14:52.82,Default,Benimaru,0000,0000,0000,,j’ai mordu la poussière.
+Dialogue: 0,0:14:53.91,0:14:55.49,Default,Benimaru,0000,0000,0000,,J’ai encore du chemin à faire.
+Dialogue: 0,0:14:55.62,0:14:56.70,Default,Limule,0000,0000,0000,,Sérieusement ?
+Dialogue: 0,0:14:57.12,0:14:59.46,Default,Benimaru,0000,0000,0000,,Par contre, j’ai battu Phobio.
+Dialogue: 0,0:14:59.58,0:15:00.58,Default,Limule,0000,0000,0000,,Ah oui ?
+Dialogue: 0,0:15:01.12,0:15:04.29,Default,Limule,0000,0000,0000,,Je reconnais que battre Phobio,\Nc’est un exploit, mais bon…
+Dialogue: 0,0:15:05.67,0:15:10.05,Italique,Limule,0000,0000,0000,,Irrécupérable. J’aurais pas dû\Nle lâcher dans la nature, ce mec !
+Dialogue: 0,0:15:11.84,0:15:13.64,Italique,Narration,0000,0000,0000,,Après ces péripéties…
+Dialogue: 0,0:15:15.18,0:15:16.10,Italique,Narration,0000,0000,0000,,le lendemain,
+Dialogue: 0,0:15:16.60,0:15:20.06,Italique,Narration,0000,0000,0000,,ce fut à mon tour de partir\Npour Dwargon.
+Dialogue: 0,0:15:21.35,0:15:23.23,Default,Limule,0000,0000,0000,,Hé, Ranga, tu vas trop vite !
+Dialogue: 0,0:15:23.36,0:15:24.69,Default,Ranga,0000,0000,0000,,Bien, mon maître !
+Dialogue: 0,0:15:27.07,0:15:29.19,Default,Limule,0000,0000,0000,,Ranga !
+Dialogue: 0,0:15:30.74,0:15:32.82,Italique,Narration,0000,0000,0000,,Cette fois, j’avais pour compagnons
+Dialogue: 0,0:15:32.95,0:15:35.87,Italique,Narration,0000,0000,0000,,six cavaliers gobelins,\Ndont Gobuta et Gobuzô,
+Dialogue: 0,0:15:36.37,0:15:37.58,Italique,Narration,0000,0000,0000,,Shuna et Shion,
+Dialogue: 0,0:15:38.20,0:15:43.38,Italique,Narration,0000,0000,0000,,ainsi que Kaijin et les trois frères,\Nles nains Garm, Dord et Mird.
+Dialogue: 0,0:15:44.00,0:15:47.42,Default,Kaijin,0000,0000,0000,,Il y avait longtemps\Nqu’on s’était pas promenés à Dwargon,
+Dialogue: 0,0:15:47.55,0:15:49.05,Default,Kaijin,0000,0000,0000,,ça m’a manqué.
+Dialogue: 0,0:15:49.46,0:15:52.01,Default,Garm,0000,0000,0000,,Je te le fais pas dire !\NPas vrai, les gars ?
+Dialogue: 0,0:15:52.13,0:15:53.55,Default,Dord,0000,0000,0000,,Et comment !
+Dialogue: 0,0:15:55.22,0:15:58.06,Default,Limule,0000,0000,0000,,Je suis heureux\Nque ça vous fasse plaisir.
+Dialogue: 0,0:15:58.22,0:16:01.77,Default,Limule,0000,0000,0000,,C’est grâce à vous que notre pays\Na pris une telle avance.
+Dialogue: 0,0:16:02.64,0:16:06.56,Default,Kaijin,0000,0000,0000,,Voilà le plus grand compliment\Nque puisse recevoir un artisan.
+Dialogue: 0,0:16:06.69,0:16:07.32,Default,Garm,0000,0000,0000,,Pour sûr !
+Dialogue: 0,0:16:07.77,0:16:10.57,Default,Limule,0000,0000,0000,,C’était vraiment une chance\Nde vous rencontrer !
+Dialogue: 0,0:16:10.94,0:16:12.32,Default,Kaijin,0000,0000,0000,,Maître…
+Dialogue: 0,0:16:15.53,0:16:16.28,Italique,Narration,0000,0000,0000,,Par ailleurs,
+Dialogue: 0,0:16:16.41,0:16:20.20,Italique,Narration,0000,0000,0000,,les deux chariots suivants contenaient\Ndes présents pour le roi Gazehr.
+Dialogue: 0,0:16:20.50,0:16:22.21,Italique,Narration,0000,0000,0000,,Il aurait été plus simple
+Dialogue: 0,0:16:22.33,0:16:25.08,Italique,Narration,0000,0000,0000,,de les transporter\Ndans mon estomac.
+Dialogue: 0,0:16:25.38,0:16:27.84,Italique,Shuna,0000,0000,0000,,C’est contraire au protocole !
+Dialogue: 0,0:16:28.04,0:16:29.46,Italique,Narration,0000,0000,0000,,Mais on m’en avait dissuadé.
+Dialogue: 0,0:16:30.34,0:16:32.17,Italique,Narration,0000,0000,0000,,Bravo, princesse des ogres !
+Dialogue: 0,0:16:32.30,0:16:34.68,Italique,Narration,0000,0000,0000,,Depuis peu,\Nsous la férule de Vester,
+Dialogue: 0,0:16:34.80,0:16:37.30,Italique,Narration,0000,0000,0000,,elle était devenue\Nexperte ès bonnes manières.
+Dialogue: 0,0:16:37.85,0:16:39.31,Italique,Narration,0000,0000,0000,,Quant à Shion,
+Dialogue: 0,0:16:39.43,0:16:43.48,Italique,Narration,0000,0000,0000,,que je trouvais pourtant\Nencore moins sortable que Benimaru…
+Dialogue: 0,0:16:44.89,0:16:47.23,Italique,Narration,0000,0000,0000,,Vous partez en voyage\Navec Mlle Shuna ?
+Dialogue: 0,0:16:47.48,0:16:49.69,Italique,Limule,0000,0000,0000,,Pour le travail,\Npas pour le plaisir…
+Dialogue: 0,0:16:49.82,0:16:51.48,Italique,Shion,0000,0000,0000,,Alors là, non ! C’est injuste !
+Dialogue: 0,0:16:51.69,0:16:53.65,Italique,Shion,0000,0000,0000,,Moi aussi,\Nje veux m’amuser avec vous !
+Dialogue: 0,0:16:53.78,0:16:55.61,Italique,Limule,0000,0000,0000,,C’est pour le travail, OK ?
+Dialogue: 0,0:16:59.41,0:17:01.04,Italique,Riguru,0000,0000,0000,,Shion a perdu l’esprit !
+Dialogue: 0,0:17:01.16,0:17:02.91,Italique,Riguru’d,0000,0000,0000,,Du calme, par pitié !
+Dialogue: 0,0:17:04.37,0:17:07.29,Italique,Narration,0000,0000,0000,,À force de larmes,\Nde cris et de chaos…
+Dialogue: 0,0:17:09.88,0:17:13.30,Italique,Limule,0000,0000,0000,,Je peux te confier la boutique,\NRiguru’d ?
+Dialogue: 0,0:17:14.26,0:17:16.05,Italique,Riguru’d,0000,0000,0000,,À votre service.
+Dialogue: 0,0:17:16.63,0:17:19.43,Italique,Narration,0000,0000,0000,,De peur que Riguru’d en bave trop\Navec elle,
+Dialogue: 0,0:17:19.55,0:17:21.51,Italique,Narration,0000,0000,0000,,je finis par l’emmener elle aussi.
+Dialogue: 0,0:17:22.31,0:17:26.10,Italique,Narration,0000,0000,0000,,Tant qu’elle se tait, Shion a tout l’air\Nd’une secrétaire exemplaire.
+Dialogue: 0,0:17:26.31,0:17:29.44,Italique,Narration,0000,0000,0000,,Un peu de vigilance,\Net on devrait éviter la catastrophe.
+Dialogue: 0,0:17:31.15,0:17:33.03,Default,Shion,0000,0000,0000,,Regardez, maître Limule !
+Dialogue: 0,0:17:35.95,0:17:38.57,Default,Shion,0000,0000,0000,,La route détruite\Nlors de l’attaque de Charybde
+Dialogue: 0,0:17:38.78,0:17:40.58,Default,Shion,0000,0000,0000,,est presque comme neuve.
+Dialogue: 0,0:17:40.70,0:17:43.20,Default,Limule,0000,0000,0000,,C’est vrai ! Ils travaillent vite !
+Dialogue: 0,0:17:43.33,0:17:45.12,Default,Shion,0000,0000,0000,,On peut compter sur Gerudo.
+Dialogue: 0,0:17:53.21,0:17:54.71,Default,Gerudo,0000,0000,0000,,On est dans les temps.
+Dialogue: 0,0:17:54.96,0:17:58.72,Default,Orc,0000,0000,0000,,Sire Gerudo, il faudrait commander\Ndes pavés supplémentaires.
+Dialogue: 0,0:17:58.84,0:18:01.60,Default,Gerudo,0000,0000,0000,,Très bien,\Nje contacterai la carrière.
+Dialogue: 0,0:18:01.72,0:18:02.43,Default,Orc,0000,0000,0000,,Merci.
+Dialogue: 0,0:18:03.35,0:18:04.56,Default,Orc,0000,0000,0000,,Regardez…
+Dialogue: 0,0:18:10.36,0:18:13.15,Default,Gerudo,0000,0000,0000,,C’est aujourd’hui\Nque vous vous rendez à Dwargon ?
+Dialogue: 0,0:18:13.27,0:18:13.98,Default,Limule,0000,0000,0000,,Oui.
+Dialogue: 0,0:18:14.11,0:18:17.53,Default,Limule,0000,0000,0000,,La route est bien faite,\Non est pas trop secoués.
+Dialogue: 0,0:18:17.65,0:18:18.32,Default,Gerudo,0000,0000,0000,,Merci.
+Dialogue: 0,0:18:18.45,0:18:21.62,Default,Gerudo,0000,0000,0000,,Comme nous l’avons réparée\Nà partir de Dwargon,
+Dialogue: 0,0:18:21.74,0:18:24.74,Default,Gerudo,0000,0000,0000,,la fin de votre voyage\Nse fera sur pavés.
+Dialogue: 0,0:18:25.70,0:18:27.75,Default,Limule,0000,0000,0000,,Ce sera encore plus agréable !
+Dialogue: 0,0:18:27.91,0:18:28.83,Default,Limule,0000,0000,0000,,Bon boulot !
+Dialogue: 0,0:18:29.67,0:18:30.92,Default,Gerudo,0000,0000,0000,,Je vous remercie.
+Dialogue: 0,0:18:31.21,0:18:31.96,Default,Limule,0000,0000,0000,,Bon…
+Dialogue: 0,0:18:37.55,0:18:38.51,Default,Gerudo,0000,0000,0000,,Qu’est-ce là ?
+Dialogue: 0,0:18:38.84,0:18:39.88,Default,Limule,0000,0000,0000,,De la bière.
+Dialogue: 0,0:18:40.43,0:18:41.80,Default,Ensemble,0000,0000,0000,,De la bière !
+Dialogue: 0,0:18:42.22,0:18:44.01,Default,Limule,0000,0000,0000,,Buvez avec modération !
+Dialogue: 0,0:18:44.14,0:18:44.97,Default,Gerudo,0000,0000,0000,,Bien !
+Dialogue: 0,0:18:46.22,0:18:48.81,Italique,Narration,0000,0000,0000,,Le voyage s’acheva sans encombre.
+Dialogue: 0,0:18:49.60,0:18:51.27,Italique,Narration,0000,0000,0000,,Quatre jours après notre départ,
+Dialogue: 0,0:18:51.77,0:18:54.82,Italique,Narration,0000,0000,0000,,nous arrivâmes devant Dwargon.
+Dialogue: 0,0:18:55.57,0:18:56.94,Default,Kaido,0000,0000,0000,,Ouvrez la porte !
+Dialogue: 0,0:18:57.07,0:19:01.16,Default,Badauds,0000,0000,0000,,Vu son attelage de monstres,\Nce doit être un gros bonnet.
+Dialogue: 0,0:19:01.28,0:19:03.62,Default,Badauds,0000,0000,0000,,Ce sont des monstres, ça ?
+Dialogue: 0,0:19:03.74,0:19:06.58,Default,Badauds,0000,0000,0000,,Leur chariot est bizarrement fichu.
+Dialogue: 0,0:19:06.95,0:19:08.41,Default,Kaido,0000,0000,0000,,Salut, frangin !
+Dialogue: 0,0:19:09.37,0:19:11.29,Default,Kaido,0000,0000,0000,,Tu as l’air en forme.
+Dialogue: 0,0:19:11.42,0:19:12.58,Default,Kaijin,0000,0000,0000,,Kaido !
+Dialogue: 0,0:19:12.71,0:19:14.63,Default,Kaijin,0000,0000,0000,,Ça faisait une paie ! Tu vas bien ?
+Dialogue: 0,0:19:14.75,0:19:17.38,Default,Kaijin,0000,0000,0000,,Moi, je m’amuse comme un petit fou.
+Dialogue: 0,0:19:17.51,0:19:20.55,Default,Kaido,0000,0000,0000,,Je m’en doutais,\Nc’est écrit sur ta figure.
+Dialogue: 0,0:19:20.68,0:19:22.14,Default,Kaido,0000,0000,0000,,Ça va aussi, vous autres ?
+Dialogue: 0,0:19:22.43,0:19:23.80,Default,Garm,0000,0000,0000,,On ne peut mieux !
+Dialogue: 0,0:19:23.97,0:19:24.72,Default,Dord,0000,0000,0000,,Oui.
+Dialogue: 0,0:19:25.81,0:19:28.43,Default,Kaido,0000,0000,0000,,Alors, où est donc M. Limule ?
+Dialogue: 0,0:19:30.44,0:19:33.15,Default,Kaido,0000,0000,0000,,C’est un chef d’État, à présent.
+Dialogue: 0,0:19:33.27,0:19:35.65,Default,Kaido,0000,0000,0000,,Je dois le saluer dans les règles.
+Dialogue: 0,0:19:35.86,0:19:38.69,Italique,Limule,0000,0000,0000,,Qu’est-ce qu’il raconte ?\NJe suis juste sous son…
+Dialogue: 0,0:19:38.94,0:19:43.24,Italique,Limule,0000,0000,0000,,Oh, j’avais oublié ! Il ne me connaît\Nque sous ma forme de slime.
+Dialogue: 0,0:19:44.12,0:19:45.70,Default,Kaido,0000,0000,0000,,Voici maître Limule.
+Dialogue: 0,0:19:47.49,0:19:49.08,Default,Garm,0000,0000,0000,,C’est maître Limule.
+Dialogue: 0,0:19:50.29,0:19:51.37,Default,Dord,0000,0000,0000,,Tu peux me croire.
+Dialogue: 0,0:19:54.75,0:19:56.79,Default,Limule,0000,0000,0000,,Ma foi, c’est une longue histoire…
+Dialogue: 0,0:19:57.63,0:20:01.22,Default,Kaido,0000,0000,0000,,M. Limule, je suis heureux\Nde vous voir en bonne santé…
+Dialogue: 0,0:20:01.59,0:20:04.51,Default,Kaido,0000,0000,0000,,Euh… bon, veuillez me suivre…
+Dialogue: 0,0:20:04.72,0:20:06.68,Italique,Limule,0000,0000,0000,,Forcément, ça perturbe.
+Dialogue: 0,0:20:08.43,0:20:11.77,Italique,Narration,0000,0000,0000,,Nous fîmes donc notre entrée\Nà Dwargon
+Dialogue: 0,0:20:12.19,0:20:15.81,Italique,Narration,0000,0000,0000,,et allâmes nous entretenir\Nsans plus tarder avec le roi Gazehr.
+Dialogue: 0,0:20:18.57,0:20:21.28,Default,Dorf,0000,0000,0000,,Vous semblez en grande forme,\Nsire Limule.
+Dialogue: 0,0:20:21.86,0:20:23.78,Default,Limule,0000,0000,0000,,Vous de même, sire Dorf.
+Dialogue: 0,0:20:25.74,0:20:27.62,Default,Dorf,0000,0000,0000,,Nul besoin d’être si formel.
+Dialogue: 0,0:20:28.03,0:20:30.75,Default,Dorf,0000,0000,0000,,Allons, Sa Majesté vous attend.
+Dialogue: 0,0:20:31.28,0:20:33.37,Italique,Narration,0000,0000,0000,,Dorf était\Nle chef des chevaliers-pégases
+Dialogue: 0,0:20:33.50,0:20:35.42,Italique,Narration,0000,0000,0000,,venus en renfort contre Charybde.
+Dialogue: 0,0:20:35.96,0:20:39.00,Italique,Narration,0000,0000,0000,,Faisant partie d’un bataillon secret\Naux ordres du roi,
+Dialogue: 0,0:20:39.13,0:20:42.42,Italique,Narration,0000,0000,0000,,ils se faisaient passer\Npour de simples fonctionnaires.
+Dialogue: 0,0:20:46.51,0:20:51.81,Default,Garde,0000,0000,0000,,Le chef de la Fédération\Nde Jura Tempest, sire Limule !
+Dialogue: 0,0:20:58.69,0:21:00.11,Default,Dorf,0000,0000,0000,,Je vous en prie, entrez.
+Dialogue: 0,0:21:06.86,0:21:11.29,Italique,Limule,0000,0000,0000,,Le roi de l’État armé de Dwargon,\NGazehr Dwargo…
+Dialogue: 0,0:21:12.62,0:21:14.83,Default,Gazehr,0000,0000,0000,,Ravi de te revoir, Limule !
+Dialogue: 0,0:21:24.51,0:21:25.93,Default,Clayman,0000,0000,0000,,Je vois…
+Dialogue: 0,0:21:29.30,0:21:30.68,Default,Clayman,0000,0000,0000,,Je te félicite.
+Dialogue: 0,0:21:30.93,0:21:33.39,Default,Clayman,0000,0000,0000,,Ton rapport était\Ndes plus intéressants.
+Dialogue: 0,0:21:33.60,0:21:34.81,Default,Clayman,0000,0000,0000,,Merci bien.
+Dialogue: 0,0:21:35.89,0:21:41.11,Default,Clayman,0000,0000,0000,,Il serait peut-être temps\Nque je te rende ton cœur…
+Dialogue: 0,0:21:43.19,0:21:46.20,Default,Clayman,0000,0000,0000,,Si tu pouvais rester encore\Nun peu à mon service,
+Dialogue: 0,0:21:46.32,0:21:48.61,Default,Clayman,0000,0000,0000,,cela me serait d’une grande aide.
+Dialogue: 0,0:21:49.87,0:21:53.24,Default,Myulan,0000,0000,0000,,Que souhaitez-vous\Nque je fasse, sire Clayman ?
+Dialogue: 0,0:21:53.37,0:21:55.79,Default,Clayman,0000,0000,0000,,Voyons… Que pourrais-je vouloir ?
+Dialogue: 0,0:21:56.16,0:21:59.96,Default,Clayman,0000,0000,0000,,C’est extrêmement simple,\Ntu verras…
+Dialogue: 0,0:22:00.92,0:22:02.46,Default,Clayman,0000,0000,0000,,Myulan…
+Dialogue: 0,0:23:36.60,0:23:39.43,Italique,Grand Sage,0000,0000,0000,,La prochaine fois :\N« De retour au paradis ».
